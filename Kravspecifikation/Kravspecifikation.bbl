@@ -1,0 +1,81 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[behat()]{Gherkin}
+behat.
+\newblock Writing features - gherkin language.
+\newblock URL \url{http://docs.behat.org/en/v2.5/guides/1.gherkin.html}.
+\newblock Last Visited d. 12.09.2017.
+
+\bibitem[Consortium()]{MoSCoW}
+Agile~Business Consortium.
+\newblock Moscow - analysis tool.
+\newblock URL
+  \url{https://www.agilebusiness.org/content/moscow-prioritisation-0}.
+\newblock Last Visited 12.09.2017.
+
+\bibitem[Torvalds(2017)]{GitRef}
+Linus Torvalds.
+\newblock {Git}, 2017.
+\newblock URL \url{https://git-scm.com/}.
+\newblock Last Visited d. 28.09.2017.
+
+\bibitem[Lamport(2015)]{LatexRef}
+Leslie Lamport.
+\newblock {Latex}, 2015.
+\newblock URL \url{https://www.latex-project.org/}.
+\newblock Last Visited d. 11.11.2017.
+
+\bibitem[Draw.io(2017)]{Draw.io}
+Draw.io.
+\newblock {Draw.io}, 2017.
+\newblock URL \url{https://www.draw.io/}.
+\newblock Last Visited 12.09.2017.
+
+\bibitem[Microsoft(2017)]{VisualStudio}
+Microsoft.
+\newblock {Visual Studio}, 2017.
+\newblock URL \url{https://www.visualstudio.com/}.
+\newblock Last Visited 23.09.2017.
+
+\bibitem[ZEN(2017)]{Zenhub}
+AXIOM ZEN.
+\newblock {Zenhub}, 2017.
+\newblock URL \url{https://www.zenhub.io/}.
+\newblock Last Visited 05.09.2017.
+
+\bibitem[van Heesch()]{DoxygenInfo}
+Dimitri van Heesch.
+\newblock Generate documentation from source code.
+\newblock Program.
+\newblock URL \url{http://www.stack.nl/~dimitri/doxygen/}.
+
+\bibitem[Xarmain()]{XamarinDoc}
+Xarmain.
+\newblock Xarmain dokumentation.
+\newblock URL \url{https://developer.xamarin.com}.
+\newblock Last Visited 05.09.2017.
+
+\bibitem[Firebase()]{FirebaseDoc}
+Google Firebase.
+\newblock Firebase dokumentation.
+\newblock URL
+  \url{https://components.xamarin.com/gettingstarted/firebaseiosdatabase}.
+\newblock Last Visited d. 20.09.2017.
+
+\bibitem[NUn()]{NUnit}
+Unit testing framework for .net.
+\newblock FrameWork.
+\newblock URL \url{http://nunit.github.io/}.
+
+\bibitem[Newtonsoft()]{Newton}
+Newtonsoft.
+\newblock Newtonsoft.json.
+\newblock URL \url{https://www.newtonsoft.com/json}.
+\newblock Last Visited d. 13.12.2017.
+
+\end{thebibliography}

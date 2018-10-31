@@ -1,0 +1,42 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Kravspecifikation.aux
+The style file: unsrtnat.bst
+Database file #1: ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "Gherkin" isn't style-file defined
+--line 1 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "MoSCoW" isn't style-file defined
+--line 8 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "GitRef" isn't style-file defined
+--line 43 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "LatexRef" isn't style-file defined
+--line 51 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "Draw.io" isn't style-file defined
+--line 59 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "VisualStudio" isn't style-file defined
+--line 67 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "Zenhub" isn't style-file defined
+--line 83 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "XamarinDoc" isn't style-file defined
+--line 91 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "FirebaseDoc" isn't style-file defined
+--line 107 of file ../BachelorRapport/Referencer/Referencer.bib
+I was expecting an "="---line 300 of file ../BachelorRapport/Referencer/Referencer.bib
+ :  
+ :  note = "Last Visited d. 07.11.2017",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 305 of file ../BachelorRapport/Referencer/Referencer.bib
+ :  
+ :  title = {ACID},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "Newton" isn't style-file defined
+--line 429 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--empty year in Gherkin
+Warning--empty year in MoSCoW
+Warning--empty year in DoxygenInfo
+Warning--empty year in XamarinDoc
+Warning--empty year in FirebaseDoc
+Warning--empty author in NUnit
+Warning--empty year in NUnit
+Warning--empty year in Newton
+(There were 2 error messages)
