@@ -1,0 +1,17 @@
+\section{Krav}
+For ethvert system er der opstillet en række funktionelle og ikke-funktionelle krav for at sikre at kunden og udvikleren er enige om, hvilke funktionaliteter systemet skal have samt systemets kapacitet og betingelser.
+
+For dette system er der tilknyttet fire aktører; to primære og to sekundære. Den ene primære aktør er en bruger, som betjener blodtryksmåleren. Den anden primære aktør er det tekniske personale, som skal foretage kalibreringen af systemet. Den ene sekundære aktør er blodtrykssensoren, som er et interface for patienten som er koblet til systemet. Den anden sekundære aktør er bluetooth højttaler, der bruges til at få afspillet alarmlydene.
+
+Aktørerne interagerer med systemet, hvilket opstiller 5 use cases (funktionelle krav). UC1 er hovedscenariet idet, der måles og vises blodtryk og puls, og angiver.  UC2 omhandler om at justér grænseværdier for puls samt systolisk- og diastolisk blodtryk. UC3 omhandler alarmeringen ift. ændringer i blodtryk samt puls eller ved fejl. UC4 omhandler funktionen at gemme patientens CPR, de opsamlede blodtryksdata samt puls gemmes i en privat database. UC5 omhandler kalibreringen af systemet. For yderligere detaljer se kravspecifikationen.
+
+Når der opstilles en række use cases, opstilles der samtidig en række ikke-funktionelle krav, der skal overholdes for at use casene kan udføres optimalt. Den samlede oversigt over de ikke-funktionelle krav ses i kravspecifikationen. Her er der valgt at beskrive fire funktionelle krav der har fået prioriteringen must have ift. MoSCOW-modellen.
+
+Systemet skal have en brugergrænseflade. Uden dette ikke-funktionelle krav ville udviklerne i princippet kunne vise de opsamlede data som de ville, og ikke som kunden ønsker det.
+
+Systemets GUI skal alarmere i henhold til punkt 1.12.4, hvis pulsen
+falder til under 60 slag i minuttet og overstiger 120 slag i minuttet  og at Systemet skal
+alarmere i henhold til punkt 12.1.4, hvis blodtrykket falder til under 60
+diastolisk eller stiger til over 160 diastolisk. Dette er  et vigtigt ikke-funktionel krav, da brugeren skal reagere hurtigt hvis patientens blodtryk eller puls falder eller stiger, da det kan være livstruende.
+
+Diagrammet samt de viste værdier for puls skal kunne læses på op til 1,5 meters afstand af person uden synshandicap, eller som benytter korrekt korrigerende midler, og må ikke indeholde farver som påvirker folk med farveblindhed. I brugssituationen i en operationsstue kan det ske at brugeren måler patientens blodtryk, og samtidig skal ordne noget ved fødderne, og dermed skal kunne læse værdien for puls og diagrammet på 1,5 meters afstand. Ligeledes skal der tages højde for at brugeren kan være farveblind, og dermed skal der benyttes andre farver end rød og grøn.\\

@@ -3,5 +3,13 @@
 ~\hfill \textbf {Side}\par 
 \contentsline {chapter}{\chapternumberline {\color {RoyalBlue}1}Indledning}{5}{chapter.1}
 \contentsline {chapter}{\chapternumberline {\color {RoyalBlue}2}Projektformulering}{6}{chapter.2}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Teori}{7}{chapter.3}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}1}Fysiologi}{7}{section.3.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}1}Projektformulering}{6}{section.2.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}2}Problemformulering}{6}{section.2.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}3}Krav}{7}{section.2.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}4}Afgr\IeC {\ae }nsning}{7}{section.2.4}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Teori}{9}{chapter.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}1}Fysiologi}{9}{section.3.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}2}Blodtryksm\IeC {\r a}ling}{9}{section.3.2}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}4}Kravspecifikation}{10}{chapter.4}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}1}Use Case diagram}{10}{section.4.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}2}Akt\IeC {\o }rbeskrivelser}{10}{section.4.2}
