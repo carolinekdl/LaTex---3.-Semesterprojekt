@@ -6,4 +6,24 @@ En af de software mæssige afgrænsninger i systemet, er at der ikke kan hentes 
 
 Det er nødvendigt at man manuelt skal foretage en nulpunktsjustering inden hver måling igangsættes, for at sikre sig at man ikke måler det atmosfæriske tryk med. Sker dette ville vores system ikke kunne registrere værdierne, da vi har bygget systemet efter at kunne håndtere et max tryk på 250 mmHg. Derudover skal der årligt laves en kalibrering af systemet, for at sikre en vedvarende præcision af systemet. Dette foretages af en teknisk person, som sørger for at et kendt tryk svarer til en kendt spænding, således systemet måler korrekt.\\
 
-Der er valgt en række værdier ifm. Udviklingen af hardwaren, hvilket gør at den er begrænset i forhold til hvilke størrelser af værdier den kan håndtere. Forstærkeren kræver nogle specifikke modstande, for at operationsforstærkeren skal forstærke op til de 4 V, som vi har valgt vores system skal kunne. Derudover skal systemet benytte en tryktransducer med en sensitivitet på 5,0 µV/(V*mmHg), da denne værdi indgår i en beregning af Vout som forstærkeren skal kunne levere.\clearpage
+Der er valgt en række værdier ifm. Udviklingen af hardwaren, hvilket gør at den er begrænset i forhold til hvilke størrelser af værdier den kan håndtere. Forstærkeren kræver nogle specifikke modstande, for at operationsforstærkeren skal forstærke op til de 4 V, som vi har valgt vores system skal kunne. Derudover skal systemet benytte en tryktransducer med en sensitivitet på 5,0 µV/(V*mmHg), da denne værdi indgår i en beregning af Vout som forstærkeren skal kunne levere.
+
+\subsection{Ikke-funktionelle krav}
+\vspace{0.3 cm}
+MoSCoW bruges til at definere forskellige krav til systemet. I dette afsnit vil nogle af de vigtigste krav være opstillet. For alle krav henvises til dokumentet kravspecifikation afsnit xx. 
+
+\vspace{0.5 cm}
+\textbf{Must have}
+\begin{enumerate}
+	\item Systemet skal kunne kalibreres (F, U)
+	\item Systemet skal kunne nulpunktsjusteres (F, U)
+	\item Systemet skal kunne måle og vise et blodtryk på 250 mmHg ved normal atmosfærisk tryk (P)
+	\item Systemet skal kunne måle og vise en puls på mellem 30 og 220 slag pr. minut
+	\item Systemets GUI skal kunne vise en graf inden for 10 sekunder (R)
+	\item Systemets GUI skal kunne stoppe målingen inden for 5 sekunder (R)
+	\item Systemets GUI skal kunne vise systolisk-, diastolisk-, og median blodtryk samt puls i form af heltal (U)
+	\item Systemet skal kunne alarmere i henhold til systembeskrivelsen afsnit xx i dokumentet kravspecifikation (P)
+\end{enumerate}
+
+ 
+\clearpage

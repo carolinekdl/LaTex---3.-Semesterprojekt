@@ -1,12 +1,59 @@
-\BOOKMARK [0][-]{chapter.1}{Indledning}{}% 1
-\BOOKMARK [0][-]{chapter.2}{Projektformulering}{}% 2
-\BOOKMARK [1][-]{section.2.1}{Projektformulering}{chapter.2}% 3
-\BOOKMARK [1][-]{section.2.2}{Problemformulering}{chapter.2}% 4
-\BOOKMARK [1][-]{section.2.3}{Krav}{chapter.2}% 5
-\BOOKMARK [1][-]{section.2.4}{Afgr\346nsning}{chapter.2}% 6
-\BOOKMARK [0][-]{chapter.3}{Teori}{}% 7
-\BOOKMARK [1][-]{section.3.1}{Fysiologi}{chapter.3}% 8
-\BOOKMARK [1][-]{section.3.2}{Blodtryksm\345ling}{chapter.3}% 9
-\BOOKMARK [0][-]{chapter.4}{Kravspecifikation}{}% 10
-\BOOKMARK [1][-]{section.4.1}{Use Case diagram}{chapter.4}% 11
-\BOOKMARK [1][-]{section.4.2}{Akt\370rbeskrivelser}{chapter.4}% 12
+\BOOKMARK [0][-]{chapter.1}{Ordliste}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Indledning}{}% 2
+\BOOKMARK [0][-]{chapter.3}{Projektformulering}{}% 3
+\BOOKMARK [1][-]{section.3.1}{Projektformulering}{chapter.3}% 4
+\BOOKMARK [1][-]{section.3.2}{Problemformulering}{chapter.3}% 5
+\BOOKMARK [0][-]{chapter.4}{Teori}{}% 6
+\BOOKMARK [1][-]{section.4.1}{Fysiologi}{chapter.4}% 7
+\BOOKMARK [1][-]{section.4.2}{Blodtryksm\345ling}{chapter.4}% 8
+\BOOKMARK [0][-]{chapter.5}{Systembeskrivelse}{}% 9
+\BOOKMARK [1][-]{section.5.1}{Systemoversigt}{chapter.5}% 10
+\BOOKMARK [1][-]{section.5.2}{Systembeskrivelse}{chapter.5}% 11
+\BOOKMARK [2][-]{subsection.5.2.1}{Alarmer}{section.5.2}% 12
+\BOOKMARK [0][-]{chapter.6}{Kravspecifikation}{}% 13
+\BOOKMARK [1][-]{section.6.1}{Krav}{chapter.6}% 14
+\BOOKMARK [1][-]{section.6.2}{Use Case diagram}{chapter.6}% 15
+\BOOKMARK [1][-]{section.6.3}{Akt\370rbeskrivelser}{chapter.6}% 16
+\BOOKMARK [1][-]{section.6.4}{Use Case beskrivelser}{chapter.6}% 17
+\BOOKMARK [2][-]{subsection.6.4.1}{Use Case 1: M\345l og vis blodtryk og puls}{section.6.4}% 18
+\BOOKMARK [2][-]{subsection.6.4.2}{Use Case 2: Just\351r gr\346nsev\346rdier}{section.6.4}% 19
+\BOOKMARK [2][-]{subsection.6.4.3}{Use Case 3: Alarmering}{section.6.4}% 20
+\BOOKMARK [2][-]{subsection.6.4.4}{Use Case 4: Gem data}{section.6.4}% 21
+\BOOKMARK [2][-]{subsection.6.4.5}{Use Case 5: Kalibrering}{section.6.4}% 22
+\BOOKMARK [1][-]{section.6.5}{Afgr\346nsning}{chapter.6}% 23
+\BOOKMARK [2][-]{subsection.6.5.1}{Ikke-funktionelle krav}{section.6.5}% 24
+\BOOKMARK [0][-]{chapter.7}{Arkitektur og design}{}% 25
+\BOOKMARK [1][-]{section.7.1}{Hardwarearkitektur}{chapter.7}% 26
+\BOOKMARK [2][-]{subsection.7.1.1}{BDD}{section.7.1}% 27
+\BOOKMARK [2][-]{subsection.7.1.2}{IBD}{section.7.1}% 28
+\BOOKMARK [1][-]{section.7.2}{Hardwaredesign}{chapter.7}% 29
+\BOOKMARK [2][-]{subsection.7.2.1}{Forst\346rker}{section.7.2}% 30
+\BOOKMARK [2][-]{subsection.7.2.2}{Anti-aliaserings filter}{section.7.2}% 31
+\BOOKMARK [2][-]{subsection.7.2.3}{Printplade}{section.7.2}% 32
+\BOOKMARK [1][-]{section.7.3}{Softwarearkitektur}{chapter.7}% 33
+\BOOKMARK [2][-]{subsection.7.3.1}{Dom\346nemodel}{section.7.3}% 34
+\BOOKMARK [1][-]{section.7.4}{Softwaredesign}{chapter.7}% 35
+\BOOKMARK [0][-]{chapter.8}{Implementering og test}{}% 36
+\BOOKMARK [1][-]{section.8.1}{Hardwareimplementering}{chapter.8}% 37
+\BOOKMARK [1][-]{section.8.2}{Test af hardware}{chapter.8}% 38
+\BOOKMARK [2][-]{subsection.8.2.1}{Forst\346rker}{section.8.2}% 39
+\BOOKMARK [2][-]{subsection.8.2.2}{Anti-aliaseringsfilter}{section.8.2}% 40
+\BOOKMARK [2][-]{subsection.8.2.3}{Test af printplade}{section.8.2}% 41
+\BOOKMARK [1][-]{section.8.3}{Softwareimplementering}{chapter.8}% 42
+\BOOKMARK [1][-]{section.8.4}{Test af software}{chapter.8}% 43
+\BOOKMARK [2][-]{subsection.8.4.1}{Modultest}{section.8.4}% 44
+\BOOKMARK [2][-]{subsection.8.4.2}{Integrationstest}{section.8.4}% 45
+\BOOKMARK [0][-]{chapter.9}{Resultater}{}% 46
+\BOOKMARK [1][-]{section.9.1}{Hardwareresultater}{chapter.9}% 47
+\BOOKMARK [1][-]{section.9.2}{Diskussion af resultater}{chapter.9}% 48
+\BOOKMARK [1][-]{section.9.3}{Softwareresultater}{chapter.9}% 49
+\BOOKMARK [1][-]{section.9.4}{Diskussion af resultater}{chapter.9}% 50
+\BOOKMARK [0][-]{chapter.10}{Udviklingsproces}{}% 51
+\BOOKMARK [1][-]{section.10.1}{Metode}{chapter.10}% 52
+\BOOKMARK [1][-]{section.10.2}{Proces}{chapter.10}% 53
+\BOOKMARK [1][-]{section.10.3}{Programmer}{chapter.10}% 54
+\BOOKMARK [0][-]{chapter.11}{Erfaringer}{}% 55
+\BOOKMARK [0][-]{chapter.12}{Fremtidigt arbejde}{}% 56
+\BOOKMARK [0][-]{chapter.13}{Konklusion}{}% 57
+\BOOKMARK [0][-]{chapter.14}{Bilag}{}% 58
+\BOOKMARK [0][-]{chapter.15}{Referencer}{}% 59
