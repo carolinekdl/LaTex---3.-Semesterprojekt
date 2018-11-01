@@ -1,0 +1,40 @@
+\chapter{Ikke funktionelle krav}
+Nedenfor beskrives de ikke-funktionelle krav for systemet. MoSCoW-modellen inddeler kravene for systemet i henholdsvis: Must have, Should have, Could have og Won’t have, for herved at skabe et overblik over de opstillede systemkrav. De enkelte punkters placering i forhold til FURPS+ er angivet i parentes.  FURPS+ står for Functionality, Usability, Reliability, Performance, Supportability, og plusset for begrænsninger i forhold til udformning af systemet.
+
+
+\section{Must have:}
+\begin{enumerate}[4.1]
+	\item Systemet skal indeholde et elektronisk kredsløb, som forstærker signalet fra tryktransducere (F)
+	\item Systemet skal kunne filtrer signalet fra tryktransduceren med et analogt filter (F)
+	\item Systemet skal have en brugergrænseflade (U)
+	\item Systemet skal kunne filtrere blodtrykket via et digitalt filter (F)
+	\item Systemets GUI skal indeholde elementerne beskrevet under punkt 1 systembeskrivelse i kravspecifikationen.  
+	\item Systemets GUI skal kunne vise en graf inden for 10 sekunder.(R)
+	\item Systemet skal kunne stoppe målingen inden for 5 sekunder.
+	\item Systemet skal kunne give alarm i henhold til punkt 1.12(F)
+	\item Al data på både tal- og graf-form skal kunne slettes(F)
+	\item Systemet skal kunne kalibreres (F,U)
+	\item Systemet skal kunne foretage en nulpunktsjustering (F,U)
+	\item Systemets GUI skal vise systolisk/diastolisk blodtryk og middelblodstryk som hele tal, og den beregnede puls som decimaltal med maks en decimal. (U)
+	\item Systemets GUI skal vise en puls på mellem 30 slag pr. minut og 220 slag pr. minut (P).
+	\item Systemets GUI skal alarmere i henhold til punkt 1.12.4, hvis pulsen falder til under 60 slag i minuttet og overstiger 120 slag i minuttet (P)
+	\item Systemets GUI skal have et diagram, som indeholder en graf der viser de opsamlede blodtryksdata samt puls (F,U)
+	\item Systemet skal have baggrundsbelysning tilpasset brugssituationen. (U)
+	\item Systemet skal kunne ses fra 1,5 meters afstand i skarpt sollys af en person uden synshandicap, eller som benytter korrekt korrigerende midler.
+	\item Diagrammet samt de viste værdier for puls og middelblodtrykket, samt diastolisk/systolisk blodtryk, skal kunne læses på op til 1,5 meters afstand af person uden synshandicap, eller som benytter korrekt korrigerende midler, og må ikke indeholde farver som påvirker folk med farveblindhed (U)
+	\item Systemet skal kunne sample med en frekvens på 1000 Hz (P)
+	\item Systemet skal alarmere i henhold til punkt 12.1.4, hvis blodtrykket falder til under 60 diastolisk eller stiger til over 160 diastolisk (P)
+	\item Middelblodtrykket skal kunne beregnes og vises på GUI’en (P)
+
+\section{Should have:}
+		\item Systemets værdier samt graf bør kunne læses/ses fra 1 meters afstand for en person med normalt syn. Normal syn defineres som en styrke på maks ±0,5 (U)
+	
+\section{Could have:}
+	\item Systemet kunne gemme de opsamlede blodtryksdata samt puls i en privat database på baggrund af indtastet CPR-nummer, datoangivelse samt klokkeslæt og ID-nummer. (F, R)
+	\item Systemet kunne have et lydsignal ved afsluttet blodtryksmåling. (F, U)
+	\item Systemet kunne afbilde EKG-måling i forhold til den viste puls (P)
+	\item Systemet kunne have muligheden at åbne og afbilde en ældre gemt fil (P)
+
+\section{Won't have:}
+	\item Systemet kan ikke vise andet end blodtryksmålingen samt angive puls, diastolisk/systolisk blodtryk (F) 
+\end{enumerate}

@@ -1,0 +1,92 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[UML.org()]{UML}
+UML.org.
+\newblock Uml.
+\newblock URL \url{http://www.uml.org/}.
+\newblock Last Visited d. 24.11.2017.
+
+\bibitem[Inc({\natexlab{a}})]{UIViewController}
+Apple Inc.
+\newblock Uiviewcontroller - uikit | apple developer documentation,
+  {\natexlab{a}}.
+\newblock URL
+  \url{https://developer.apple.com/documentation/uikit/uiviewcontroller}.
+\newblock Last Visited d. 16.12.2017.
+
+\bibitem[Google()]{FirebaseAnalytic}
+Google.
+\newblock Firebase analytics.
+\newblock URL \url{https://firebase.google.com/docs/analytics/}.
+\newblock Last Visited d. 15.12.2017.
+
+\bibitem[Inc({\natexlab{b}})]{CON}
+Techopedia Inc.
+\newblock What is a console (con)? - definition from techopedia,
+  {\natexlab{b}}.
+\newblock URL \url{https://www.techopedia.com/definition/1906/console-con}.
+\newblock Last Visited d. 15.12.2017.
+
+\bibitem[Firebase({\natexlab{a}})]{FirebaseAuth}
+Firebase.
+\newblock Firebase authentication, {\natexlab{a}}.
+\newblock URL \url{https://firebase.google.com/products/auth/}.
+\newblock Last Visited d. 18.10.2017.
+
+\bibitem[Inc({\natexlab{c}})]{rootNode}
+Techopedia Inc.
+\newblock What is a root node? - definition from techopedia, {\natexlab{c}}.
+\newblock URL \url{https://www.techopedia.com/definition/21839/root-node}.
+\newblock Last Visited d. 07.12.2017.
+
+\bibitem[Beal()]{GUID}
+Vangie Beal.
+\newblock What is guid? webopedia definition.
+\newblock URL \url{https://www.webopedia.com/TERM/G/GUID.html}.
+\newblock Last Visited d. 07.12.2017.
+
+\bibitem[Inc({\natexlab{d}})]{KVP}
+Techopedia Inc.
+\newblock What is key-value pair (kvp)? - definition from techopedia,
+  {\natexlab{d}}.
+\newblock URL
+  \url{https://www.techopedia.com/definition/13645/key-value-pair-kvp}.
+\newblock Last Visited d. 07.12.2017.
+
+\bibitem[Firebase({\natexlab{b}})]{FirebaseStorage}
+Firebase.
+\newblock Firebase storage, {\natexlab{b}}.
+\newblock URL \url{https://firebase.google.com/products/storage/}.
+\newblock Last Visited d. 19.10.2017.
+
+\bibitem[Xamarin()]{Forms}
+Xamarin.
+\newblock Forms.
+\newblock URL \url{https://www.xamarin.com/forms}.
+\newblock Last Visited d. 15.11.2017.
+
+\bibitem[TutorialsTeacher()]{MVC}
+TutorialsTeacher.
+\newblock Mvc.
+\newblock URL \url{http://www.tutorialsteacher.com/mvc/mvc-architecture}.
+\newblock Last Visited d. 04.12.2017.
+
+\bibitem[Inc({\natexlab{e}})]{Event}
+Techopedia Inc.
+\newblock What is an event handler in c\#? - definition from techopedia,
+  {\natexlab{e}}.
+\newblock URL \url{https://www.techopedia.com/definition/3220/event-handler-c}.
+\newblock Last Visited d. 15.12.2017.
+
+\bibitem[Inc({\natexlab{f}})]{Memory}
+Techopedia Inc.
+\newblock What is a memory leak? - definition from techopedia, {\natexlab{f}}.
+\newblock URL \url{https://www.techopedia.com/definition/3838/memory-leak}.
+\newblock Last Visited d. 15.12.2017.
+
+\end{thebibliography}

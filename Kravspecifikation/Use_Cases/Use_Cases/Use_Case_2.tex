@@ -1,0 +1,32 @@
+\subsection{Use Case 2: Justér grænseværdier}
+\begin{table}[h!]
+	\begin{tabular}{l|l}
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Navn} & UC2: Juster grænseværdier \\ \hline
+		\textbf{Mål} & At justere grænseværdier \\ \hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Initiering} & Bruger \\ \hline
+		\textbf{Aktører} & Primær: Bruger \\
+		\textbf{} & Sekundær: Blodtrykssensor \\ \hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Antal samtidige forekomster} & 1 \\ \hline
+		\textbf{Prækondition} & Blodtryksmåleren er ledig og operationel. \\ \hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Postkondition} & Blodtryksmålerens grænseværdier er justeret. \\ \hline
+		\textbf{Hovedscenarie} & 2.1 Bruger trykker på “Juster grænseværdier” på \\
+		\textbf{} & brugergrænsefladen \\
+		\textbf{} & 2.2 Bruger indtaster grænseværdier \\
+		\textbf{} & 2.3 Bruger trykker på "OK" \\
+		\textbf{} & 2.4 Systemet accepterer justeringerne \\
+		\textbf{} & {[}Extension 2a: Systemet afviser justeringerne{]} \\
+		\textbf{} & 2.4 Systemet kommer med en informations- \\
+		\textbf{} & meddelelse om der er sket en justering af grænse- \\ 
+		\textbf{} & værdierne \\\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Udvidelser/undtagelser} & {[}Extension 2a: Systemet afviser justeringerne{]} \\
+		\rowcolor[HTML]{A9D9F9} 
+		& 2a.1 Systemet meddeler at grænseværdierne er ugyldige. \\
+		\rowcolor[HTML]{A9D9F9} 
+		& 2a.2 Use case afsluttes
+	\end{tabular}
+\end{table}

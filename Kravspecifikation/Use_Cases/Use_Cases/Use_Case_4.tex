@@ -1,0 +1,65 @@
+\subsection{Use Case 4: Gem data}
+\vspace{0.8 cm}
+\begin{table}[h!]
+	\begin{tabular}{l|l}
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Navn} & Use Case 4: Gem data \\
+		\hline
+		\textbf{Mål} & At data for blodtryksmålingen bliver gemt i en fil \\
+		\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Initiering} & Bruger \\
+		\hline
+		\textbf{Aktører} & Primær: Bruger \\
+		\textbf{} & Sekundær: Blodtrykssensor \\
+		\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Antal samtidige forekomster} & 1 \\
+		\hline
+		\textbf{Prækondition} & Use case 1 er udført og data er klar til at blive gemt \\
+		\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Postkondition} & Data for blodtryks og puls er blevet gemt i en fil \\
+		\hline
+		\textbf{Hovedscenarie} & 4.1 Brugeren trykker på “gem data”-knappen \\
+		& 4.2 Pop-up-vindue kommer frem med tre felter, der skal \\
+		& udfyldes, til oplysningerne: patientens CPR-nummer og \\
+		& personales ID. \\
+		& 4.3 Brugeren udfylder de to felter. \\
+		& 4.4 Brugeren trykker “Gem”. \\
+		& {[}Extension 4a: Ugyldigt CPR-nummer{]} \\
+		& 4.5 Data for blodtryks signalet, puls og systolisk/diastolisk \\
+		& blodtryk, middelblodtryk, personales ID, kalibreringsdato, \\
+		& nulpunktsjusterings-værdi, filter-status og patientens \\
+		& CPR-nummer bliver gemt i en fil \\
+		& {[}Extension 4b: Det er ikke muligt at gemme data{]}. \\
+		& 4.6 Systemet giver besked om data’en er gemt. \\
+		& 4.7 Brugeren trykker “OK”, hvorefter systemet vender \\
+		& tilbage til brugergrænsefladen. \\
+		& 4.8 Use casen afsluttes. \\
+		\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Udvidelser/undtagelser} & {[}Extension 4a: Ugyldigt CPR-nummer{]} \\
+		\rowcolor[HTML]{A9D9F9} 
+		& 4a.1 Der vises en besked om at data ikke er gemt, da \\
+		\rowcolor[HTML]{A9D9F9} 
+		& CPR-nummeret var ugyldigt samt en besked om, at man skal \\
+		\rowcolor[HTML]{A9D9F9} 
+		& tjekke CPR-nummeret. Hvis det er korrekt, trykkes “Gem”. \\
+		\rowcolor[HTML]{A9D9F9} 
+		& 4a.2 Der vises en besked om, at data er gemt. \\
+		\rowcolor[HTML]{A9D9F9} 
+		& 4a.3 Use casen fortsætter fra punkt 4.7 \\
+		\rowcolor[HTML]{A9D9F9} 
+		&  \\
+		\rowcolor[HTML]{A9D9F9} 
+		& {[}Extension 4b: Det er ikke muligt at gemme data{]}. \\
+		\rowcolor[HTML]{A9D9F9} 
+		& 4b.1 Systemet  giver besked om at det ikke er muligt at \\
+		\rowcolor[HTML]{A9D9F9} 
+		& gemme data. \\
+		\rowcolor[HTML]{A9D9F9} 
+		& 4b.2 Use casen fortsætter fra punkt 4.3
+	\end{tabular}
+\end{table}
+\clearpage

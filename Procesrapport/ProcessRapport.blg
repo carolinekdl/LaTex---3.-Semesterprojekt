@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: ProcessRapport.aux
+The style file: unsrtnat.bst
+Database file #1: ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "ASE" isn't style-file defined
+--line 98 of file ../BachelorRapport/Referencer/Referencer.bib
+I was expecting an "="---line 300 of file ../BachelorRapport/Referencer/Referencer.bib
+ :  
+ :  note = "Last Visited d. 07.11.2017",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 305 of file ../BachelorRapport/Referencer/Referencer.bib
+ :  
+ :  title = {ACID},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "Vandfald" isn't style-file defined
+--line 351 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "Kanban" isn't style-file defined
+--line 379 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--empty year in Kanban
+Warning--empty year in Vandfald
+(There were 2 error messages)

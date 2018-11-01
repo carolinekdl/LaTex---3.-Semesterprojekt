@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: ArkitekturDesign.aux
+The style file: unsrtnat.bst
+Database file #1: ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "FirebaseAuth" isn't style-file defined
+--line 206 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "FirebaseStorage" isn't style-file defined
+--line 227 of file ../BachelorRapport/Referencer/Referencer.bib
+I was expecting an "="---line 300 of file ../BachelorRapport/Referencer/Referencer.bib
+ :  
+ :  note = "Last Visited d. 07.11.2017",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 305 of file ../BachelorRapport/Referencer/Referencer.bib
+ :  
+ :  title = {ACID},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "UML" isn't style-file defined
+--line 358 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "MVC" isn't style-file defined
+--line 372 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "Forms" isn't style-file defined
+--line 386 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "rootNode" isn't style-file defined
+--line 407 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "GUID" isn't style-file defined
+--line 415 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "KVP" isn't style-file defined
+--line 422 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "Event" isn't style-file defined
+--line 451 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "Memory" isn't style-file defined
+--line 459 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "UIViewController" isn't style-file defined
+--line 480 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--entry type for "CON" isn't style-file defined
+--line 486 of file ../BachelorRapport/Referencer/Referencer.bib
+Repeated entry---line 492 of file ../BachelorRapport/Referencer/Referencer.bib
+ : @online{UML
+ :            ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "FirebaseAnalytic" isn't style-file defined
+--line 499 of file ../BachelorRapport/Referencer/Referencer.bib
+Warning--empty year in UML
+Warning--empty year in UIViewController
+Warning--empty year in FirebaseAnalytic
+Warning--empty year in CON
+Warning--empty year in FirebaseAuth
+Warning--empty year in rootNode
+Warning--empty year in GUID
+Warning--empty year in KVP
+Warning--empty year in FirebaseStorage
+Warning--empty year in Forms
+Warning--empty year in MVC
+Warning--empty year in Event
+Warning--empty year in Memory
+(There were 3 error messages)

@@ -1,0 +1,47 @@
+\subsection{Use Case 5: Kalibrering}
+\vspace{0.8 cm}
+\begin{table}[h!]
+	\begin{tabular}{l|l}
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Navn} & Use Case 5: Kalibrering \\
+		\hline
+		\textbf{Mål} & Kalibrering af blodtryksmåleren \\
+		\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Initiering} & Bruger \\
+		\hline
+		\textbf{Aktører} & Primær: Bruger \\
+		\textbf{} & Sekundær: Blodtrykssensor \\
+		\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Antal samtidige forekomster} & 1 \\
+		\hline
+		\textbf{Prækondition} & Blodtryksmåleren er ledig og operationel. Samt at det er tid \\
+		\textbf{} & til kalibrering i henhold til kalibreringsdatoen i loggen. \\
+		\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Postkondition} & Blodtryksmåleren er kalibreret og kalibreringsdatoen er \\
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{} & opdateret i loggen. \\
+		\hline
+		\textbf{Hovedscenarie} & 5.1 Tekniske personale igangsætter kalibrering ved tryk på \\
+		& “kalibrer”-knappen. Der vises en meddelelse, der beder det \\
+		& tekniske personale opstille vandsøjlen. \\
+		& 5.2 Det tekniske personale opstiller vandsøjlen til Trykværdi \\
+		& og vælger den samme Trykværdi på brugergrænsefladen og \\
+		& trykker på “mål”. \\
+		& 5.3 Systemet måler spændingen, der angives på en graf med \\
+		& spænding på 2. aksen og mmHg på 1.aksen på bruger- \\
+		& grænsefladen. \\
+		& 5.4 Efter tre målinger med kendte spændinger og tryk \\
+		& trykker det tekniske personale på knappen “Vis \\
+		& regressionsligning”. Hvorefter systemet laver lineær regression  \\
+		& ud fra de tre kendte punkter. \\
+		& 5.5 Det tekniske personale trykker på “Benyt kalibreringen”. \\
+		& 5.6 Systemet giver besked om godkendt kalibrering \\
+		& 5.7 Systemet er klar til at måle. \\
+		\hline
+		\rowcolor[HTML]{A9D9F9} 
+		\textbf{Udvidelser/undtagelser} & Ingen
+	\end{tabular}
+\end{table}

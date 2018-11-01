@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  1 NOV 2018 01:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  1 NOV 2018 11:25
 entering extended mode
 **./Kravspecifikation.tex
 (Kravspecifikation.tex
@@ -1374,7 +1374,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
 ") (Forside/Forside.tex
-<Forside/AUlogo.png, id=11, 498.06075pt x 152.36925pt>
+<Forside/AUlogo.png, id=111, 498.06075pt x 152.36925pt>
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
@@ -1388,7 +1388,7 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 {C:/Users/carol/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Forside/A
 Ulogo.png>]) (Versionshistorik/Versionshistorik.tex
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd")
-Overfull \hbox (15.09514pt too wide) in paragraph at lines 4--22
+Overfull \hbox (15.09514pt too wide) in paragraph at lines 4--24
  [][] 
  []
 
@@ -1432,15 +1432,102 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
+(Systembeskrivelse/Beskrivelse/Systembeskrivelse.tex
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 [6
 
-]) (FunktionelleKrav/FunktionelleKrav.tex)
-(IkkeFunktionelleKrav/IkkeFunktionelleKrav.tex) (Afgraensning/Afgraensning.tex)
+]) [7]
+<Systembeskrivelse/Systemoversigt.png, id=202, 1030.60031pt x 722.7pt>
+File: Systembeskrivelse/Systemoversigt.png Graphic file (type png)
+<use Systembeskrivelse/Systemoversigt.png>
+Package pdftex.def Info: Systembeskrivelse/Systemoversigt.png  used on input li
+ne 9.
+(pdftex.def)             Requested size: 250.25139pt x 175.48059pt.
+<Systembeskrivelse/Brugergraenseflade.png, id=204, 1365.1pt x 727.71875pt>
+File: Systembeskrivelse/Brugergraenseflade.png Graphic file (type png)
+<use Systembeskrivelse/Brugergraenseflade.png>
+Package pdftex.def Info: Systembeskrivelse/Brugergraenseflade.png  used on inpu
+t line 22.
+(pdftex.def)             Requested size: 318.49861pt x 169.78137pt.
+ [8
+
+ <./Systembeskrivelse/Systemoversigt.png> <./Systembeskrivelse/Brugergraensefla
+de.png>]) (FunktionelleKrav/FunktionelleKrav.tex
+
+Class memoir Warning: X Columns too narrow (table too wide)
+(memoir)               on input line 1.
+
+
+Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+[]|[]| 
+ []
+
+
+Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
+[][] 
+ []
+
+(FunktionelleKrav/Aktoer_kontekst_diagram/Aktoer_kontekst_diagram.tex
+<FunktionelleKrav/Aktoer_kontekst_diagram.png, id=212, 534.71196pt x 239.60947p
+t>
+File: FunktionelleKrav/Aktoer_kontekst_diagram.png Graphic file (type png)
+<use FunktionelleKrav/Aktoer_kontekst_diagram.png>
+Package pdftex.def Info: FunktionelleKrav/Aktoer_kontekst_diagram.png  used on 
+input line 6.
+(pdftex.def)             Requested size: 341.25pt x 152.92175pt.
+)
+(FunktionelleKrav/Aktoer_beskrivelser/Aktoer_beskrivelser.tex [9
+
+
+ <./FunktionelleKrav/Aktoer_kontekst_diagram.png>])
+(FunktionelleKrav/Use_case_beskrivelser/Use_case_beskrivelser.tex [10])
+(FunktionelleKrav/Use_case_diagram/Use_case_diagram.tex
+<FunktionelleKrav/Diagram.png, id=224, 554.07pt x 342.42215pt>
+File: FunktionelleKrav/Diagram.png Graphic file (type png)
+<use FunktionelleKrav/Diagram.png>
+Package pdftex.def Info: FunktionelleKrav/Diagram.png  used on input line 5.
+(pdftex.def)             Requested size: 341.25pt x 210.89403pt.
+)
+(FunktionelleKrav/Use_Cases/Use_Cases.tex (Use_Cases/Use_Cases/Use_Case_1.tex
+[11 <./FunktionelleKrav/Diagram.png>]) [12] (Use_Cases/Use_Cases/Use_Case_2.tex
+) (Use_Cases/Use_Cases/Use_Case_3.tex) [13
+
+] (Use_Cases/Use_Cases/Use_Case_4.tex
+Overfull \hbox (17.18275pt too wide) in paragraph at lines 4--64
+[][] 
+ []
+
+[14
+
+]) (Use_Cases/Use_Cases/Use_Case_5.tex
+Overfull \hbox (17.14899pt too wide) in paragraph at lines 4--47
+[][] 
+ []
+
+))) (IkkeFunktionelleKrav/IkkeFunktionelleKrav.tex [15
+
+]
+
+Class memoir Warning: X Columns too narrow (table too wide)
+(memoir)               on input line 1.
+
+
+Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+[]|[]| 
+ []
+
+
+Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
+[][] 
+ []
+
+[16
+
+]) (Afgraensning/Afgraensning.tex)
 (Udviklingsvaerktoejer/Udviklingsvaerktoejer.tex)
-(Ordforklaring/Ordforklaring.tex) [7]
+(Ordforklaring/Ordforklaring.tex) [17]
 \tf@toc=\write5
 \openout5 = `Kravspecifikation.toc'.
 
@@ -1450,7 +1537,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
 Package rerunfilecheck Info: File `Kravspecifikation.out' has not changed.
-(rerunfilecheck)             Checksum: D1C62A58B729314C00DA92B0E6EE4DE0;97.
+(rerunfilecheck)             Checksum: B56D24E88C2F9F14936ADDC9E01E20AA;1928.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1458,29 +1545,31 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 22.
  ) 
 Here is how much of TeX's memory you used:
- 28981 strings out of 492970
- 511503 string characters out of 3126593
+ 29195 strings out of 492970
+ 518222 string characters out of 3126593
  919760 words of memory out of 3000000
- 32437 multiletter control sequences out of 15000+200000
- 554534 words of font info for 70 fonts, out of 3000000 for 9000
+ 32528 multiletter control sequences out of 15000+200000
+ 556074 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,16n,78p,684b,757s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,16n,78p,1018b,920s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecrm1000.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecbi1000.pk>{C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/e
-nc/dvips/base/8r.enc} <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\eccc1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\carol\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\carol\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk> <C:\Use
-rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.p
+ecbx1200.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecrm1000.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecbi1000.pk>{C:/Users/carol/AppData/Local/Programs/MiKTeX 2
+.9/fonts/enc/dvips/base/8r.enc} <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Users\carol\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\carol\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Use
+rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.p
 k> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-eccc1200.pk><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitst
-rea/charter/bchr8a.pfb>
-Output written on Kravspecifikation.pdf (7 pages, 121691 bytes).
+ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Kravspecifikation.pdf (17 pages, 890706 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 659 PDF objects out of 1000 (max. 8388607)
+ 97 named destinations out of 1000 (max. 500000)
+ 242 words of extra memory for PDF output out of 10000 (max. 10000000)
 

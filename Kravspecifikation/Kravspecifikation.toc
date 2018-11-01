@@ -2,3 +2,28 @@
 \babel@toc {danish}{}
 \contentsline {chapter}{\chapternumberline {\color {RoyalBlue}1}Ordliste}{5}{chapter.1}
 \contentsline {chapter}{\chapternumberline {\color {RoyalBlue}2}Systembeskrivelse}{6}{chapter.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}1}Systembeskrivelse}{6}{section.2.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}2}Beskrivelse af alarmer}{7}{section.2.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}3}Systemoversigt}{8}{section.2.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}4}Skitse af brugergr\IeC {\ae }nseflade}{8}{section.2.4}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Funktionelle krav}{9}{chapter.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}1}Akt\IeC {\o }r kontekst diagram}{9}{section.3.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}2}Akt\IeC {\o }rbeskrivelser}{9}{section.3.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}3}Use Case beskrivelser}{10}{section.3.3}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}3.1}Use Case 1: M\IeC {\r a}l og vis blodtryk og puls}{10}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}3.2}Use Case 2: Just\IeC {\'e}r gr\IeC {\ae }nsev\IeC {\ae }rdier}{10}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}3.3}Use Case 3: Alarmering}{11}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}3.4}Use Case 4: Gem data}{11}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}3.5}Use Case 5: Kalibrering}{11}{subsection.3.3.5}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}4}Use Case Diagram}{11}{section.3.4}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5}Use Cases: Fully dressed Use Case beskrivelser}{12}{section.3.5}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.1}Use Case 1: M\IeC {\r a}l og vis blodtryk og puls}{12}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.2}Use Case 2: Just\IeC {\'e}r gr\IeC {\ae }nsev\IeC {\ae }rdier}{13}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.3}Use Case 3: Alarmering}{13}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.4}Use Case 4: Gem data}{14}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.5}Use Case 5: Kalibrering}{15}{subsection.3.5.5}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}4}Ikke funktionelle krav}{16}{chapter.4}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}1}Must have:}{16}{section.4.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}2}Should have:}{17}{section.4.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}3}Could have:}{17}{section.4.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}4}Won't have:}{17}{section.4.4}

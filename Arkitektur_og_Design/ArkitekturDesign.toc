@@ -1,0 +1,12 @@
+\changetocdepth {2}
+\babel@toc {danish}{}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}1}Hardwarearkitektur}{4}{chapter.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}1.}\color {RoyalBlue}1}BDD}{4}{section.1.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}1.}\color {RoyalBlue}2}IBD}{4}{section.1.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}1.}\color {RoyalBlue}3}Bloktabel}{5}{section.1.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}1.}\color {RoyalBlue}4}Signaltabel}{5}{section.1.4}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}2}Softwarearkitektur}{6}{chapter.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}1}Dom\IeC {\ae }nemodel: Overordnet}{6}{section.2.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}2}Dom\IeC {\ae }nemodel}{6}{section.2.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}3}Klassearkitektur}{6}{section.2.3}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Software}{7}{chapter.3}

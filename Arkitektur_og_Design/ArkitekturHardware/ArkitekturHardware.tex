@@ -1,0 +1,54 @@
+\chapter{Hardwarearkitektur}
+\section{BDD}
+\vspace{0.5 cm}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.95\linewidth]{ArkitekturHardware/BDD}
+\end{figure}
+
+\section{IBD}
+\vspace{0.5 cm}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.95\linewidth]{ArkitekturHardware/IBD}
+\end{figure}
+\clearpage
+
+\section{Bloktabel}
+\vspace{1 cm}
+\begin{table}[h!]
+	\begin{tabular}{l|l|l|l|l|l}
+		\textbf{Funktion} & \textbf{Signalnavn} & \textbf{Område} & \textbf{Port 1} & \textbf{Port 2} & \textbf{Kommentar} \\
+		&  &  & \textbf{(Source)} & \textbf{(Destination)} &  \\ \hline
+		\textbf{Strøm-} & speakerpwr & 0-230 V rms &  & speakerpwr &  \\
+		\textbf{forsyning} & computerpwr & 0-230 V rms &  & computerpwr &  \\
+		& screenpwr & 0-230 V rms &  & screenpwr &  \\
+		& transducerpwr & 4.9-5.1 V & transducerpwr &  &  \\
+		& fpwr1 & 4.9-5.1 V & fpwr1 & fpwr2 &  \\
+		& USB{[}4{]}computer2 & 4.9-5.1 V & USB{[}4{]}computer2 & USB{[}2{]}pwr & USB power \\
+		&  &  &  &  & Stel \\ \hline
+		\textbf{Reference} & speakergnd & 0 V &  & speakergnd & Stel \\
+		& computergnd & 0 V &  & computergnd & Stel \\
+		& screengnd & 0 V &  & screengnd & Stel \\
+		& transducergnd & 0 V & transducergn &  & Stel \\
+		& fgnd1 & 0 V & fgnd1 & fgnd2 & Stel \\
+		& aafgnd1 & 0 V & aafgnd1 & aafgnd2 & Stel \\
+		& adcgnd1 & 0 V & adcgnd1 & adcgnd2 & Stel \\ \hline
+		\textbf{Data-} & computerbt & bluetooth & computerbt & speakerbt & inout \\
+		\textbf{kommu-} &  &  &  &  & flow- \\
+		\textbf{nikation} &  &  &  &  & specification \\
+		\textbf{} & computerhdmi & HDMI & computerhdmi & screenhdmi & inout \\
+		&  &  &  &  & flow- \\
+		&  &  &  &  & specification \\
+		& USB{[}4{]}computer1 & usb & USB{[}4{]}computer1 & USB{[}4{]}pwr & inout \\
+		&  &  &  &  & flow- \\
+		&  &  &  &  & specification \\
+		& aaf2 & analog & aaf2 & adc1 &  \\
+		& f1 & analog & f1 & aaf1 &  \\
+		& transducer+ & analog &  & transducer+ &  \\
+		& transducer- & analog &  & transducer- & 
+	\end{tabular}
+\end{table}
+\vspace{1 cm}
+\section{Signaltabel}
+\vspace{1 cm}
