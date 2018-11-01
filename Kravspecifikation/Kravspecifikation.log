@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  1 NOV 2018 00:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  1 NOV 2018 01:12
 entering extended mode
 **./Kravspecifikation.tex
 (Kravspecifikation.tex
@@ -1374,7 +1374,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
 ") (Forside/Forside.tex
-<Forside/AUlogo.png, id=3, 498.06075pt x 152.36925pt>
+<Forside/AUlogo.png, id=11, 498.06075pt x 152.36925pt>
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
@@ -1398,15 +1398,49 @@ Overfull \hbox (15.09514pt too wide) in paragraph at lines 4--22
 ]) (Godkendelsesformular/Godkendelsesformular.tex [3
 
 
-]) (Kravspecifikation.toc) (Laesevejledning/Laesevejledning.tex)
-(Projektformulering/Projektformulering.tex)
-(Systembeskrivelse/Systembeskrivelse.tex)
-(FunktionelleKrav/FunktionelleKrav.tex)
-(IkkeFunktionelleKrav/IkkeFunktionelleKrav.tex) (Afgraensning/Afgraensning.tex)
-(Udviklingsvaerktoejer/Udviklingsvaerktoejer.tex)
-(Ordforklaring/Ordforklaring.tex) [4
+]) (Kravspecifikation.toc) (Ordliste/Ordliste.tex [4
 
 ]
+
+Class memoir Warning: X Columns too narrow (table too wide)
+(memoir)               on input line 1.
+
+
+Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+[]|[]| 
+ []
+
+
+Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
+[][] 
+ []
+
+) (Systembeskrivelse/Systembeskrivelse.tex [5
+
+]
+
+Class memoir Warning: X Columns too narrow (table too wide)
+(memoir)               on input line 1.
+
+
+Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+[]|[]| 
+ []
+
+
+Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
+[][] 
+ []
+
+("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+[6
+
+]) (FunktionelleKrav/FunktionelleKrav.tex)
+(IkkeFunktionelleKrav/IkkeFunktionelleKrav.tex) (Afgraensning/Afgraensning.tex)
+(Udviklingsvaerktoejer/Udviklingsvaerktoejer.tex)
+(Ordforklaring/Ordforklaring.tex) [7]
 \tf@toc=\write5
 \openout5 = `Kravspecifikation.toc'.
 
@@ -1416,7 +1450,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
 Package rerunfilecheck Info: File `Kravspecifikation.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: D1C62A58B729314C00DA92B0E6EE4DE0;97.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1424,27 +1458,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 22.
  ) 
 Here is how much of TeX's memory you used:
- 28698 strings out of 492970
- 508707 string characters out of 3126593
+ 28981 strings out of 492970
+ 511503 string characters out of 3126593
  919760 words of memory out of 3000000
- 32174 multiletter control sequences out of 15000+200000
- 549472 words of font info for 65 fonts, out of 3000000 for 9000
+ 32437 multiletter control sequences out of 15000+200000
+ 554534 words of font info for 70 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,16n,78p,398b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-} <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-ccc1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
-c\dpi600\ecsl1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk> <C:\Users\carol\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk> <C:\Users\carol\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/User
-s/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.p
-fb>
-Output written on Kravspecifikation.pdf (4 pages, 98938 bytes).
+ 45i,16n,78p,684b,757s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecrm1000.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbi1000.pk>{C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/e
+nc/dvips/base/8r.enc} <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+jknappen\ec\dpi600\eccc1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\carol\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\carol\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk> <C:\Use
+rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.p
+k> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+eccc1200.pk><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitst
+rea/charter/bchr8a.pfb>
+Output written on Kravspecifikation.pdf (7 pages, 121691 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 337 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 

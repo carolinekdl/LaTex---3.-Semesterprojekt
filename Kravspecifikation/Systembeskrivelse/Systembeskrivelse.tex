@@ -1,0 +1,36 @@
+\chapter{Systembeskrivelse}
+Formålet med dette projekt er at udvikle en invasiv blodtryksmåler, der skal være på en operationsstue. Den invasive blodtryksmåler er et system, der har til formål at kunne måle, angive og visualisere en patients systolisk-, diastolisk og middelblodtryk samt puls. Blodtrykket visualiseres kontinuert, når det tilsluttes det væskefyldte kateter. Derudover vil systemet alarmere i visse situationer beskrevet i punkt 1.12.
+Systemet består af en hardware del og en software del. 
+
+
+Systemets software del skal udvikle et program, der skal kunne kalibrere, vise blodtrykket kontinuerligt, måle puls og gemme de målte data. Derudover skal programmet indeholde et digital filter til filtrering af boldtrykket. Det digitale filter skal kunne slås til og fra. Programmet er bygget op omkring et Graphical User Interface (GUI) bestående af følgende elementer:
+\vspace{0.7 cm}
+
+\begin{enumerate}[2.1.]
+	\item Knap “Tjek nulpunktsjustering” - Tjekker at nulpunktsjustering er foretaget korrekt
+	\item Knap “Start” - Påbegynder målingen
+	\item Knap “Indstil grænseværdi” - Gør det muligt at ændre på grænseværdier under en måling eller før en måling 
+	\item Knap “Ryd” - Rydder alle værdier på brugergrænsefladen
+	\item Knap “Stop” - Stopper målingen.
+	\item Knap “Gem” - Gemmer værdier for blodtryk og puls i en datafil.
+	\item Knap “Kalibrering” - Kalibrerer systemet.
+	\item Knap “Mute alarm” - Gør alarm lydløs. De visuelle effekter vil stadig være synlige.
+	\item Knap “Afbryd alarm” - Stopper en alarm.
+	\item To radiobuttons - Slår digitalt filter til eller fra. Er monitor valgt er filteret aktiveret. Er mode valgt er filteret deaktiveret. Monitor valgt pr. default. 
+	\item Tekstbokse - Indeholder data I form af systolisk-, diastolisk-, middelblodtryk, puls og systemets status. 
+	\item Chart - Indeholder kontinuert graf over patientens blodtryk
+\end{enumerate}
+
+\vspace{0.7 cm}
+Se også punkt 3 “Skitse af brugergrænseflade”
+
+
+Systemets hardware består af et elektrisk kredsløb der skal kunne forstærke blodtrykssignalet fra en tryktransducer. Før signalet sendes til en AD-converter filtreres det af et analogt antialiaseringsfilter. AD-converterens funktion er at konvertere det analoge signal til et digitalt signal, som vores software kan analysere.
+
+Blodtrykket måles invasivt hvilket betyder, at blodtryksmåleren er tilsluttet patientens arterier via et væskefyldt kateter. Tryktransduceren har en membran, som registrerer trykket vha. stræk modstande.
+
+
+Når systemets opsætning er klart, trykkes der på “start”-knappen, som igangsætter signalvejen gennem hardwaren og ind på GUI'en. Herpå vil talværdierne svarende til patients værdier blive præsenteret. Sker der et fald i blodtrykket, f.eks. I forbindelse med en operation, vil systemet registrere dette, og starte en alarm, således brugeren gøres opmærksomme på nedsat blodtryks. Alarmen startes når blodtrykket falder under eller overstiger grænseværdierne, hvor det diastoliske blodtryk er den nedre grænseværdi, og det systoliske blodtryk er den øvre grænseværdi.  
+
+
+Brugeren kan stoppe alarmen eller slå lyden fra alarmen, samt stoppe målingen. Efter brugeren har foretaget en blodtryksmåling, gemmes patientens puls, systoliske og diastoliske blodtryk samt CPR-nummer på patienten.
