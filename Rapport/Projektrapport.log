@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  31 OCT 2018 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  2 NOV 2018 21:14
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
@@ -1374,7 +1374,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
 ") (Forside/Forside.tex
-<Forside/AUlogo.png, id=239, 498.06075pt x 152.36925pt>
+<Forside/AUlogo.png, id=251, 498.06075pt x 152.36925pt>
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
@@ -1486,7 +1486,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<Systembeskrivelse/Systemoversigt.png, id=354, 1030.60031pt x 722.7pt>
+<Systembeskrivelse/Systemoversigt.png, id=369, 1030.60031pt x 722.7pt>
 File: Systembeskrivelse/Systemoversigt.png Graphic file (type png)
 <use Systembeskrivelse/Systemoversigt.png>
 Package pdftex.def Info: Systembeskrivelse/Systemoversigt.png  used on input li
@@ -1513,7 +1513,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
  []
 
 (Projektformulering/Krav/Krav.tex)
-<Kravspecifikation/Diagram.png, id=371, 554.07pt x 342.42215pt>
+<Kravspecifikation/Diagram.png, id=386, 554.07pt x 342.42215pt>
 File: Kravspecifikation/Diagram.png Graphic file (type png)
 <use Kravspecifikation/Diagram.png>
 Package pdftex.def Info: Kravspecifikation/Diagram.png  used on input line 9.
@@ -1603,11 +1603,19 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Udviklingsproces/Metode/Metode.tex) (Udviklingsproces/Proces/Proces.tex)
-(Udviklingsproces/Programmer/Programmer.tex)) (Erfaringer/Erfaringer.tex
-[19
+(Udviklingsproces/Metode/Metode.tex
+<Udviklingsproces/ASEmodellen.png, id=432, 711.51535pt x 449.10643pt>
+File: Udviklingsproces/ASEmodellen.png Graphic file (type png)
+<use Udviklingsproces/ASEmodellen.png>
+Package pdftex.def Info: Udviklingsproces/ASEmodellen.png  used on input line 7
+.
+(pdftex.def)             Requested size: 364.00139pt x 229.76079pt.
+ [19
 
-]
+ <./Udviklingsproces/ASEmodellen.png>])
+(Udviklingsproces/Proces/Proces.tex)
+(Udviklingsproces/Programmer/Programmer.tex)) (Erfaringer/Erfaringer.tex
+[20]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -1622,7 +1630,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-) (Fremtidigt_arbejde/Fremtidigt_arbejde.tex [20
+) (Fremtidigt_arbejde/Fremtidigt_arbejde.tex [21
 
 ]
 
@@ -1640,7 +1648,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
  []
 
 (Fremtidigt_arbejde/Fremtidigt_arbejde/Fremtidigt_arbejde.tex))
-(Konklusion/Konklusion.tex [21
+(Konklusion/Konklusion.tex [22
 
 ]
 
@@ -1657,7 +1665,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Konklusion/Konklusion/Konklusion.tex)) (Bilag/Bilag.tex [22
+(Konklusion/Konklusion/Konklusion.tex)) (Bilag/Bilag.tex [23
 
 ]
 
@@ -1674,7 +1682,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Bilag/Bilag/Bilag.tex)) (Referencer/Referencer.tex [23
+(Bilag/Bilag/Bilag.tex)) (Referencer/Referencer.tex [24
 
 ]
 
@@ -1691,7 +1699,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Referencer/Referencer/Referencer.tex)) [24
+(Referencer/Referencer/Referencer.tex)) [25
 
 ]
 \tf@toc=\write5
@@ -1703,7 +1711,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `Projektrapport.out' has not changed.
-(rerunfilecheck)             Checksum: 0AB46AE8EFBBE574F46EC640B02216E1;3728.
+(rerunfilecheck)             Checksum: DB7279658F47CA33AD0D416C38E45619;3950.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1711,13 +1719,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  ) 
 Here is how much of TeX's memory you used:
- 29359 strings out of 492970
- 525920 string characters out of 3126593
+ 29371 strings out of 492970
+ 526197 string characters out of 3126593
  913748 words of memory out of 3000000
- 32583 multiletter control sequences out of 15000+200000
+ 32590 multiletter control sequences out of 15000+200000
  557104 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,78p,813b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,78p,964b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecti1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\tcrm1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -1735,9 +1743,9 @@ ec\dpi600\ecrm1728.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on Projektrapport.pdf (24 pages, 821317 bytes).
+Output written on Projektrapport.pdf (25 pages, 1136524 bytes).
 PDF statistics:
- 833 PDF objects out of 1000 (max. 8388607)
- 107 named destinations out of 1000 (max. 500000)
- 488 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 860 PDF objects out of 1000 (max. 8388607)
+ 111 named destinations out of 1000 (max. 500000)
+ 517 words of extra memory for PDF output out of 10000 (max. 10000000)
 
