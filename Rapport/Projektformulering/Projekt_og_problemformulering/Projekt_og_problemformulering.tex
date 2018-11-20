@@ -1,26 +1,18 @@
-\section{Projektformulering}
-Projektet har til formål at udvikle en prototype af et blodtryks målesystem, der kan måle, behandle og visualisere blodtryk og puls. Systemet er udviklet med henblik på hurtigt at kunne advare brugeren om et eventuelt fald- eller stigning i blodtryk eller puls.
-
-Det udviklede system kan:
+\section{Problemformulering}
+Projektet har til formål at udvikle et invasivt blodtryksmålesystem, der kan tilsluttes patienters arterier via et væskefyldt kateter. Dette målesystem indeholder to elementer.
 
 \begin{itemize}
-	\item Måle blodtryk på en patient
-	\item Visualisere det målte blodtryk kontinuert ved hjælp af en graf på en brugergrænseflade
-	\item Visualisere det målte blodtryk i form af tal på en brugergrænseflade, herunder systolisk-, diastolisk- samt median blodtryk
-	\item Beregne patientens puls
-	\item Visualisere den beregnede puls i form af tal på en brugergrænseflade
-	\item Alarmere ved: Fejl i nulpunktsjustering, tid til kalibrering, fald- eller stigning i blodtryk, fald- eller stigning i puls samt ved mislykket forsøg på at gemme opsamlet data
-	\item Gemme data, herunder blodtryk og puls under patientens CPR-nummer.
-	
+	\item Et elektronisk kredsløb, som forstærker signalet fra tryktransduceren og filtrerer det med et analogt filter for at undgå aliasering	
+	\item Et program til at vise blodtrykket som funktion af tiden. Programmet skal opfylde en række obligatoriske krav. Det skal:
+	\begin{itemize}
+		\item Programmeres i C\#
+		\item Kunne kalibrere blodtrykssignalet og foretage en nulpunktsjustering
+		\item Vise blodtrykssignalet kontinuert
+		\item Kunne lagre de målte data
+		\item Kunne filtrere blodtrykket i selve programmet via et digitalt filter, dette skal kunne slås til og fra (monitor = filtreret og afrundet signal/diagnose mode = råt signal med alle udsving)
+		\item Kunne afbilde systolisk/diastolisk blodtryk/middel blodtryk med tal
+		\item Kunne alarmere hvis blodtrykket overstiger indbyggede grænseværdier
+		\item Kunne måle og afbilde puls
+	\end{itemize}	
 \end{itemize}
 
-Et færdigudviklet system vil være ideelt til brug på operationsstuer da systemets alarmerings funktion muliggør hurtige reaktioner ved eventuelle fald- eller stigninger i patientens blodtryk, eksempelvis et markant fald i forbindelse med en større blødning.\\
-
-
-\section{Problemformulering}
-
-Ved måling af blodtryk skelnes mellem systolisk- og diastolisk blodtryk. Hvordan er det muligt ved brug af en tryktransducer at måle dette blodtryk?
-
-Hvordan er det muligt at udvikle et program, der kan illustrere det målte blodtryk kontinuert ved hjælp af en graf samtidig med, at talværdien for henholdsvis det systoliske- og diastoliske afbildes på brugergrænsefladen? Kan det ydermere lade sig gøre at bestemme en patients puls ud fra det målte blodtryk?
-
-Hvad gør en brugergrænseflade god og overskuelig? Hvordan kan man ved en god brugergrænseflade let og overskueligt nemt aflæse de interessante værdier samtidig med, at programmet er nemt at bruge?\clearpage
