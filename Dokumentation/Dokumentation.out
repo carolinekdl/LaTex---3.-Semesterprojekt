@@ -1,0 +1,20 @@
+\BOOKMARK [0][-]{chapter.1}{Indledning}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Hardwaredesign}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Forst\346rker}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Beregninger}{section.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.1.2}{Test af forst\346rker med sp\346ndingsdeler}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.3}{Test af forst\346rker med vands\370jle}{section.2.1}% 6
+\BOOKMARK [1][-]{section.2.2}{Subtractor}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.1}{Beregninger}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.2}{Test af subtractor}{section.2.2}% 9
+\BOOKMARK [1][-]{section.2.3}{Filter}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.3.1}{Valg af filtertype}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.2}{Beregninger}{section.2.3}% 12
+\BOOKMARK [2][-]{subsection.2.3.3}{Test af filter}{section.2.3}% 13
+\BOOKMARK [1][-]{section.2.4}{Integrationstest}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.4.1}{Test med sp\346ndingsdeler}{section.2.4}% 15
+\BOOKMARK [2][-]{subsection.2.4.2}{Test med vands\370jle}{section.2.4}% 16
+\BOOKMARK [1][-]{section.2.5}{Printplade}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.5.1}{Design af printplade}{section.2.5}% 18
+\BOOKMARK [2][-]{subsection.2.5.2}{Test af printplade}{section.2.5}% 19
+\BOOKMARK [2][-]{subsection.2.5.3}{EuroCircuits}{section.2.5}% 20
