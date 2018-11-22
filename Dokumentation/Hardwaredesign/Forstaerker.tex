@@ -34,10 +34,63 @@ Tilfældig spænding vælges
 R1 bestemmes:
 \[ 0,00625V = 4V\cdot \frac{R1}{R1+R2}\rightarrow R1 = 156,4945 \Omega\]
 
+Spændingsdeleren blev tilsluttet systemet, og vi sendte 4 V igennem. Der blev målt på udgangen af forstærkeren, hvilket vi forventede at være 640 gange større end spænding efter spændingsdeleren. 
 \clearpage
 
 
 \subsection{Test af forstærker med vandsøjle}
+For at kunne teste forstærkeren på vandsøjlen måtte vi tage tryktransduceren i brug. Transduceren blev erstattet med spændingsdeleren, samt tilsluttet vandsøjlen.
+Der blev udført en række tests med tryk på henholdsvis:
+
+0 mmHg
+10 mmHg
+50 mmHg
+100 mmHg
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardware/0mmHg}
+	\caption{Spændning ved atmosfærisk tryk}
+	\label{fig:0mmHg}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardware/10mmHg}
+	\caption{Spændning ved 10 mmHg}
+	\label{fig:10mmHg}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardware/50mmHg}
+	\caption{Spændning ved 50 mmHg}
+	\label{fig:50mmHg}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardware/100mmHg}
+	\caption{Spændning ved 100 mmHg}
+	\label{fig:100mmHg}
+\end{figure}
+
+De målte spændinger er blevet plottet, som funktion af tryk.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardware/GrafTrykOgSpaending}
+	\caption{Spænding som funktion af tryk}
+	\label{fig:GrafTrykOgSpaending}
+\end{figure}
+
+Der ses en tydelig sammenhæng mellem spænding og tryk, og antager vi at denne sammenhæng forsætter kan vi opsætte regnestykket:
+
+250 mmHg  / 100 mmHg = 2,5
+1,972 V * 2,5 = 4,93 V
+4,93 V - 0,781 V = 4,149 V
+
+Vi ved udfra tidligere beregninger at vi forventer at vi ved et tryk på 250 mmHg vil opnå en spændining på 4 V, hvilket stemmer godt overens med vores test.
 
 \clearpage
 
