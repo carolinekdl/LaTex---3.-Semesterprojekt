@@ -1,6 +1,69 @@
 \section{Filter}
 \subsection{Valg af filtertype}
-\subsection{Beregninger}
+\vspace{0.2 cm}
+Vi har brug for at dæmpe signalet med i alt 90 dB, men da systemet allerede dæmpes 70 dB er der kun yderligere brug for en dæmpning på 20 dB. Denne dæmpning kan klares med et 1. ordens filter, der netop dæmper 20 dB pr. dekade. For at være på den sikre side og have en tilstrækkelig dæmpning af signalet vælges et 2. ordens filter, der dæmper 40 dB pr. dekade. Da vi ikke har brug for ekstra forstærkning i vores filter har vi derfor valgt et passivt 2. ordens lavpasfilter til at skære de høje frekvenser væk.
+\vspace{0.2 cm}
+
+\textbf{RC-filter:}
+
+\vspace{0.2 cm}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.5\linewidth]{Hardware/RCfilter}
+	\caption{Passivt 2. Ordens lavpasfilter - RC}
+	\label{fig:RCfilter}
+\end{figure}
+
+Efter beregninger på RC-filteret, se afsnit \vref{RC-filter}, vurderes det, at det er bedre for systemet med et aktivt filter. Vores endelige beslutning omkring filtertype falder derfor på et aktivt 2. ordens lavpasfilter af typen Sallen Key.
+
+\textbf{Sallen Key filter:} 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.5\linewidth]{Hardware/SallenKey}
+	\caption{Aktivt 2. Ordens lavpasfilter - Sallen Key}
+	\label{fig:SallenKey}
+\end{figure}
+
+\clearpage
+  
+\subsection{Beregninger: RC-filter} \label{RC-filter}
+\vspace{0.2 cm}
+Overføringsfunktion: 
+\[ T(s)=K \cdot \frac{\omega_{0}^{2}}{{s^{2}+2 \cdot \zeta \cdot \omega_{0}\cdot s+\omega_{0}^{2}}} \]
+
+Gain:
+\[ K=1 \]
+
+
+
+Da vi ikke forstærker signalet yderligere med dette filter sættes $K=1$.
+\[ V_{in}=4V \]
+\[ V_{out}=4V \]
+
+Frekvens:
+\[ \omega_{0}=\frac{1}{\sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}} \]
+
+Dæmpningsfaktor:
+\[ \zeta= \frac{R_{1} \cdot C_{1} + R_{1} \cdot C_{2}+R_{2} \cdot C_{2}}{2 \cdot \sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}} \]
+
+Frekvens og dæmpningsfaktor indsættes nu i overføringsfunktionen:
+\[ T(s)=\frac{\omega_{0}=\frac{1}{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}{s^{2}+2 \cdot (\frac{R_{1} \cdot C_{1} + R_{1} \cdot C_{2}+R_{2} \cdot C_{2}}{2 \cdot \sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}) \cdot (\frac{1}{\sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}) \cdot s + (\frac{1}{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}})}  \]
+
+$T(s)$ simplificeres:
+\[ T(s)=\frac{1}{s \cdot C_{1} \cdot R_{1} +s \cdot C_{2} \cdot R_{1}+s \cdot C_{2} \cdot R_{2}+s^{2}\cdot C_{1} \cdot C_{2} \cdot R_{1} \cdot R_{2} +1} \]
+
+$T(s)$ simplificeres yderligere:
+\[ T(s)=\frac{1}{(R_{1} \cdot C_{1} \cdot s+1) \cdot (R_{2} \cdot C_{2} \cdot s +1) \cdot R_{1} \cdot C_{2} \cdot s} \]
+
+For at gøre beregningen af komponenterne mulig bestemmes $ C_{1} $ og $ C_{2} $ med samme værdi. Værdien er valgt tilfældigt ud fra hvilke komponenter, der findes i laboratoriet:
+\[ C_{1} = 220 \cdot 10^{-9} \]
+\[ C_{2} = 220 \cdot 10^{-9} \]
+
+
+\subsection{Beregninger: Sallen Key filter}
+
 \subsection{Test af filter}
 \vspace{0.5 cm}
 \begin{table}[h!]
