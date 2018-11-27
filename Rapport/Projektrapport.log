@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  21 NOV 2018 12:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  27 NOV 2018 21:20
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
@@ -1488,6 +1488,12 @@ File: Systembeskrivelse/Systemoversigt.png Graphic file (type png)
 Package pdftex.def Info: Systembeskrivelse/Systemoversigt.png  used on input li
 ne 6.
 (pdftex.def)             Requested size: 250.25139pt x 175.48059pt.
+
+Underfull \hbox (badness 1448) in paragraph at lines 29--29
+\T1/cmr/m/n/10.95 For nærmere beskrivelse af brugergrænsefladens funktioner hen
+vises der til dokumentet
+ []
+
 [10
 
  <./Systembeskrivelse/Systemoversigt.png>] [11
@@ -1759,7 +1765,7 @@ ec\dpi600\ecrm1728.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on Projektrapport.pdf (25 pages, 1136587 bytes).
+Output written on Projektrapport.pdf (25 pages, 1136611 bytes).
 PDF statistics:
  855 PDF objects out of 1000 (max. 8388607)
  110 named destinations out of 1000 (max. 500000)
