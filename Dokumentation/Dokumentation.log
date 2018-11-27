@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  22 NOV 2018 08:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  23 NOV 2018 11:10
 entering extended mode
 **./Dokumentation.tex
 (Dokumentation.tex
@@ -1556,24 +1556,33 @@ Package pdftex.def Info: Hardware/SallenKey.png  used on input line 24.
  [13
 
 
- <./Hardware/RCfilter.png> <./Hardware/SallenKey.png>]
+ <./Hardware/RCfilter.png> <./Hardware/SallenKey.png>] [14
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+]
+<Hardware/Filterplot1.png, id=213, 482.66035pt x 346.29375pt>
+File: Hardware/Filterplot1.png Graphic file (type png)
+<use Hardware/Filterplot1.png>
+Package pdftex.def Info: Hardware/Filterplot1.png  used on input line 88.
+(pdftex.def)             Requested size: 227.5pt x 163.22307pt.
+ [15 <./Hardware/Filterplot1.png>]
+<Hardware/Filterplot2.png, id=221, 483.9509pt x 296.39304pt>
+File: Hardware/Filterplot2.png Graphic file (type png)
+<use Hardware/Filterplot2.png>
+Package pdftex.def Info: Hardware/Filterplot2.png  used on input line 99.
+(pdftex.def)             Requested size: 227.5pt x 139.33188pt.
+) [16
 
-) [14
-
-] [15]
+ <./Hardware/Filterplot2.png>]
 \openout2 = `Hardwaredesign/Integrationstest.aux'.
 
- (Hardwaredesign/Integrationstest.tex) [16
+ (Hardwaredesign/Integrationstest.tex) [17
 
 
 ]
 \openout2 = `Hardwaredesign/Printplade.aux'.
 
-
-(Hardwaredesign/Printplade.tex
-<Hardware/Multisim.png, id=221, 862.07785pt x 593.21625pt>
+ (Hardwaredesign/Printplade.tex
+<Hardware/Multisim.png, id=235, 862.07785pt x 593.21625pt>
 File: Hardware/Multisim.png Graphic file (type png)
 <use Hardware/Multisim.png>
 Package pdftex.def Info: Hardware/Multisim.png  used on input line 9.
@@ -1584,29 +1593,29 @@ Underfull \hbox (badness 1014) in paragraph at lines 14--15
  de fire forbindelser til
  []
 
-[17
+[18
 
 
  <./Hardware/Multisim.png>]
-<Hardware/Ultiboard.png, id=230, 462.44197pt x 415.98268pt>
+<Hardware/Ultiboard.png, id=244, 462.44197pt x 415.98268pt>
 File: Hardware/Ultiboard.png Graphic file (type png)
 <use Hardware/Ultiboard.png>
 Package pdftex.def Info: Hardware/Ultiboard.png  used on input line 26.
 (pdftex.def)             Requested size: 273.00278pt x 245.57364pt.
- [18
+ [19
 
  <./Hardware/Ultiboard.png>]
-<Hardware/Ratsnest.png, id=239, 468.03429pt x 422.86554pt>
+<Hardware/Ratsnest.png, id=254, 468.03429pt x 422.86554pt>
 File: Hardware/Ratsnest.png Graphic file (type png)
 <use Hardware/Ratsnest.png>
 Package pdftex.def Info: Hardware/Ratsnest.png  used on input line 48.
 (pdftex.def)             Requested size: 273.00278pt x 246.65588pt.
-<Hardware/Nets.png, id=240, 187.55786pt x 311.87947pt>
+<Hardware/Nets.png, id=255, 187.55786pt x 311.87947pt>
 File: Hardware/Nets.png Graphic file (type png)
 <use Hardware/Nets.png>
 Package pdftex.def Info: Hardware/Nets.png  used on input line 57.
 (pdftex.def)             Requested size: 90.99861pt x 151.31845pt.
-<Hardware/Fejl.png, id=241, 323.0641pt x 61.08536pt>
+<Hardware/Fejl.png, id=256, 323.0641pt x 61.08536pt>
 File: Hardware/Fejl.png Graphic file (type png)
 <use Hardware/Fejl.png>
 Package pdftex.def Info: Hardware/Fejl.png  used on input line 64.
@@ -1615,20 +1624,20 @@ Package pdftex.def Info: Hardware/Fejl.png  used on input line 64.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/EuroCircuits1.png, id=242, 676.2407pt x 39.14626pt>
+<Hardware/EuroCircuits1.png, id=257, 676.2407pt x 39.14626pt>
 File: Hardware/EuroCircuits1.png Graphic file (type png)
 <use Hardware/EuroCircuits1.png>
 Package pdftex.def Info: Hardware/EuroCircuits1.png  used on input line 74.
 (pdftex.def)             Requested size: 364.00139pt x 21.07175pt.
-[19
+[20
 
  <./Hardware/Ratsnest.png> <./Hardware/Nets.png>]
-<Hardware/EuroCircuits2.png, id=254, 433.62pt x 386.73053pt>
+<Hardware/EuroCircuits2.png, id=268, 433.62pt x 386.73053pt>
 File: Hardware/EuroCircuits2.png Graphic file (type png)
 <use Hardware/EuroCircuits2.png>
 Package pdftex.def Info: Hardware/EuroCircuits2.png  used on input line 81.
 (pdftex.def)             Requested size: 227.5pt x 202.90085pt.
-) [20 <./Hardware/Fejl.png> <./Hardware/EuroCircuits1.png> <./Hardware/EuroCirc
+) [21 <./Hardware/Fejl.png> <./Hardware/EuroCircuits1.png> <./Hardware/EuroCirc
 uits2.png>])
 (Implementering_og_test/Implementering_og_test.tex) (Resultater/Resultater1.tex
 ) (Konklusion/Konklusion.tex) (Referencer/Referencer.tex)
@@ -1652,10 +1661,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 28953 strings out of 492970
- 514179 string characters out of 3126593
- 913744 words of memory out of 3000000
- 32324 multiletter control sequences out of 15000+200000
+ 28975 strings out of 492970
+ 514567 string characters out of 3126593
+ 910744 words of memory out of 3000000
+ 32340 multiletter control sequences out of 15000+200000
  556074 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,12n,78p,681b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1673,17 +1682,18 @@ k> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/carol/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/carol/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pf
-b><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr8.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Dokumentation.pdf (20 pages, 1037833 bytes).
+2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/carol/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/carol/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/User
+s/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr6.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/carol/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Dokumentation.pdf (21 pages, 1151645 bytes).
 PDF statistics:
- 645 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 671 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
+ 274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
