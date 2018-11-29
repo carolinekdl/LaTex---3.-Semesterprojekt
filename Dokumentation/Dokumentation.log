@@ -1,10 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  20 NOV 2018 18:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.6)  28 NOV 2018 08:36
 entering extended mode
 **./Dokumentation.tex
 (Dokumentation.tex
 LaTeX2e <2018-04-01> patch level 5
 (../Preamble/Preamble.tex
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls
+"
 Document Class: memoir 2018/04/04 v3.7g configurable book, report, article docu
 ment class
 \onelineskip=\skip41
@@ -13,20 +14,22 @@ ment class
 \@memcnta=\count80
 \c@@memmarkcntra=\count81
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
-ty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty
+"
 Package: ifetex 2018/03/31 v1.2a ifetex
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex"
-))
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex
+"))
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
-x.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+ex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -35,7 +38,7 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fleqn.clo"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fleqn.clo"
 File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -45,7 +48,7 @@ Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
 File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 )
 \binding=\skip48
@@ -343,18 +346,19 @@ Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-) ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
-y"
+)
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
- ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+ ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)) ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+)) ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
-"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.de
+f"
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count138
@@ -362,45 +366,47 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks25
 \uc@temptokena=\toks26
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2018/09/26 3.24 The Babel package
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
 "
+Package: babel 2018/09/26 3.24 The Babel package
+
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.de
+f"
 File: switch.def 2018/09/26 3.24 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\danis
-h.ldf"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\dani
+sh.ldf"
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+"
 File: babel.def 2018/09/26 3.24 Babel common definitions
 \babel@savecnt=\count139
 \U@D=\dimen148
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
-ef")
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.
+def")
 \bbl@dirlevel=\count140
 )
 Package babel Info: Making " an active character on input line 82.
 ))
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
-
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+)) ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.st
+y"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip185
@@ -418,11 +424,12 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip258
 \JustifyingParindent=\skip259
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anyfontsize\anyfon
-tsize.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anyfontsize\anyfo
+ntsize.sty"
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+"
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -436,7 +443,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+ ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -503,53 +510,54 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks27
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
-ics.cfg"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow
+.sty"
 Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
 \multirow@colwidth=\skip260
 \multirow@cntb=\count141
 \multirow@dima=\skip261
 \bigstrutjot=\dimen151
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl
+.sty"
 Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+y"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
@@ -557,11 +565,12 @@ Package color Info: Driver file: pdftex.def on input line 147.
 \everycr=\toks28
 \minrowclearance=\skip262
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -576,15 +585,16 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam.
-def"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam
+.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\flafter.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\flafter.sty"
 Package: flafter 2018/01/08 v1.4c Standard LaTeX floats after reference (FMi)
 Applying: [2015/01/01] float order in 2-column on input line 49.
 Already applied: [0000/00/00] float order in 2-column on input line 151.
-) ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+) ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count142
 \float@exts=\toks29
@@ -592,8 +602,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box30
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.s
+ty"
 \wrapoverhang=\dimen152
 \WF@size=\dimen153
 \c@WF@wrappedlines=\count143
@@ -601,8 +611,8 @@ y"
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.s
+ty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip263
 \LTright=\skip264
@@ -620,35 +630,35 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count148
 \LT@p@ftn=\toks32
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\hhline.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\hhline.sty"
 Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
-) ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xr.sty"
+) ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xr.sty"
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip267
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks33
 \ex@=\dimen155
 ))
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen156
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count149
@@ -689,30 +699,30 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
-ty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd
+.sty"
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 \symstmry=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtool
-s.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtoo
+ls.sty"
 Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count161
 \calc@Bcount=\count162
@@ -725,8 +735,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count163
 \calc@Cskip=\skip272
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup
+.sty"
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
@@ -743,15 +753,15 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen171
 \l_MT_below_shortintertext_sep=\dimen172
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.st
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.s
+ty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.st
 y"
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
-"
-Package: expl3 2018-10-19 L3 programming layer (loader) 
+Package: expl3 2018-10-31 L3 programming layer (loader) 
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-cod
-e.tex"
-Package: expl3 2018-10-19 L3 programming layer (code)
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-co
+de.tex"
+Package: expl3 2018-10-31 L3 programming layer (code)
 \c_max_int=\count165
 \l_tmpa_int=\count166
 \l_tmpb_int=\count167
@@ -897,13 +907,13 @@ Package: expl3 2018-10-19 L3 programming layer (code)
 \l__seq_internal_a_int=\count318
 \l__seq_internal_b_int=\count319
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode
-.def"
-File: l3pdfmode.def 2018-10-19 v L3 Experimental driver: PDF mode
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmod
+e.def"
+File: l3pdfmode.def 2018-10-31 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count320
 ))
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\
-xparse.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse
+\xparse.sty"
 Package: xparse 2018-10-17 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count321
 \g__xparse_grabber_int=\count322
@@ -913,8 +923,8 @@ Package: xparse 2018-10-17 L3 Experimental document command parser
 )
 Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2
-e\l3keys2e.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys
+2e\l3keys2e.sty"
 Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box53
@@ -958,15 +968,16 @@ Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_number_align_skip=\skip282
 \l__siunitx_table_text_align_skip=\skip283
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator.sty"
 Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 ))
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty
+"
 Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgree
-k.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgre
+ek.sty"
 Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemi
 stry (CN)
 \l__chemgreek_tmpa_int=\count343
@@ -989,20 +1000,21 @@ stry (CN)
 \mhchem@option@minustextsidebearingleft=\dimen280
 \mhchem@option@minustextsidebearingright=\dimen281
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\varioref.sty
-"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\varioref.st
+y"
 Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
 \c@vrcnt=\count347
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty
+"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip294
 \bibsep=\skip295
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count348
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.sty"
 \lst@mode=\count349
 \lst@gtempboxa=\box60
 \lst@token=\toks38
@@ -1016,25 +1028,26 @@ sty"
 \lst@lineno=\count354
 \lst@maxwidth=\dimen285
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
+sty"
 File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
 \c@lstnumber=\count355
 \lst@skipnumbers=\count356
 \lst@framebox=\box61
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-cfg"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.cfg"
 File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
 Package: listings 2018/09/02 1.7 (Carsten Heinz)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
+"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count357
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem
+.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip296
 \enit@outerparindent=\dimen286
@@ -1042,34 +1055,34 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box62
 \enitdp@description=\count358
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages
+.sty"
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.s
+ty"
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
-i.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegs
+hi.sty"
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
 \AM@pagewidth=\dimen287
 \AM@pageheight=\dimen288
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
-def"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex
+.def"
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box63
@@ -1078,17 +1091,17 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count359
 \AM@templatesizebox=\box64
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
 Package: fixme 2017/03/05 v4.4 Collaborative annotations for LaTeX2e
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.s
+ty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
-tex"
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval
 .tex"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
+s.tex"
 \XKV@toks=\toks42
 \XKV@tempa@toks=\toks43
 )
@@ -1123,17 +1136,17 @@ Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
+.sty"
 Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-hyperref.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-generic.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1172,26 +1185,26 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
-ty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
+sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen289
 \Hy@linkcounter=\count366
 \Hy@pagecounter=\count367
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
-f"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
+ef"
 File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count368
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
-cfg"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
+.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4409.
@@ -1203,7 +1216,7 @@ Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count369
- ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+ ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -1225,8 +1238,8 @@ LaTeX Info: Redefining \pageref on input line 6470.
 \c@Item=\count372
 \c@Hfootnote=\count373
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.s
+ty"
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
 \c@memhycontfloat=\count374
@@ -1234,14 +1247,14 @@ ass
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
-ef"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
+def"
 File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
 \Fld@listcount=\count376
 \c@bookmark@seq@number=\count377
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
-check.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
+echeck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -1250,8 +1263,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 123.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1
+.sty"
 File: lstlang1.sty 2018/09/02 1.7 listings language file
 )) (Dokumentation.aux (Hardwaredesign/Stromforsyning.aux)
 (Hardwaredesign/Forstaerker.aux) (Hardwaredesign/Subtractor.aux)
@@ -1274,21 +1287,20 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 4.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
-)
-ABD: EverySelectfont initializing macros
+) ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 4.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count378
 \scratchdimen=\dimen293
@@ -1302,12 +1314,12 @@ ii"
 \makeMPintoPDFobject=\count383
 \everyMPtoPDFconversion=\toks45
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1317,12 +1329,12 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-basic-dictionary-English.dict"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
+ator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-ab
-breviations.cfg"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-a
+bbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 
@@ -1331,24 +1343,24 @@ Package chemgreek Info: Activating mapping `default' on line 4.
 \c@lstlisting=\count384
 \AtBeginShipoutBox=\box66
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
-.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscap
+e.sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
-y"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.s
+ty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 Package hyperref Info: Link coloring ON on input line 4.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
-ty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
+sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
-estring.sty"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
+lestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count385
@@ -1367,30 +1379,32 @@ LaTeX Info: Redefining \nameref on input line 4.
 LaTeX Info: Redefining \Ref on input line 4.
 LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 4.
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+ ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
-") (Forside/Forside.tex
-<Forside/AUlogo.png, id=83, 498.06075pt x 152.36925pt>
+
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.f
+d") (Forside/Forside.tex
+<Forside/AUlogo.png, id=87, 498.06075pt x 152.36925pt>
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
 (pdftex.def)             Requested size: 227.5pt x 69.59781pt.
 
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 [1
 
-{C:/Users/carol/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Forside/A
-Ulogo.png>])
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd")
+{C:/Users/Kajene/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Forside/
+AUlogo.png>])
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd")
 (Dokumentation.toc) (Indledning/indledning.tex [2
 
 ]
@@ -1430,37 +1444,41 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 ]
 \openout2 = `Hardwaredesign/Stromforsyning.aux'.
 
- (Hardwaredesign/Stromforsyning.tex)
+ (Hardwaredesign/Stromforsyning.tex
+("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)) [5
+
+]
 \openout2 = `Hardwaredesign/Forstaerker.aux'.
 
- (Hardwaredesign/Forstaerker.tex
-[5
+ (Hardwaredesign/Forstaerker.tex [6
 
 
-
-] [6
+] [7
 
 ])
 \openout2 = `Hardwaredesign/Subtractor.aux'.
 
- (Hardwaredesign/Subtractor.tex [7
+ (Hardwaredesign/Subtractor.tex
+[8
 
 
 
 ]
-<Hardwaredesign/Subtractor1.png, id=150, 2253.92062pt x 1242.89343pt>
+<Hardwaredesign/Subtractor1.png, id=159, 2253.92062pt x 1242.89343pt>
 File: Hardwaredesign/Subtractor1.png Graphic file (type png)
 <use Hardwaredesign/Subtractor1.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor1.png  used on input line 40.
 
 (pdftex.def)             Requested size: 455.0pt x 250.88802pt.
-<Hardwaredesign/Subtractor2.png, id=151, 2229.07782pt x 1274.51157pt>
+<Hardwaredesign/Subtractor2.png, id=160, 2229.07782pt x 1274.51157pt>
 File: Hardwaredesign/Subtractor2.png Graphic file (type png)
 <use Hardwaredesign/Subtractor2.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor2.png  used on input line 47.
 
 (pdftex.def)             Requested size: 455.0pt x 260.1486pt.
- [8
+ [9
 
  <./Hardwaredesign/Subtractor1.png
 
@@ -1471,19 +1489,19 @@ erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 pdfTeX warning: pdflatex.exe (file ./Hardwaredesign/Subtractor2.png): large int
 erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<Hardwaredesign/Subtractor3.png, id=160, 2252.415pt x 1213.53375pt>
+<Hardwaredesign/Subtractor3.png, id=169, 2252.415pt x 1213.53375pt>
 File: Hardwaredesign/Subtractor3.png Graphic file (type png)
 <use Hardwaredesign/Subtractor3.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor3.png  used on input line 55.
 
 (pdftex.def)             Requested size: 455.0pt x 245.12817pt.
-<Hardwaredesign/Subtractor4.png, id=161, 2229.07782pt x 1270.7475pt>
+<Hardwaredesign/Subtractor4.png, id=170, 2229.07782pt x 1270.7475pt>
 File: Hardwaredesign/Subtractor4.png Graphic file (type png)
 <use Hardwaredesign/Subtractor4.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor4.png  used on input line 62.
 
 (pdftex.def)             Requested size: 455.0pt x 259.3803pt.
-) [9
+) [10
 
  <./Hardwaredesign/Subtractor3.png
 
@@ -1496,21 +1514,21 @@ erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
 \openout2 = `Hardwaredesign/Filter.aux'.
 
- (Hardwaredesign/Filter.tex) [10
+ (Hardwaredesign/Filter.tex) [11
 
 
 ]
 \openout2 = `Hardwaredesign/Integrationstest.aux'.
 
  (Hardwaredesign/Integrationstest.tex)
-[11
+[12
 
 
 ]
 \openout2 = `Hardwaredesign/Printplade.aux'.
 
  (Hardwaredesign/Printplade.tex
-<Hardware/Multisim.png, id=176, 862.07785pt x 593.21625pt>
+<Hardware/Multisim.png, id=185, 862.07785pt x 593.21625pt>
 File: Hardware/Multisim.png Graphic file (type png)
 <use Hardware/Multisim.png>
 Package pdftex.def Info: Hardware/Multisim.png  used on input line 9.
@@ -1521,29 +1539,29 @@ Underfull \hbox (badness 1014) in paragraph at lines 14--15
  de fire forbindelser til
  []
 
-[12
+[13
 
 
  <./Hardware/Multisim.png>]
-<Hardware/Ultiboard.png, id=185, 462.44197pt x 415.98268pt>
+<Hardware/Ultiboard.png, id=195, 462.44197pt x 415.98268pt>
 File: Hardware/Ultiboard.png Graphic file (type png)
 <use Hardware/Ultiboard.png>
 Package pdftex.def Info: Hardware/Ultiboard.png  used on input line 26.
 (pdftex.def)             Requested size: 273.00278pt x 245.57364pt.
- [13
+ [14
 
  <./Hardware/Ultiboard.png>]
-<Hardware/Ratsnest.png, id=195, 468.03429pt x 422.86554pt>
+<Hardware/Ratsnest.png, id=204, 468.03429pt x 422.86554pt>
 File: Hardware/Ratsnest.png Graphic file (type png)
 <use Hardware/Ratsnest.png>
 Package pdftex.def Info: Hardware/Ratsnest.png  used on input line 48.
 (pdftex.def)             Requested size: 273.00278pt x 246.65588pt.
-<Hardware/Nets.png, id=196, 187.55786pt x 311.87947pt>
+<Hardware/Nets.png, id=205, 187.55786pt x 311.87947pt>
 File: Hardware/Nets.png Graphic file (type png)
 <use Hardware/Nets.png>
 Package pdftex.def Info: Hardware/Nets.png  used on input line 57.
 (pdftex.def)             Requested size: 90.99861pt x 151.31845pt.
-<Hardware/Fejl.png, id=197, 323.0641pt x 61.08536pt>
+<Hardware/Fejl.png, id=206, 323.0641pt x 61.08536pt>
 File: Hardware/Fejl.png Graphic file (type png)
 <use Hardware/Fejl.png>
 Package pdftex.def Info: Hardware/Fejl.png  used on input line 64.
@@ -1552,20 +1570,20 @@ Package pdftex.def Info: Hardware/Fejl.png  used on input line 64.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/EuroCircuits1.png, id=198, 676.2407pt x 39.14626pt>
+<Hardware/EuroCircuits1.png, id=207, 676.2407pt x 39.14626pt>
 File: Hardware/EuroCircuits1.png Graphic file (type png)
 <use Hardware/EuroCircuits1.png>
 Package pdftex.def Info: Hardware/EuroCircuits1.png  used on input line 74.
 (pdftex.def)             Requested size: 364.00139pt x 21.07175pt.
-[14
+[15
 
  <./Hardware/Ratsnest.png> <./Hardware/Nets.png>]
-<Hardware/EuroCircuits2.png, id=209, 433.62pt x 386.73053pt>
+<Hardware/EuroCircuits2.png, id=218, 433.62pt x 386.73053pt>
 File: Hardware/EuroCircuits2.png Graphic file (type png)
 <use Hardware/EuroCircuits2.png>
 Package pdftex.def Info: Hardware/EuroCircuits2.png  used on input line 81.
 (pdftex.def)             Requested size: 227.5pt x 202.90085pt.
-) [15 <./Hardware/Fejl.png> <./Hardware/EuroCircuits1.png> <./Hardware/EuroCirc
+) [16 <./Hardware/Fejl.png> <./Hardware/EuroCircuits1.png> <./Hardware/EuroCirc
 uits2.png>])
 (Implementering_og_test/Implementering_og_test.tex) (Resultater/Resultater1.tex
 ) (Konklusion/Konklusion.tex) (Referencer/Referencer.tex)
@@ -1581,7 +1599,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `Dokumentation.out' has not changed.
-(rerunfilecheck)             Checksum: 3E8757444C1AE6FBA2DEC6E4D4092D7B;1360.
+(rerunfilecheck)             Checksum: 2B5972D7E9BA5EFD7FD74FA191D1DCA2;1425.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1589,36 +1607,36 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 28893 strings out of 492970
- 513067 string characters out of 3126593
- 909744 words of memory out of 3000000
- 32284 multiletter control sequences out of 15000+200000
+ 29147 strings out of 492970
+ 515947 string characters out of 3126150
+ 909764 words of memory out of 3000000
+ 32533 multiletter control sequences out of 15000+200000
  556074 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,78p,681b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecrm1000.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecbi1000.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbx1200.pk>{C:/Users/carol/AppData/Local/Programs/MiKTeX 2
-.9/fonts/enc/dvips/base/8r.enc} <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Users\carol\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\carol\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Use
-rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.p
-k> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/carol/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/carol/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pf
-b><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb>
-Output written on Dokumentation.pdf (15 pages, 878831 bytes).
+ 45i,12n,78p,1393b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Kajene\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecrm1000.pk> <C:\Users\Kajene\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
+n\ec\dpi600\ecbi1000.pk> <C:\Users\Kajene\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\ecbx1200.pk>{C:/Users/Kajene/AppData/Local/Programs/MiKT
+eX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\Kajene\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\Kajene\AppData\Local\M
+iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Users\Kajene\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\
+Kajene\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk>
+ <C:\Users\Kajene\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+crm1728.pk> <C:\Users\Kajene\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecxc2074.pk> <C:\Users\Kajene\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\jknappen\ec\dpi600\eccc1200.pk><C:/Users/Kajene/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Kajene/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Kajene/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Use
+rs/Kajene/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Users/Kajene/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Users/Kajene/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Dokumentation.pdf (16 pages, 883722 bytes).
 PDF statistics:
- 574 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 590 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 
