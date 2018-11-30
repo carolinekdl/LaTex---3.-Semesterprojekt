@@ -1,0 +1,57 @@
+\section{Vejledermøde 7}
+
+\vspace{0.5 cm}
+\textbf{Indkaldelse til vejledermøde \#7} \\
+
+Dato: 15-11-2018 \\
+Tid: 12:00 \\
+Sted: 408E \\
+Deltagere: () Til stede, (F) for sent, (A) meldt afbud, (U) Udeblev \\
+Caroline(), Kajene(), Mathias(), Mikkel(), Nicolai(), Sarah(), Thea(), Samuel() 
+
+\vspace{0.1 cm}
+\textbf{Dagsorden:}
+
+\begin{enumerate}
+	\item Valg af mødeleder
+	\item Valg af referent
+	\item Godkendelse af referat fra forrige møde
+	\item Opfølgning af aktionspunkter fra forrige møde
+	\item Spørgsmål til Samuel
+	\item Gennemgang af tidsplan
+	\item Nye aktionspunkter til næste møde
+	\item Tidspunkt for næste møde
+	\item Evt.
+\end{enumerate}
+
+\textbf{Referat:}
+
+\begin{enumerate}
+	\item Kajene
+	\item Mikkel
+	\item Godkendt
+	\item Dato for accepttest: 13-12 kl. 12:00-13:00 \\ Dato for rapportgennemlæsning: 12-12 kl. 8:30-11:30
+	\item \textbf{Dokumentation af unittests:} \\
+	Lidt det samme som accepttest, hvad regner vi med, hvad får vi ud. Smid kode ind, og vis hvad vi har gjort for at teste koden - screenshots \\
+	\textbf{Individuelle konklusioner: } \\
+	Det er en del af dokumentationen og ikke en del af rapporten. Proces bilag, så ja de skal ligge i bilag \\
+	\textbf{Samplingsfrekvens:} \\
+	Er det bedst at vi sætter samplefrekvensen til 1000 Hz, når det er den det skal være, eller er det en god ide til udviklingen at den også kan sættes til noget andet?
+	De 1000 hz er sat for at gøre krav til filteret lettere. Det er et valgt vi træffer. \\
+	\textbf{Digitale filter:} \\
+	Hvad skal det digitale filter filtrerer væk?
+	Små udsving \\
+	Et visuelt filter, for at signalet ser bedre ud. Skærmen opdatere med 60 Hz, så vi kan ikke opdatere med 1000 hz. Dette kan løses ved at lave et midlingsfilter, fordi det vi skal vise er et tidsligt signal. Et midlingsfilter virker “kun” i tidsdomænet, og altså virkelig dårligt i frekvensdomænet, så da vi bare skal vise et tidsligt signal, så er et midlingsfilter godt at bruge. Ren stratetiske årsager.
+	Vi skal 1 digitalt  filter som vi kan tænde og slukke, men vi har også et implicit som sørger for de 1000 hz - midlingsfilter.
+	FIR lavpas med høj orden, så det er tydligt at demonstere hvornår der er og hvornår der ikke er filter på
+	\textbf{Fil eller database:} \\
+	Der er ikke noget krav om hvordan vi gør.
+	Det bedste ville være både fil og database. Det er men ellers lav en fil, da vi i sidste semester har lavet database. Vi kan lave MOSCOW på det, hvor must er fil, og could er database.
+	\item - \\
+	\item - \\
+	\item Næste møde: 22-11-2018 kl. 12:00 \\ 
+	\item -
+	
+\end{enumerate}
+
+\clearpage

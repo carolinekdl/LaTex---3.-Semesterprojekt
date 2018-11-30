@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  27 NOV 2018 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  29 NOV 2018 21:32
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
@@ -1514,21 +1514,36 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Projektformulering/Krav/Krav.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 17--3
+(Projektformulering/Krav/Krav.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-<Kravspecifikation/Diagram.png, id=381, 554.07pt x 342.42215pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+[12
+
+
+])
+Underfull \hbox (badness 10000) in paragraph at lines 24--3
+
+ []
+
+<Kravspecifikation/Diagram.png, id=385, 554.07pt x 342.42215pt>
 File: Kravspecifikation/Diagram.png Graphic file (type png)
 <use Kravspecifikation/Diagram.png>
 Package pdftex.def Info: Kravspecifikation/Diagram.png  used on input line 9.
 (pdftex.def)             Requested size: 341.25pt x 210.89403pt.
-[12
-
-
-] (Kravspecifikation/Aktoer_beskrivelser/Aktoer_beskrivelser.tex [13 <./Kravspe
-cifikation/Diagram.png>])
+(Kravspecifikation/Aktoer_beskrivelser/Aktoer_beskrivelser.tex [13 <./Kravspeci
+fikation/Diagram.png>])
 (Kravspecifikation/Use_case_beskrivelser/Use_case_beskrivelser.tex) [14]
 (Projektformulering/Projektafgraensning/Projektafgraensning.tex
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
@@ -1743,7 +1758,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
 Here is how much of TeX's memory you used:
  29369 strings out of 492970
  526173 string characters out of 3126593
- 913748 words of memory out of 3000000
+ 914748 words of memory out of 3000000
  32589 multiletter control sequences out of 15000+200000
  557104 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1765,7 +1780,7 @@ ec\dpi600\ecrm1728.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on Projektrapport.pdf (25 pages, 1136611 bytes).
+Output written on Projektrapport.pdf (25 pages, 1136990 bytes).
 PDF statistics:
  855 PDF objects out of 1000 (max. 8388607)
  110 named destinations out of 1000 (max. 500000)
