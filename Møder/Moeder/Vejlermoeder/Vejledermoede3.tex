@@ -1,0 +1,51 @@
+\section{Vejledermøde 3}
+
+\vspace{0.5 cm}
+\textbf{Indkaldelse til vejledermøde \#3} \\
+
+Dato: 25-09-2018 \\
+Tid: 12:00 \\
+Sted: 408E \\
+Deltagere: () Til stede, (F) for sent, (A) meldt afbud, (U) Udeblev \\
+Caroline(), Kajene(), Mathias(), Mikkel(), Nicolai(), Sarah(), Thea(), Samuel() 
+
+\vspace{0.1 cm}
+\textbf{Dagsorden:}
+
+\begin{enumerate}
+	\item Valg af mødeleder
+	\item Valg af referent
+	\item Godkendelse af referat fra forrige møde
+	\item Opfølgning af aktionspunkter fra forrige møde
+	\item Spørgsmål til Samuel
+	\item Gennemgang af tidsplan
+	\item Nye aktionspunkter til næste møde
+	\item Tidspunkt for næste møde
+	\item Evt.
+\end{enumerate}
+
+\textbf{Referat:}
+
+\begin{enumerate}
+	\item Thea
+	\item Mathias
+	\item Godkendt
+	\item Aktionspunkter opfulgt	
+	\item \textbf{Kalibrering:} \\ det har ikke noget med os at gøre. vi kan argumentere for begge dele men det er det tekniske personale der skal gøre det. god ide med at datoen står på gui, men det er lige så godt at det bliver logget, og udstyret så melder når det skal kalibreres. Hvem er der står og kigger på information på GUI’en er i princippet lidt ligegyldig for os. Informationen skal bare være der. Det skal bare stå der. \\
+	\textbf{Puls:} \\ to muligheder 1. algoritmiske vej ud fra toppunkt. <- den dumme måde. den anden måde er gennem fourier af vores blodtrykssignal og der vil være en dominerende frekvens, som er pulsen. finde peak fra given range. i starten skal bruge data fra physiobank til at simulere signalet. Det rigtige signal skal vi enten få fra CAVE lab eller Skejby.	\\
+	\textbf{UC1 og UC2:} \\ samuel har det fint med at slå dem sammen. Det giver god mening. hvis noget bliver for svært: split use casene op, hvis det bliver for dumt, så slå dem sammen. \\
+	\textbf{Test af nulpunktsjustering:} \\ Okay, hvis det ikke er for teknisk og at kunden godt kan gå ind og så om justeringen er lavet rigtigt. Ift. test giver det mest mening at det der står i accepttesten er det mest overordnede, så kunden ikke skal forholde sig til det, når man gennemgår AT med kunden. Det vil sige de mere specifikke tests skal trækkes længere ned i et andet test dokument. \\
+	\item Godkendt \\
+	\item - \\
+	\item Næste møde: 4-10-2018 \\ 
+	\item \textbf{Råd fra Samuel:} \\ 
+	
+	Begynd at eksperimentere med HW. Vi skal ende ud med et differentialt signal på +- 2,5 V. Læs databladene for transduceren inden fredag. Instrumentationsforstærkeren er et godt valg. Instrumentationsforstærker, der er mange gode ting ved fx høj CMMR er en af argumenterne. Aktivt filter er anbefalet, men vi skal argumentere for, hvorfor det er den bedste løsning. USB stik i computer: 5 V. Forsyningsspænding. \\
+	
+	Alarm for fald: den primære parameter ved operationer er det systoliske. en måde at gøre det på, er det at den øvre grænse er det systoliske og den nedre grænse er det diastoliske. På den måde bliver det meget visuelt og simpelt at se på GUI’en at se, om man er indenfor grænseværdierne. Så er der kun 2 grænseværdier der skal indstilles. \\
+	
+	Software: domænemodellen er det første vi skal igang med. Køre det hele slavisk efter bogen. unittest på fourier af blodtrykssignal og se om man kan finde pulsen af det. Have is i maven i forhold til at begynde at kode. Behøver ikke at tage alle diagrammerne som fx aktivitetsdiagrammer når det ikke er så algoritme baseret sammenlignet med 2. semester. Foregrib vores aktive fravalg i rapporten, så det er tydeligt, hvorfor vi har gjort, som vi har gjort. Middel blodtryk - ikke median blodtryk
+	
+\end{enumerate}
+
+\clearpage
