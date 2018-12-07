@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  4 DEC 2018 09:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  4 DEC 2018 10:52
 entering extended mode
 **./ProcessRapport.tex
 (ProcessRapport.tex
@@ -1537,7 +1537,7 @@ Here is how much of TeX's memory you used:
  32229 multiletter control sequences out of 15000+200000
  553834 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,78p,956b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,78p,1092b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecbx1200.pk>{C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
 ase/8r.enc} <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
@@ -1550,9 +1550,9 @@ ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk> <C:\Use
 rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.p
 k><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charte
 r/bchr8a.pfb>
-Output written on ProcessRapport.pdf (16 pages, 1010449 bytes).
+Output written on ProcessRapport.pdf (16 pages, 1013071 bytes).
 PDF statistics:
- 467 PDF objects out of 1000 (max. 8388607)
+ 468 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
