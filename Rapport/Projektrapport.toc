@@ -35,34 +35,34 @@
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}7.}\color {RoyalBlue}3}Softwarearkitektur}{16}{section.7.3}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}7.}\color {RoyalBlue}3.1}Dom\IeC {\ae }nemodel}{16}{subsection.7.3.1}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}7.}\color {RoyalBlue}4}Softwaredesign}{16}{section.7.4}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}8}Implementering og test}{17}{chapter.8}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}1}Hardwareimplementering}{17}{section.8.1}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2}Test af hardware}{17}{section.8.2}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.1}Forst\IeC {\ae }rker}{17}{subsection.8.2.1}
-\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.1.1}Test med Analog Discovery}{17}{subsubsection.8.2.1.1}
-\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.1.2}Test med v\IeC {\ae }skes\IeC {\o }jle}{17}{subsubsection.8.2.1.2}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.2}Anti-aliaseringsfilter}{17}{subsection.8.2.2}
-\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.2.1}Test med Analog Discovery}{17}{subsubsection.8.2.2.1}
-\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.2.2}Test med v\IeC {\ae }skes\IeC {\o }jle}{17}{subsubsection.8.2.2.2}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.3}Test af printplade}{17}{subsection.8.2.3}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}3}Softwareimplementering}{17}{section.8.3}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}4}Test af software}{17}{section.8.4}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}4.1}Modultest}{17}{subsection.8.4.1}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}4.2}Integrationstest}{17}{subsection.8.4.2}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}9}Resultater}{18}{chapter.9}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}1}Hardwareresultater}{18}{section.9.1}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2}Diskussion af resultater}{18}{section.9.2}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}3}Softwareresultater}{18}{section.9.3}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}4}Diskussion af resultater}{18}{section.9.4}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}10}Udviklingsproces}{19}{chapter.10}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1}Metode}{19}{section.10.1}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.1}Samarbejdsaftale}{19}{subsection.10.1.1}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.2}Udviklingsforl\IeC {\o }b}{19}{subsection.10.1.2}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.3}Arbejdsfordeling}{20}{subsection.10.1.3}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}2}Proces}{20}{section.10.2}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}3}Programmer}{20}{section.10.3}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}11}Erfaringer}{21}{chapter.11}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}12}Fremtidigt arbejde}{22}{chapter.12}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}13}Konklusion}{23}{chapter.13}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}14}Bilag}{24}{chapter.14}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}15}Referencer}{25}{chapter.15}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}8}Implementering og test}{18}{chapter.8}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}1}Hardwareimplementering}{18}{section.8.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2}Test af hardware}{18}{section.8.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.1}Forst\IeC {\ae }rker}{18}{subsection.8.2.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.1.1}Test med Analog Discovery}{18}{subsubsection.8.2.1.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.1.2}Test med v\IeC {\ae }skes\IeC {\o }jle}{18}{subsubsection.8.2.1.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.2}Anti-aliaseringsfilter}{18}{subsection.8.2.2}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.2.1}Test med Analog Discovery}{18}{subsubsection.8.2.2.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.2.2}Test med v\IeC {\ae }skes\IeC {\o }jle}{18}{subsubsection.8.2.2.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.3}Test af printplade}{18}{subsection.8.2.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}3}Softwareimplementering}{18}{section.8.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}4}Test af software}{18}{section.8.4}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}4.1}Modultest}{18}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}4.2}Integrationstest}{18}{subsection.8.4.2}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}9}Resultater}{19}{chapter.9}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}1}Hardwareresultater}{19}{section.9.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2}Diskussion af resultater}{19}{section.9.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}3}Softwareresultater}{19}{section.9.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}4}Diskussion af resultater}{19}{section.9.4}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}10}Udviklingsproces}{20}{chapter.10}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1}Metode}{20}{section.10.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.1}Samarbejdsaftale}{20}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.2}Udviklingsforl\IeC {\o }b}{20}{subsection.10.1.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.3}Arbejdsfordeling}{21}{subsection.10.1.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}2}Proces}{21}{section.10.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}3}Programmer}{21}{section.10.3}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}11}Erfaringer}{22}{chapter.11}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}12}Fremtidigt arbejde}{23}{chapter.12}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}13}Konklusion}{24}{chapter.13}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}14}Bilag}{25}{chapter.14}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}15}Referencer}{26}{chapter.15}
