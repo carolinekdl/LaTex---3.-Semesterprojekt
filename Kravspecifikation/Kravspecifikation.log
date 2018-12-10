@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  10 DEC 2018 11:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  10 DEC 2018 14:55
 entering extended mode
 **./Kravspecifikation.tex
 (Kravspecifikation.tex
@@ -1544,7 +1544,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
-<Systembeskrivelse/Systemoversigt.png, id=202, 1030.60031pt x 722.7pt>
+<Systembeskrivelse/Systemoversigt.png, id=199, 1030.60031pt x 722.7pt>
 File: Systembeskrivelse/Systemoversigt.png Graphic file (type png)
 <use Systembeskrivelse/Systemoversigt.png>
 Package pdftex.def Info: Systembeskrivelse/Systemoversigt.png  used on input li
@@ -1554,7 +1554,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 18.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 18.
-<Systembeskrivelse/Brugergraenseflade.png, id=204, 1365.1pt x 727.71875pt>
+<Systembeskrivelse/Brugergraenseflade.png, id=201, 1365.1pt x 727.71875pt>
 File: Systembeskrivelse/Brugergraenseflade.png Graphic file (type png)
 <use Systembeskrivelse/Brugergraenseflade.png>
 Package pdftex.def Info: Systembeskrivelse/Brugergraenseflade.png  used on inpu
@@ -1595,7 +1595,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-<FunktionelleKrav/Aktoer_kontekst_diagram.png, id=212, 534.71196pt x 239.60947p
+<FunktionelleKrav/Aktoer_kontekst_diagram.png, id=209, 534.71196pt x 239.60947p
 t>
 File: FunktionelleKrav/Aktoer_kontekst_diagram.png Graphic file (type png)
 <use FunktionelleKrav/Aktoer_kontekst_diagram.png>
@@ -1660,13 +1660,22 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-<FunktionelleKrav/Diagram.png, id=224, 554.07pt x 342.42215pt>
-File: FunktionelleKrav/Diagram.png Graphic file (type png)
-<use FunktionelleKrav/Diagram.png>
-Package pdftex.def Info: FunktionelleKrav/Diagram.png  used on input line 5.
-(pdftex.def)             Requested size: 341.25pt x 210.89403pt.
-)
-(FunktionelleKrav/Use_Cases/Use_Cases.tex
+
+
+! LaTeX Error: File `Kravspecifikation/Diagram' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 	\includegraphics{Kravspecifikation/Diagram}
+                                                
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (FunktionelleKrav/Use_Cases/Use_Cases.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1676,16 +1685,19 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 60.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 60.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 60.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 60.
 
-[11 <./FunktionelleKrav/Diagram.png>])
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+ [11]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining danish shorthand "~
@@ -1699,7 +1711,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-) (Use_Cases/Use_Cases/Use_Case_3.tex
+)
+(Use_Cases/Use_Cases/Use_Case_3.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "~
@@ -1831,13 +1844,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 22.
  ) 
 Here is how much of TeX's memory you used:
- 29247 strings out of 493303
- 518276 string characters out of 3129349
+ 29253 strings out of 493303
+ 518192 string characters out of 3129349
  912853 words of memory out of 3000000
- 32258 multiletter control sequences out of 15000+200000
+ 32254 multiletter control sequences out of 15000+200000
  556074 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,16n,78p,1018b,923s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,16n,78p,982b,923s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ecbx1200.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecrm1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
@@ -1853,9 +1866,9 @@ ec\dpi600\ecxc2074.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
 r\jknappen\ec\dpi600\eccc1200.pk><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Lenovo/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Kravspecifikation.pdf (17 pages, 890729 bytes).
+Output written on Kravspecifikation.pdf (17 pages, 752412 bytes).
 PDF statistics:
- 659 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 242 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 653 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 237 words of extra memory for PDF output out of 10000 (max. 10000000)
 
