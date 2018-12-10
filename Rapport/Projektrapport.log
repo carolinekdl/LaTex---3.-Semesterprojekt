@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  10 DEC 2018 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  10 DEC 2018 10:51
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
@@ -1722,11 +1722,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 4.
-<Kravspecifikation/Diagram.png, id=385, 554.07pt x 342.42215pt>
+<Kravspecifikation/Diagram.png, id=385, 1028.84375pt x 624.3325pt>
 File: Kravspecifikation/Diagram.png Graphic file (type png)
 <use Kravspecifikation/Diagram.png>
 Package pdftex.def Info: Kravspecifikation/Diagram.png  used on input line 9.
-(pdftex.def)             Requested size: 341.25pt x 210.89403pt.
+(pdftex.def)             Requested size: 341.25pt x 207.07828pt.
 (Kravspecifikation/Aktoer_beskrivelser/Aktoer_beskrivelser.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -1819,35 +1819,31 @@ Package babel Info: Redefining danish shorthand "~
 ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 11.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 11.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 26.
+
 [16
 
-])) (Arkitektur_og_design/Arkitektur_og_design.tex
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 29.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 29.
+ [17])) (Arkitektur_og_design/Arkitektur_og_design.tex
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -1927,7 +1923,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 7.
-[17
+[18
 
 
 ])) (Implementering_og_test/Implementering_og_test.tex
@@ -1939,7 +1935,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [18]
+ [19]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -2012,7 +2008,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-[19
+[20
 
 ]
 
@@ -2062,7 +2058,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [20
+ [21
 
 ]
 
@@ -2088,7 +2084,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-<Udviklingsproces/ASEmodellen.png, id=436, 711.51535pt x 449.10643pt>
+<Udviklingsproces/ASEmodellen.png, id=440, 711.51535pt x 449.10643pt>
 File: Udviklingsproces/ASEmodellen.png Graphic file (type png)
 <use Udviklingsproces/ASEmodellen.png>
 Package pdftex.def Info: Udviklingsproces/ASEmodellen.png  used on input line 7
@@ -2110,7 +2106,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 16.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 16.
- [21
+ [22
 
  <./Udviklingsproces/ASEmodellen.png>]
 Package babel Info: Redefining danish shorthand "|
@@ -2139,7 +2135,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-[22]
+[23]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -2167,7 +2163,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [23
+ [24
 
 ]
 
@@ -2198,7 +2194,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [24
+ [25
 
 ]
 
@@ -2228,7 +2224,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [25
+ [26
 
 ]
 
@@ -2258,7 +2254,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [26
+ [27
 
 ]
 
@@ -2288,7 +2284,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 41.
- [27
+ [28
 
 ]
 \tf@toc=\write5
@@ -2308,8 +2304,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
- 29426 strings out of 493303
- 525191 string characters out of 3129349
+ 29427 strings out of 493303
+ 525198 string characters out of 3129349
  907841 words of memory out of 3000000
  32322 multiletter control sequences out of 15000+200000
  557104 words of font info for 74 fonts, out of 3000000 for 9000
@@ -2333,9 +2329,9 @@ TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/Lenovo/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Le
 novo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pf
 b>
-Output written on Projektrapport.pdf (27 pages, 1142105 bytes).
+Output written on Projektrapport.pdf (28 pages, 1054745 bytes).
 PDF statistics:
- 864 PDF objects out of 1000 (max. 8388607)
- 112 named destinations out of 1000 (max. 500000)
+ 869 PDF objects out of 1000 (max. 8388607)
+ 113 named destinations out of 1000 (max. 500000)
  509 words of extra memory for PDF output out of 10000 (max. 10000000)
 
