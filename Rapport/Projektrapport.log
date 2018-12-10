@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  10 DEC 2018 10:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  10 DEC 2018 11:25
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
@@ -1820,29 +1820,29 @@ Package babel Info: Redefining danish shorthand "~
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 11.
+(babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 11.
+(babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 25.
 
 [16
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 28.
  [17])) (Arkitektur_og_design/Arkitektur_og_design.tex
 
 Class memoir Warning: X Columns too narrow (table too wide)
@@ -2329,7 +2329,7 @@ TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/Lenovo/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Le
 novo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pf
 b>
-Output written on Projektrapport.pdf (28 pages, 1054745 bytes).
+Output written on Projektrapport.pdf (28 pages, 1054697 bytes).
 PDF statistics:
  869 PDF objects out of 1000 (max. 8388607)
  113 named destinations out of 1000 (max. 500000)
