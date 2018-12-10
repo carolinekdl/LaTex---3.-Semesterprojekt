@@ -5,3 +5,5 @@ Kommunikationen mellem datalaget og logiklaget er designet ud fra producer-consu
 
 Mellem logiklaget og præsentationslaget var det i første omgang planen at bruge observer pattern. Det viste sig dog, at dette ikke var særlig hensigtsmæssigt, da der er forskel på, hvor tit blodtryksgrafen og beregningerne på hovedmenuen skal opdateres. Dette gjorde det vanskeligt at bruge observer standardmønstret. Der var behov for en mere generisk løsning. Kommunikationen mellem logiklaget og præsentationslaget blev i stedet løst ved at bruge events, som på mange måder minder om observer, men er en mere fleksibel metode, der er indbygget i .NET frameworket. Dette viste sig også at være en god løsning på kommunikation mellem alarmeringscontrolleren og hovedmenuen. 
 
+Vi har desuden valgt, at vi vil have vist en puls på det første sekund af målingen, da vi mener, at i forhold til brugssituation er det bedst at have en puls med det samme, og så bliver den så mere præcis med tiden end at man skal vente 10 sekunder, hvor man ikke har en puls. 
+
