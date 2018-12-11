@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  11 DEC 2018 09:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  11 DEC 2018 10:46
 entering extended mode
 **./Kravspecifikation.tex
 (Kravspecifikation.tex
@@ -1780,28 +1780,28 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 [16
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 ) (Afgraensning/Afgraensning.tex)
 (Udviklingsvaerktoejer/Udviklingsvaerktoejer.tex)
 (Ordforklaring/Ordforklaring.tex)
@@ -1831,8 +1831,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 22.
  ) 
 Here is how much of TeX's memory you used:
- 29241 strings out of 493303
- 518213 string characters out of 3129349
+ 29242 strings out of 493303
+ 518220 string characters out of 3129349
  912853 words of memory out of 3000000
  32255 multiletter control sequences out of 15000+200000
  556074 words of font info for 72 fonts, out of 3000000 for 9000
@@ -1853,9 +1853,9 @@ ec\dpi600\ecxc2074.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
 r\jknappen\ec\dpi600\eccc1200.pk><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Lenovo/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Kravspecifikation.pdf (17 pages, 826345 bytes).
+Output written on Kravspecifikation.pdf (17 pages, 826828 bytes).
 PDF statistics:
- 655 PDF objects out of 1000 (max. 8388607)
- 94 named destinations out of 1000 (max. 500000)
+ 657 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
  242 words of extra memory for PDF output out of 10000 (max. 10000000)
 
