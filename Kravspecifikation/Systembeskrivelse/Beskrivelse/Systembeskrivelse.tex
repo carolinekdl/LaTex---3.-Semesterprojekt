@@ -9,7 +9,11 @@ Systemets software del skal udvikle et program, der skal kunne kalibrere, vise b
 \begin{enumerate}[2.1.]
 	\item Knap “Lav nulpunktsjustering” - Laver nulpunktsjustering
 	\item Knap “Start” - Påbegynder målingen
-	\item Knap “Indstil grænseværdi” - Gør det muligt at ændre på grænseværdier under en måling eller før en måling 
+	\item Knap “Indstil grænseværdi” - Gør det muligt at ændre på grænseværdier under en måling eller før en måling Pr. deafult er der valgt flg. værdier: 
+	Puls øvre: 120
+	Puls nedre: 60
+	Blodtrykkets øvre grænseværdi er værdien for det systoliske blodtryk. Dette er valgt til 160. 
+	Blodtrykkets nedre grænseværdi er værdien for det diastoliske blodtryk. Dette er valgt til 60 
 	\item Knap “Ryd” - Rydder alle værdier på brugergrænsefladen
 	\item Knap “Stop” - Stopper målingen.
 	\item Knap “Gem” - Gemmer værdier for blodtryksmåling, alarmer, digitaltfilter, patientens CPR og brugerens ID.
@@ -22,7 +26,7 @@ Systemets software del skal udvikle et program, der skal kunne kalibrere, vise b
 \end{enumerate}
 
 \vspace{0.7 cm}
-Se også punkt 3 “Skitse af brugergrænseflade”
+Se også punkt 2.3 “Skitse af brugergrænseflade”
 
 
 Systemets hardware består af et elektrisk kredsløb der skal kunne forstærke blodtrykssignalet fra en tryktransducer. Før signalet sendes til en AD-converter filtreres det af et analogt antialiaseringsfilter. AD-converterens funktion er at konvertere det analoge signal til et digitalt signal, som vores software kan analysere.
