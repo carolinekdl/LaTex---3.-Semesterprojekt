@@ -16,8 +16,8 @@
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}3.4}Use Case 4: Gem data}{11}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}3.5}Use Case 5: Kalibrering}{11}{subsection.3.3.5}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}4}Use Case Diagram}{11}{section.3.4}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5}Use Cases: Fully dressed Use Case beskrivelser}{11}{section.3.5}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.1}Use Case 1: M\IeC {\r a}l og vis blodtryk og puls}{11}{subsection.3.5.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5}Use Cases: Fully dressed Use Case beskrivelser}{12}{section.3.5}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.1}Use Case 1: M\IeC {\r a}l og vis blodtryk og puls}{12}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.2}Use Case 2: Just\IeC {\'e}r gr\IeC {\ae }nsev\IeC {\ae }rdier}{13}{subsection.3.5.2}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.3}Use Case 3: Alarmering}{13}{subsection.3.5.3}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}5.4}Use Case 4: Gem data}{14}{subsection.3.5.4}
