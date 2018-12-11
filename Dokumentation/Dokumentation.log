@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.6)  11 DEC 2018 10:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.6)  11 DEC 2018 13:19
 entering extended mode
 **./Dokumentation.tex
 (Dokumentation.tex
@@ -1959,28 +1959,44 @@ File: Hardwaredesign/mmHg0.png Graphic file (type png)
 <use Hardwaredesign/mmHg0.png>
 Package pdftex.def Info: Hardwaredesign/mmHg0.png  used on input line 65.
 (pdftex.def)             Requested size: 455.0pt x 302.27403pt.
-<Hardwaredesign/mmHg25.png, id=302, 576.79642pt x 383.16736pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 83.
+ [25 <./Hardwaredesign/mmHg0.png>]
+<Hardwaredesign/mmHg25.png, id=308, 576.79642pt x 383.16736pt>
 File: Hardwaredesign/mmHg25.png Graphic file (type png)
 <use Hardwaredesign/mmHg25.png>
-Package pdftex.def Info: Hardwaredesign/mmHg25.png  used on input line 92.
+Package pdftex.def Info: Hardwaredesign/mmHg25.png  used on input line 89.
 (pdftex.def)             Requested size: 455.0pt x 302.26039pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Hardwaredesign/mmHg75.png, id=303, 578.16pt x 382.48557pt>
+<Hardwaredesign/mmHg75.png, id=309, 578.16pt x 382.48557pt>
 File: Hardwaredesign/mmHg75.png Graphic file (type png)
 <use Hardwaredesign/mmHg75.png>
-Package pdftex.def Info: Hardwaredesign/mmHg75.png  used on input line 106.
+Package pdftex.def Info: Hardwaredesign/mmHg75.png  used on input line 98.
 (pdftex.def)             Requested size: 455.0pt x 301.00471pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardwaredesign/trykgraf.png, id=304, 582.25075pt x 382.48557pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 102.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 102.
+[26 <./Hardwaredesign/mmHg25.png>]
+<Hardwaredesign/trykgraf.png, id=315, 582.25075pt x 382.48557pt>
 File: Hardwaredesign/trykgraf.png Graphic file (type png)
 <use Hardwaredesign/trykgraf.png>
-Package pdftex.def Info: Hardwaredesign/trykgraf.png  used on input line 121.
+Package pdftex.def Info: Hardwaredesign/trykgraf.png  used on input line 113.
 (pdftex.def)             Requested size: 455.0pt x 298.90366pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1993,7 +2009,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 6.
- [25 <./Hardwaredesign/mmHg0.png>]
+ [27 <./Hardwaredesign/mmHg75.png>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
@@ -2002,16 +2018,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 6.
- [26 <./Hardwaredesign/mmHg25.png> <./Hardwaredesign/mmHg75.png>]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 6.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 6.
- [27 <./Hardwaredesign/trykgraf.png>]
+ [28 <./Hardwaredesign/trykgraf.png>]
 \openout2 = `Hardwaredesign/Printplade.aux'.
 
 
@@ -2024,7 +2031,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
-<Hardware/Multisim.png, id=322, 862.07785pt x 593.21625pt>
+<Hardware/Multisim.png, id=326, 862.07785pt x 593.21625pt>
 File: Hardware/Multisim.png Graphic file (type png)
 <use Hardware/Multisim.png>
 Package pdftex.def Info: Hardware/Multisim.png  used on input line 9.
@@ -2043,11 +2050,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 20.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 20.
-[28
+[29
 
 
  <./Hardware/Multisim.png>]
-<Hardware/Ultiboard.png, id=331, 462.44197pt x 415.98268pt>
+<Hardware/Ultiboard.png, id=335, 462.44197pt x 415.98268pt>
 File: Hardware/Ultiboard.png Graphic file (type png)
 <use Hardware/Ultiboard.png>
 Package pdftex.def Info: Hardware/Ultiboard.png  used on input line 26.
@@ -2060,24 +2067,24 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 35.
- [29
+ [30
 
  <./Hardware/Ultiboard.png>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 36.
-<Hardware/Ratsnest.png, id=340, 468.03429pt x 422.86554pt>
+<Hardware/Ratsnest.png, id=344, 468.03429pt x 422.86554pt>
 File: Hardware/Ratsnest.png Graphic file (type png)
 <use Hardware/Ratsnest.png>
 Package pdftex.def Info: Hardware/Ratsnest.png  used on input line 48.
 (pdftex.def)             Requested size: 273.00278pt x 246.65588pt.
-<Hardware/Nets.png, id=341, 187.55786pt x 311.87947pt>
+<Hardware/Nets.png, id=345, 187.55786pt x 311.87947pt>
 File: Hardware/Nets.png Graphic file (type png)
 <use Hardware/Nets.png>
 Package pdftex.def Info: Hardware/Nets.png  used on input line 57.
 (pdftex.def)             Requested size: 90.99861pt x 151.31845pt.
-<Hardware/Fejl.png, id=342, 323.0641pt x 61.08536pt>
+<Hardware/Fejl.png, id=346, 323.0641pt x 61.08536pt>
 File: Hardware/Fejl.png Graphic file (type png)
 <use Hardware/Fejl.png>
 Package pdftex.def Info: Hardware/Fejl.png  used on input line 64.
@@ -2090,7 +2097,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 69.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 69.
-<Hardware/EuroCircuits1.png, id=343, 676.2407pt x 39.14626pt>
+<Hardware/EuroCircuits1.png, id=347, 676.2407pt x 39.14626pt>
 File: Hardware/EuroCircuits1.png Graphic file (type png)
 <use Hardware/EuroCircuits1.png>
 Package pdftex.def Info: Hardware/EuroCircuits1.png  used on input line 74.
@@ -2103,10 +2110,10 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 77.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 77.
-[30
+[31
 
  <./Hardware/Ratsnest.png> <./Hardware/Nets.png>]
-<Hardware/EuroCircuits2.png, id=354, 433.62pt x 386.73053pt>
+<Hardware/EuroCircuits2.png, id=359, 433.62pt x 386.73053pt>
 File: Hardware/EuroCircuits2.png Graphic file (type png)
 <use Hardware/EuroCircuits2.png>
 Package pdftex.def Info: Hardware/EuroCircuits2.png  used on input line 81.
@@ -2120,7 +2127,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 7.
- [31 <./Hardware/Fejl.png> <./Hardware/EuroCircuits1.png> <./Hardware/EuroCircu
+ [32 <./Hardware/Fejl.png> <./Hardware/EuroCircuits1.png> <./Hardware/EuroCircu
 its2.png>])
 (Implementering_og_test/Implementering_og_test.tex
 
@@ -2151,7 +2158,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 21.
- [32
+ [33
 
 
 ]
@@ -2178,8 +2185,8 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 29380 strings out of 493303
- 519460 string characters out of 3129784
+ 29381 strings out of 493303
+ 519467 string characters out of 3129784
  903857 words of memory out of 3000000
  32379 multiletter control sequences out of 15000+200000
  556074 words of font info for 72 fonts, out of 3000000 for 9000
@@ -2208,9 +2215,9 @@ ts/cm/cmr6.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr8.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mikke/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Dokumentation.pdf (32 pages, 2610626 bytes).
+Output written on Dokumentation.pdf (33 pages, 2611530 bytes).
 PDF statistics:
- 784 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
+ 788 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
  360 words of extra memory for PDF output out of 10000 (max. 10000000)
 
