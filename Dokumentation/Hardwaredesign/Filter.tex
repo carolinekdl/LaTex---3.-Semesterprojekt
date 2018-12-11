@@ -49,7 +49,7 @@ Dæmpningsfaktor:
 \[ \zeta= \frac{R_{1} \cdot C_{1} + R_{1} \cdot C_{2}+R_{2} \cdot C_{2}}{2 \cdot \sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}} \]
 
 Frekvens og dæmpningsfaktor indsættes nu i overføringsfunktionen:
-\[ T(s)=\frac{\omega_{0}=\frac{1}{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}{s^{2}+2 \cdot (\frac{R_{1} \cdot C_{1} + R_{1} \cdot C_{2}+R_{2} \cdot C_{2}}{2 \cdot \sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}) \cdot (\frac{1}{\sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}) \cdot s + (\frac{1}{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}})}  \]
+\[ T(s)=\frac{\frac{1}{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}{s^{2}+2 \cdot (\frac{R_{1} \cdot C_{1} + R_{1} \cdot C_{2}+R_{2} \cdot C_{2}}{2 \cdot \sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}) \cdot (\frac{1}{\sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}) \cdot s + (\frac{1}{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}})}  \]
 
 $T(s)$ simplificeres:
 \[ T(s)=\frac{1}{s \cdot C_{1} \cdot R_{1} +s \cdot C_{2} \cdot R_{1}+s \cdot C_{2} \cdot R_{2}+s^{2}\cdot C_{1} \cdot C_{2} \cdot R_{1} \cdot R_{2} +1} \]
@@ -61,12 +61,91 @@ For at gøre beregningen af komponenterne mulig bestemmes $ C_{1} $ og $ C_{2} $
 \[ C_{1} = 220 \cdot 10^{-9} \]
 \[ C_{2} = 220 \cdot 10^{-9} \]
 
+Da vi nu har to ligninger med to ubekendte kan vi beregne vores to modstande. Vi ved, at en værdi for dæmpningsfaktoren $\zeta$ på 1.5 vil give os reelle tal, så derfor starter vi med at definere $\zeta$ med denne værdi.
+
+\clearpage
+\[ \zeta = 1.5 \]
+\[ f_{0} = 50 \]
+\[ \omega_{0} = 2 \cdot \pi \cdot f_{0} \]
+
+Med formlerne for $\omega_{0}$ og $\zeta$ på forrige side kan vi nu opstille de to ligninger med to ubekendte som følgende: 
+\[ \begin{bmatrix}
+R_{1} & R_{2}
+\end{bmatrix} = \begin{bmatrix}
+\omega_{0}=\frac{1}{\sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}} \\ 
+\zeta= \frac{R_{1} \cdot C_{1} + R_{1} \cdot C_{2}+R_{2} \cdot C_{2}}{2 \cdot \sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}
+\end{bmatrix} \rightarrow \begin{bmatrix}
+14468,63 & 14468,63 \\ 7234,32
+& 28937,26 
+\end{bmatrix}\]
+
+Alle beregninger er udregnet i Mathcad Prime 4.0 og der er her solvet for $R_{1}$ og $R_{2}$.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{Hardwaredesign/RCRCfilter1}
+	\caption{Bodeplot af RCRC-filter}
+	\label{fig:RCRCfilter1}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{Hardwaredesign/RCRCfilter2}
+	\caption{Plot af RCRC-filter}
+	\label{fig:RCRCfilter2}
+\end{figure}
+
+\clearpage
+
+For at få en lavere dæmpningsfaktor $ \zeta $ og dermed et fladere bodeplot har vi været nødsaget til at vælge et andet filter. Ændrer vi på værdien på RCRC-filteret vil beregningen af de to modstande ende i komplekse tal, og det er vi ikke interresseret i.  Grundet disse overvejelser er vi kommet frem til, at vælge et aktivt lavpasfilter af typen Sallen Key. Valget er faldet på et aktivt filter frem for et passivt, da vi med et aktivt filter kan stole på en lav udgangsimpedans, der ikke påvirker indgangsimpedansen på AD-converteren. Vi kan med et passivt filter ikke være sikre på en lav udgangsimpedans og ville derfor være nødsaget til at regne på de forskellige komponenter for at få den lavest mulige, der skal være minimum 10 gange mindre end indgangsimpedansen på AD-converteren.
 
 \subsection{Beregninger: Sallen Key filter}
+\vspace{0.5 cm}
+\[ C_{1} = 680 \cdot 10^{-9} \]
+\[ C_{2} = 330 \cdot 10^{-9} \]
+
+Grundet Unity Gain Method kan vi vælge vores to modstande $ R_{1} $ og $ R_{2} $ til at være ens.
+\[ R_{1} = 6,71 k\Omega \]
+\[ R_{2} = 6,71 k\Omega \]
+
+De valgte komponenter indsættes i nedenstående udtryk for $ \omega_{0} $, så vi derefter kan bestemme vores knækfrekvens $ f_{0} $.
+\[ \omega_{0}=\frac{1}{\sqrt{R_{1} \cdot R_{2} \cdot C_{1} \cdot C_{2}}}=314,605 \]
+
+Vi solver for knækfrekvensen $ f_{0} $ på baggrund af de valgte komponenter:
+\[ f_{0}:=\omega_{0}=2\cdot \pi \cdot f_{0} \rightarrow 50,07 \]
+
+Vi kan endvidere udregne vores dæmpningsfaktor $ \zeta $, der bestemmes via denne simple formel: 
+\[ \zeta=\sqrt{\frac{C_{2}}{C_{1}}}=0,697 \]
+
+Vi er meget tilfredse med denne dæmpningsfaktor, der er noget lavere end den før beregnede dæmpningsfaktor på RC-filteret, der blev beregnet til at skulle være $ \zeta = 1,5 $. Vi plotter filteret i MathCad Prime for at se resultatet af vores dæmpning. Vi får følgende resultat:
+\[ T(s)=\frac{\omega_{0}^{2}}{{s^{2}+2 \cdot \zeta \cdot \omega_{0}\cdot s+\omega_{0}^{2}}} \]
+
+\clearpage
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{Hardware/Filterplot1}
+	\caption{Bodeplot af Sallen Key filteret}
+	\label{fig:Filterplot1}
+\end{figure}
+
+Vi kan på plottet se, at filteret dæmper med ca 40 $ dB $ pr. dekade, som et 2. ordens filter skal. Vi kan dog samtidig se, at filteret allerede er dæmpet med 3 $ dB $ ved begyndelsen. Dette er konsekvensen af dæmpningsfaktoren, som dog opfører sig noget pænere, end RC-filteret gjorde. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{Hardware/Filterplot2}
+	\caption{Plot af Sallen Key filteret}
+	\label{fig:Filterplot2}
+\end{figure}
+
+\clearpage
 
 \subsection{Test af filter}
-\vspace{0.5 cm}
+\vspace{0.2 cm}
+For at teste filteret har vi brugt Waveforms til at generere et sinussignal med en masse forskellige frekvenser. Vi kan her igen konstatere, at signalet er dæmpes lidt før knækfrekvensen på 50 Hz, ca. med 3 dB som forventet ud fra figur \vref{fig:Filterplot1}. Vi har indsendt signaler med frekvenser mellem 10 Hz og 500 Hz og kan ud fra den udregnede dB se, at signalet dæmpes med de ca 40 dB pr. Dekade som forventes af et 2. ordens filter. I nedenstående tabel \vref{tab:filtertest} ses resultatet af testen af filteret.
+\vspace{0.2 cm}
 \begin{table}[h!]
+	\centering
 	\begin{tabular}{l|l|l|l|l}
 		\multicolumn{5}{l}{\textbf{Test af filter}} \\
 		\hline
@@ -121,4 +200,50 @@ For at gøre beregningen af komponenterne mulig bestemmes $ C_{1} $ og $ C_{2} $
 		\hline
 		500 & 2 & 0 & 0,0201 & -39,95667876
 	\end{tabular}
+\caption{Test af Sallen Key filter}
+\label{tab:filtertest}
 \end{table}
+
+\clearpage
+Her ses et par eksempler på nogle af de sinussignaler, der blev sendt ind vha. Waveforms. Hér ses det hvordan signalet er dæmpet mere og mere ved højere frekvenser og derfor får en lavere amplitude.
+
+10 Hz:
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardwaredesign/10hz}
+	\caption{Test af filter: 10 Hz}
+	\label{fig:10hz}
+\end{figure}
+
+50 Hz: 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardwaredesign/50hz}
+	\caption{Test af filter: 50 Hz}
+	\label{fig:50hz}
+\end{figure}
+\clearpage
+100 Hz:
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardwaredesign/100hz}
+	\caption{Test af filter: 100 Hz}
+	\label{fig:100hz}
+\end{figure}
+
+250 Hz:
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardwaredesign/250hz}
+	\caption{Test af filter: 250 Hz}
+	\label{fig:250hz}
+\end{figure}
+\clearpage
+500 Hz:
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Hardwaredesign/500hz}
+	\caption{Test af filter: 500 Hz}
+	\label{fig:500hz}
+\end{figure}
+
