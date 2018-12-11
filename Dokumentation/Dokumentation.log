@@ -1,20 +1,11 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.6)  22 NOV 2018 12:30
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.6)  5 DEC 2018 15:27
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.6)  11 DEC 2018 13:19
 entering extended mode
 **./Dokumentation.tex
 (Dokumentation.tex
 LaTeX2e <2017-04-15>
 Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
 (../Preamble/Preamble.tex
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Document Class: memoir 2018/04/04 v3.7g configurable book, report, article docu
 ment class
 \onelineskip=\skip41
@@ -23,7 +14,6 @@ ment class
 \@memcnta=\count79
 \c@@memmarkcntra=\count80
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
 ty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
@@ -38,24 +28,6 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
 x.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
-sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty
-"
-Package: ifetex 2018/03/31 v1.2a ifetex
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex
-"))
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
-.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
-ex.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -64,11 +36,7 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fleqn.clo"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fleqn.clo"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -78,11 +46,7 @@ Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 )
 \binding=\skip48
@@ -380,7 +344,6 @@ Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-<<<<<<< HEAD
 ) ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
 y"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
@@ -393,21 +356,6 @@ Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
 "
-=======
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
-"
-Package: inputenc 2018/04/06 v1.3b Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
- ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
-File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)) ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
-Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.de
-f"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count137
@@ -415,26 +363,15 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks25
 \uc@temptokena=\toks26
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2018/01/24 3.17 The Babel package
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
 "
 File: switch.def 2018/01/24 3.17 Babel switching mechanism
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
-"
-Package: babel 2018/09/26 3.24 The Babel package
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.de
-f"
-File: switch.def 2018/09/26 3.24 Babel switching mechanism
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
@@ -469,38 +406,6 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
-"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\dani
-sh.ldf"
-Language: danish 2009/09/19 v1.3r Danish support from the babel system
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
-"
-File: babel.def 2018/09/26 3.24 Babel common definitions
-\babel@savecnt=\count139
-\U@D=\dimen148
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.
-def")
-\bbl@dirlevel=\count140
-)
-Package babel Info: Making " an active character on input line 82.
-))
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.st
-y"
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip185
@@ -518,20 +423,11 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip258
 \JustifyingParindent=\skip259
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anyfontsize\anyfon
 tsize.sty"
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anyfontsize\anyfo
-ntsize.sty"
-Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -545,11 +441,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
-=======
- ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -616,7 +508,6 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -635,58 +526,25 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
 ics.cfg"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
-.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
-ty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks27
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
-.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
-"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
-hics.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
 x.def"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
-ex.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
 sty"
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow
-.sty"
-Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 \multirow@colwidth=\skip260
 \multirow@cntb=\count140
 \multirow@dima=\skip261
 \bigstrutjot=\dimen151
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.
 sty"
 Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
@@ -697,18 +555,6 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
 .cfg"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl
-.sty"
-Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
-y"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
-r.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
@@ -716,20 +562,11 @@ Package color Info: Driver file: pdftex.def on input line 147.
 \everycr=\toks28
 \minrowclearance=\skip262
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
 .cfg"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
-"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
-r.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -744,7 +581,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam.
 def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
@@ -754,18 +590,6 @@ Package: flafter 2017/04/11 v1.4a Standard LaTeX floats after reference (FMi)
 Applying: [2015/01/01] float order in 2-column on input line 49.
 Already applied: [0000/00/00] float order in 2-column on input line 151.
 ) ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam
-.def"
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\flafter.sty"
-Package: flafter 2018/01/08 v1.4c Standard LaTeX floats after reference (FMi)
-Applying: [2015/01/01] float order in 2-column on input line 49.
-Already applied: [0000/00/00] float order in 2-column on input line 151.
-) ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count141
 \float@exts=\toks29
@@ -773,13 +597,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box30
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.st
 y"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 \wrapoverhang=\dimen152
 \WF@size=\dimen153
 \c@WF@wrappedlines=\count142
@@ -787,13 +606,8 @@ ty"
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.st
 y"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip263
 \LTright=\skip264
@@ -811,7 +625,6 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count147
 \LT@p@ftn=\toks32
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\hhline.sty"
 Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
 ) ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xr.sty"
@@ -819,40 +632,21 @@ Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
 y"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\hhline.sty"
-Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
-) ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xr.sty"
-Package: xr 1994/05/28 v5.02 eXternal References (DPC)
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip267
 
 For additional information on amsmath, use the `?' option.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
 y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
 "
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
-ty"
-Package: amstext 2000/06/29 v2.01 AMS text
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
-y"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks33
 \ex@=\dimen155
 ))
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
 "
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -860,15 +654,6 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
 "
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
-y"
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen156
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
-y"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count148
@@ -909,40 +694,25 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
 ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
 sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
-sty"
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd.
 sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 \symstmry=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtool
 s.sty"
 Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
@@ -951,16 +721,6 @@ Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count160
 \calc@Bcount=\count161
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtoo
-ls.sty"
-Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count161
-\calc@Bcount=\count162
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 \calc@Adimen=\dimen164
 \calc@Bdimen=\dimen165
 \calc@Askip=\skip270
@@ -970,13 +730,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count162
 \calc@Cskip=\skip272
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.
 sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
@@ -993,7 +748,6 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen171
 \l_MT_below_shortintertext_sep=\dimen172
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.st
 y"
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
@@ -1014,28 +768,6 @@ Package: expl3 2018-10-31 L3 programming layer (code)
 \l__iow_line_target_int=\count172
 \l__iow_one_indent_int=\count173
 \l__iow_indent_int=\count174
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.s
-ty"
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.st
-y"
-Package: expl3 2018-10-31 L3 programming layer (loader) 
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-co
-de.tex"
-Package: expl3 2018-10-31 L3 programming layer (code)
-\c_max_int=\count165
-\l_tmpa_int=\count166
-\l_tmpb_int=\count167
-\g_tmpa_int=\count168
-\g_tmpb_int=\count169
-\g__kernel_prg_map_int=\count170
-\c_log_iow=\count171
-\l_iow_line_count_int=\count172
-\l__iow_line_target_int=\count173
-\l__iow_one_indent_int=\count174
-\l__iow_indent_int=\count175
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 \c_zero_dim=\dimen173
 \c_max_dim=\dimen174
 \l_tmpa_dim=\dimen175
@@ -1170,7 +902,6 @@ Package: expl3 2018-10-31 L3 programming layer (code)
 \l__seq_internal_a_int=\count317
 \l__seq_internal_b_int=\count318
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode
 .def"
 File: l3pdfmode.def 2018-10-31 v L3 Experimental driver: PDF mode
@@ -1178,15 +909,6 @@ File: l3pdfmode.def 2018-10-31 v L3 Experimental driver: PDF mode
 ))
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\
 xparse.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmod
-e.def"
-File: l3pdfmode.def 2018-10-31 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count320
-))
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse
-\xparse.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: xparse 2018-10-17 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count320
 \g__xparse_grabber_int=\count321
@@ -1196,13 +918,8 @@ Package: xparse 2018-10-17 L3 Experimental document command parser
 )
 Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2
 e\l3keys2e.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys
-2e\l3keys2e.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box53
@@ -1246,7 +963,6 @@ Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_number_align_skip=\skip282
 \l__siunitx_table_text_align_skip=\skip283
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
 tor.sty"
 Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
@@ -1256,18 +972,6 @@ Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgree
 k.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
-ator.sty"
-Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
-))
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty
-"
-Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgre
-ek.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemi
 stry (CN)
 \l__chemgreek_tmpa_int=\count342
@@ -1290,37 +994,21 @@ stry (CN)
 \mhchem@option@minustextsidebearingleft=\dimen280
 \mhchem@option@minustextsidebearingright=\dimen281
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\varioref.sty
 "
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\varioref.st
-y"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
 \c@vrcnt=\count346
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip294
 \bibsep=\skip295
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count347
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 sty"
 \lst@mode=\count348
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
-.sty"
-\lst@mode=\count349
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 \lst@gtempboxa=\box60
 \lst@token=\toks38
 \lst@length=\count349
@@ -1333,45 +1021,25 @@ sty"
 \lst@lineno=\count353
 \lst@maxwidth=\dimen285
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
 ty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
-sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
 \c@lstnumber=\count354
 \lst@skipnumbers=\count355
 \lst@framebox=\box61
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 cfg"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
-.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
 Package: listings 2018/09/02 1.7 (Carsten Heinz)
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count356
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
 sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip296
 \enit@outerparindent=\dimen286
@@ -1379,7 +1047,6 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box62
 \enitdp@description=\count357
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
 sty"
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
@@ -1401,41 +1068,13 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
 .sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages
-.sty"
-Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.s
-ty"
-Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegs
-hi.sty"
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
-err.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
-s.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
 \AM@pagewidth=\dimen287
 \AM@pageheight=\dimen288
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
 def"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex
-.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box63
@@ -1444,7 +1083,6 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count358
 \AM@templatesizebox=\box64
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
 Package: fixme 2017/03/05 v4.4 Collaborative annotations for LaTeX2e
 
@@ -1455,19 +1093,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
 tex"
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
-Package: fixme 2017/03/05 v4.4 Collaborative annotations for LaTeX2e
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.s
-ty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 .tex"
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
-s.tex"
 \XKV@toks=\toks42
 \XKV@tempa@toks=\toks43
 )
@@ -1502,7 +1128,6 @@ Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
 sty"
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
@@ -1514,19 +1139,6 @@ Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
 generic.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
-.sty"
-Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
--hyperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
--generic.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1565,46 +1177,26 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
 ty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
 .sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
-sty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
-s.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen289
 \Hy@linkcounter=\count365
 \Hy@pagecounter=\count366
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
 f"
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
-ef"
-File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 )
 \Hy@SavedSpaceFactor=\count367
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
 cfg"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
-.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
@@ -1614,15 +1206,9 @@ Package hyperref Info: Hyper index ON on input line 4517.
 Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-<<<<<<< HEAD
 Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count368
  ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-=======
-Package hyperref Info: Bookmarks ON on input line 4788.
-\c@Hy@tempcnt=\count369
- ("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -1631,7 +1217,6 @@ LaTeX Info: Redefining \url on input line 5115.
 \Fld@menulength=\count369
 \Field@Width=\dimen291
 \Fld@charsize=\dimen292
-<<<<<<< HEAD
 Package hyperref Info: Hyper figures OFF on input line 6369.
 Package hyperref Info: Link nesting OFF on input line 6374.
 Package hyperref Info: Hyper index ON on input line 6377.
@@ -1647,23 +1232,6 @@ LaTeX Info: Redefining \pageref on input line 6443.
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.st
 y"
-=======
-Package hyperref Info: Hyper figures OFF on input line 6396.
-Package hyperref Info: Link nesting OFF on input line 6401.
-Package hyperref Info: Hyper index ON on input line 6404.
-Package hyperref Info: backreferencing OFF on input line 6411.
-Package hyperref Info: Link coloring ON on input line 6414.
-Package hyperref Info: Link coloring with OCG OFF on input line 6421.
-Package hyperref Info: PDF/A mode OFF on input line 6426.
-LaTeX Info: Redefining \ref on input line 6466.
-LaTeX Info: Redefining \pageref on input line 6470.
-\Hy@abspage=\count371
-\c@Item=\count372
-\c@Hfootnote=\count373
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
 \c@memhycontfloat=\count373
@@ -1671,7 +1239,6 @@ ass
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
 ef"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
@@ -1680,16 +1247,6 @@ File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
 check.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
-def"
-File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
-\Fld@listcount=\count376
-\c@bookmark@seq@number=\count377
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
-echeck.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -1698,15 +1255,25 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 123.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: lstlang1.sty 2018/09/02 1.7 listings language file
-)) (Dokumentation.aux)
+)) (Dokumentation.aux (Hardwaredesign/Stromforsyning.aux)
+(Hardwaredesign/Forstaerker.aux) (Hardwaredesign/Subtractor.aux)
+(Hardwaredesign/Filter.aux) (Hardwaredesign/Integrationstest.aux
+
+LaTeX Warning: Label `fig:100mmHg' multiply defined.
+
+
+LaTeX Warning: Label `fig:50mmHg' multiply defined.
+
+
+LaTeX Warning: Label `fig:10mmHg' multiply defined.
+
+
+LaTeX Warning: Label `fig:0mmHg' multiply defined.
+
+) (Hardwaredesign/Printplade.aux))
 \openout1 = `Dokumentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -1724,33 +1291,21 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 4.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
-) ABD: EverySelectfont initializing macros
+)
+ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 4.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
-kii"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count377
 \scratchdimen=\dimen293
@@ -1764,21 +1319,12 @@ kii"
 \makeMPintoPDFobject=\count382
 \everyMPtoPDFconversion=\toks45
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
 y"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
--base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1788,21 +1334,12 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
 tor-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-ab
 breviations.cfg"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
-ator-basic-dictionary-English.dict"
-Dictionary: translator-basic-dictionary, Language: English 
-)
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-a
-bbreviations.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 
@@ -1811,42 +1348,24 @@ Package chemgreek Info: Activating mapping `default' on line 4.
 \c@lstlisting=\count383
 \AtBeginShipoutBox=\box66
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
 .sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
 y"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscap
-e.sty"
-Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 Package hyperref Info: Link coloring ON on input line 4.
 
-<<<<<<< HEAD
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
 ty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
 estring.sty"
-=======
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
-sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\Kajene\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
-lestring.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count384
@@ -1858,7 +1377,6 @@ LaTeX Info: Redefining \nameref on input line 4.
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
-<<<<<<< HEAD
 (Dokumentation.out) (Dokumentation.out)
 \@outlinefile=\write4
 \openout4 = `Dokumentation.out'.
@@ -1876,7 +1394,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
 ") (Forside/Forside.tex
-<Forside/AUlogo.png, id=87, 498.06075pt x 152.36925pt>
+<Forside/AUlogo.png, id=95, 498.06075pt x 152.36925pt>
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
@@ -1972,7 +1490,27 @@ Package babel Info: Redefining danish shorthand "~
 ]
 \openout2 = `Hardwaredesign/Stromforsyning.aux'.
 
- (Hardwaredesign/Stromforsyning.tex)
+ (Hardwaredesign/Stromforsyning.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+
+("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+))
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 2.
+
+[5
+
+]
 \openout2 = `Hardwaredesign/Forstaerker.aux'.
 
  (Hardwaredesign/Forstaerker.tex
@@ -1996,9 +1534,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 38.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 38.
-
-[5
-
+ [6
 
 
 ]
@@ -2012,12 +1548,12 @@ Underfull \hbox (badness 1097) in paragraph at lines 42--44
 ryktransduceren i brug.
  []
 
-<Hardware/0mmHg.png, id=145, 572.02386pt x 381.80377pt>
+<Hardware/0mmHg.png, id=159, 572.02386pt x 381.80377pt>
 File: Hardware/0mmHg.png Graphic file (type png)
 <use Hardware/0mmHg.png>
 Package pdftex.def Info: Hardware/0mmHg.png  used on input line 52.
 (pdftex.def)             Requested size: 455.0pt x 303.7015pt.
-<Hardware/10mmHg.png, id=146, 569.97849pt x 382.48557pt>
+<Hardware/10mmHg.png, id=160, 569.97849pt x 382.48557pt>
 File: Hardware/10mmHg.png Graphic file (type png)
 <use Hardware/10mmHg.png>
 Package pdftex.def Info: Hardware/10mmHg.png  used on input line 59.
@@ -2025,7 +1561,7 @@ Package pdftex.def Info: Hardware/10mmHg.png  used on input line 59.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/50mmHg.png, id=147, 572.70566pt x 381.80377pt>
+<Hardware/50mmHg.png, id=161, 572.70566pt x 381.80377pt>
 File: Hardware/50mmHg.png Graphic file (type png)
 <use Hardware/50mmHg.png>
 Package pdftex.def Info: Hardware/50mmHg.png  used on input line 66.
@@ -2033,7 +1569,7 @@ Package pdftex.def Info: Hardware/50mmHg.png  used on input line 66.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/100mmHg.png, id=148, 571.34207pt x 383.16736pt>
+<Hardware/100mmHg.png, id=162, 571.34207pt x 383.16736pt>
 File: Hardware/100mmHg.png Graphic file (type png)
 <use Hardware/100mmHg.png>
 Package pdftex.def Info: Hardware/100mmHg.png  used on input line 73.
@@ -2041,7 +1577,7 @@ Package pdftex.def Info: Hardware/100mmHg.png  used on input line 73.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/GrafTrykOgSpaending.png, id=149, 579.52359pt x 447.25584pt>
+<Hardware/GrafTrykOgSpaending.png, id=163, 579.52359pt x 447.25584pt>
 File: Hardware/GrafTrykOgSpaending.png Graphic file (type png)
 <use Hardware/GrafTrykOgSpaending.png>
 Package pdftex.def Info: Hardware/GrafTrykOgSpaending.png  used on input line 8
@@ -2058,7 +1594,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 95.
-[6
+[7
 
  <./Hardware/0mmHg.png>]
 Package babel Info: Redefining danish shorthand "|
@@ -2069,7 +1605,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 95.
- [7 <./Hardware/10mmHg.png> <./Hardware/50mmHg.png>]
+ [8 <./Hardware/10mmHg.png> <./Hardware/50mmHg.png>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
@@ -2079,7 +1615,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 95.
 
-[8 <./Hardware/100mmHg.png>]
+[9 <./Hardware/100mmHg.png>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
@@ -2088,7 +1624,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 95.
- [9 <./Hardware/GrafTrykOgSpaending.png>])
+ [10 <./Hardware/GrafTrykOgSpaending.png>])
 \openout2 = `Hardwaredesign/Subtractor.aux'.
 
 
@@ -2109,7 +1645,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 33.
- [10
+ [11
 
 
 
@@ -2118,13 +1654,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 35.
-<Hardwaredesign/Subtractor1.png, id=179, 2253.92062pt x 1242.89343pt>
+<Hardwaredesign/Subtractor1.png, id=193, 2253.92062pt x 1242.89343pt>
 File: Hardwaredesign/Subtractor1.png Graphic file (type png)
 <use Hardwaredesign/Subtractor1.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor1.png  used on input line 40.
 
 (pdftex.def)             Requested size: 455.0pt x 250.88802pt.
-<Hardwaredesign/Subtractor2.png, id=180, 2229.07782pt x 1274.51157pt>
+<Hardwaredesign/Subtractor2.png, id=194, 2229.07782pt x 1274.51157pt>
 File: Hardwaredesign/Subtractor2.png Graphic file (type png)
 <use Hardwaredesign/Subtractor2.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor2.png  used on input line 47.
@@ -2138,7 +1674,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 52.
- [11
+ [12
 
  <./Hardwaredesign/Subtractor1.png
 
@@ -2149,13 +1685,13 @@ erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 pdfTeX warning: pdflatex.exe (file ./Hardwaredesign/Subtractor2.png): large int
 erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<Hardwaredesign/Subtractor3.png, id=187, 2252.415pt x 1213.53375pt>
+<Hardwaredesign/Subtractor3.png, id=201, 2252.415pt x 1213.53375pt>
 File: Hardwaredesign/Subtractor3.png Graphic file (type png)
 <use Hardwaredesign/Subtractor3.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor3.png  used on input line 55.
 
 (pdftex.def)             Requested size: 455.0pt x 245.12817pt.
-<Hardwaredesign/Subtractor4.png, id=188, 2229.07782pt x 1270.7475pt>
+<Hardwaredesign/Subtractor4.png, id=202, 2229.07782pt x 1270.7475pt>
 File: Hardwaredesign/Subtractor4.png Graphic file (type png)
 <use Hardwaredesign/Subtractor4.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor4.png  used on input line 62.
@@ -2170,7 +1706,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 4.
- [12
+ [13
 
  <./Hardwaredesign/Subtractor3.png
 
@@ -2192,12 +1728,12 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
-<Hardware/RCfilter.png, id=195, 314.46054pt x 116.5784pt>
+<Hardware/RCfilter.png, id=210, 314.46054pt x 116.5784pt>
 File: Hardware/RCfilter.png Graphic file (type png)
 <use Hardware/RCfilter.png>
 Package pdftex.def Info: Hardware/RCfilter.png  used on input line 13.
 (pdftex.def)             Requested size: 227.5pt x 84.34016pt.
-<Hardware/SallenKey.png, id=197, 369.95357pt x 138.08733pt>
+<Hardware/SallenKey.png, id=212, 369.95357pt x 138.08733pt>
 File: Hardware/SallenKey.png Graphic file (type png)
 <use Hardware/SallenKey.png>
 Package pdftex.def Info: Hardware/SallenKey.png  used on input line 24.
@@ -2210,7 +1746,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 29.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 29.
- [13
+ [14
 
 
  <./Hardware/RCfilter.png> <./Hardware/SallenKey.png>]
@@ -2219,17 +1755,138 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 31.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 66.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 66.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 66.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 66.
+ [15
 
+]
+<Hardwaredesign/RCRCfilter1.png, id=227, 530.84036pt x 332.09785pt>
+File: Hardwaredesign/RCRCfilter1.png Graphic file (type png)
+<use Hardwaredesign/RCRCfilter1.png>
+Package pdftex.def Info: Hardwaredesign/RCRCfilter1.png  used on input line 86.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+(pdftex.def)             Requested size: 318.49861pt x 199.26025pt.
+<Hardwaredesign/RCRCfilter2.png, id=228, 528.2593pt x 323.0641pt>
+File: Hardwaredesign/RCRCfilter2.png Graphic file (type png)
+<use Hardwaredesign/RCRCfilter2.png>
+Package pdftex.def Info: Hardwaredesign/RCRCfilter2.png  used on input line 93.
 
+(pdftex.def)             Requested size: 318.49861pt x 194.7815pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 98.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 98.
+ [16
+
+ <./Hardwaredesign/RCRCfilter1.png> <./Hardwaredesign/RCRCfilter2.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 102.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 123.
+ [17
+
+]
+<Hardware/Filterplot1.png, id=242, 482.66035pt x 346.29375pt>
+File: Hardware/Filterplot1.png Graphic file (type png)
+<use Hardware/Filterplot1.png>
+Package pdftex.def Info: Hardware/Filterplot1.png  used on input line 127.
+(pdftex.def)             Requested size: 318.49861pt x 228.5123pt.
+<Hardware/Filterplot2.png, id=243, 483.9509pt x 296.39304pt>
+File: Hardware/Filterplot2.png Graphic file (type png)
+<use Hardware/Filterplot2.png>
+Package pdftex.def Info: Hardware/Filterplot2.png  used on input line 136.
+(pdftex.def)             Requested size: 318.49861pt x 195.06372pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 141.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 141.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 141.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 141.
+ [18
+
+ <./Hardware/Filterplot1.png> <./Hardware/Filterplot2.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 143.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 143.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 207.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 207.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 207.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 207.
+
+[19
+
+]
+<Hardwaredesign/10hz.png, id=260, 563.96411pt x 289.51018pt>
+File: Hardwaredesign/10hz.png Graphic file (type png)
+<use Hardwaredesign/10hz.png>
+Package pdftex.def Info: Hardwaredesign/10hz.png  used on input line 213.
+(pdftex.def)             Requested size: 455.0pt x 233.58311pt.
+<Hardwaredesign/50hz.png, id=261, 565.25464pt x 288.21965pt>
+File: Hardwaredesign/50hz.png Graphic file (type png)
+<use Hardwaredesign/50hz.png>
+Package pdftex.def Info: Hardwaredesign/50hz.png  used on input line 221.
+(pdftex.def)             Requested size: 455.0pt x 232.00095pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 225.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 225.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 225.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 225.
+ [20
+
+ <./Hardwaredesign/10hz.png> <./Hardwaredesign/50hz.png>]
+<Hardwaredesign/100hz.png, id=270, 563.96411pt x 287.78946pt>
+File: Hardwaredesign/100hz.png Graphic file (type png)
+<use Hardwaredesign/100hz.png>
+Package pdftex.def Info: Hardwaredesign/100hz.png  used on input line 229.
+(pdftex.def)             Requested size: 455.0pt x 232.19478pt.
+<Hardwaredesign/250hz.png, id=271, 563.96411pt x 288.64983pt>
+File: Hardwaredesign/250hz.png Graphic file (type png)
+<use Hardwaredesign/250hz.png>
+Package pdftex.def Info: Hardwaredesign/250hz.png  used on input line 237.
+(pdftex.def)             Requested size: 455.0pt x 232.88895pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 241.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 241.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 241.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 241.
+ [21
+
+ <./Hardwaredesign/100hz.png> <./Hardwaredesign/250hz.png>]
+<Hardwaredesign/500hz.png, id=280, 563.53394pt x 288.21965pt>
+File: Hardwaredesign/500hz.png Graphic file (type png)
+<use Hardwaredesign/500hz.png>
+Package pdftex.def Info: Hardwaredesign/500hz.png  used on input line 245.
+(pdftex.def)             Requested size: 455.0pt x 232.709pt.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
@@ -2239,18 +1896,9 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
- [14
+ [22
 
-]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 5.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 5.
- [15]
+ <./Hardwaredesign/500hz.png>]
 \openout2 = `Hardwaredesign/Integrationstest.aux'.
 
  (Hardwaredesign/Integrationstest.tex
@@ -2263,9 +1911,95 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 8.
+<Hardwaredesign/mmHg100.png, id=287, 578.8418pt x 383.16736pt>
+File: Hardwaredesign/mmHg100.png Graphic file (type png)
+<use Hardwaredesign/mmHg100.png>
+Package pdftex.def Info: Hardwaredesign/mmHg100.png  used on input line 25.
+(pdftex.def)             Requested size: 455.0pt x 301.20215pt.
+<Hardwaredesign/mmHg50.png, id=288, 576.11462pt x 385.21274pt>
+File: Hardwaredesign/mmHg50.png Graphic file (type png)
+<use Hardwaredesign/mmHg50.png>
+Package pdftex.def Info: Hardwaredesign/mmHg50.png  used on input line 38.
+(pdftex.def)             Requested size: 455.0pt x 304.2383pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 48.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 48.
+[23
+
+
+ <./Hardwaredesign/mmHg100.png>]
+<Hardwaredesign/mmHg10.png, id=294, 577.47821pt x 382.48557pt>
+File: Hardwaredesign/mmHg10.png Graphic file (type png)
+<use Hardwaredesign/mmHg10.png>
+Package pdftex.def Info: Hardwaredesign/mmHg10.png  used on input line 51.
+(pdftex.def)             Requested size: 455.0pt x 301.36656pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 61.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 61.
+ [24 <./Hardwaredesign/mmHg50.png> <./Hardwaredesign/mmHg10.png>]
+<Hardwaredesign/mmHg0.png, id=301, 578.8418pt x 384.53094pt>
+File: Hardwaredesign/mmHg0.png Graphic file (type png)
+<use Hardwaredesign/mmHg0.png>
+Package pdftex.def Info: Hardwaredesign/mmHg0.png  used on input line 65.
+(pdftex.def)             Requested size: 455.0pt x 302.27403pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 83.
+ [25 <./Hardwaredesign/mmHg0.png>]
+<Hardwaredesign/mmHg25.png, id=308, 576.79642pt x 383.16736pt>
+File: Hardwaredesign/mmHg25.png Graphic file (type png)
+<use Hardwaredesign/mmHg25.png>
+Package pdftex.def Info: Hardwaredesign/mmHg25.png  used on input line 89.
+(pdftex.def)             Requested size: 455.0pt x 302.26039pt.
+<Hardwaredesign/mmHg75.png, id=309, 578.16pt x 382.48557pt>
+File: Hardwaredesign/mmHg75.png Graphic file (type png)
+<use Hardwaredesign/mmHg75.png>
+Package pdftex.def Info: Hardwaredesign/mmHg75.png  used on input line 98.
+(pdftex.def)             Requested size: 455.0pt x 301.00471pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 102.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 102.
+[26 <./Hardwaredesign/mmHg25.png>]
+<Hardwaredesign/trykgraf.png, id=315, 582.25075pt x 382.48557pt>
+File: Hardwaredesign/trykgraf.png Graphic file (type png)
+<use Hardwaredesign/trykgraf.png>
+Package pdftex.def Info: Hardwaredesign/trykgraf.png  used on input line 113.
+(pdftex.def)             Requested size: 455.0pt x 298.90366pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 6.
@@ -2275,10 +2009,16 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 6.
- [16
-
-
-]
+ [27 <./Hardwaredesign/mmHg75.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 6.
+ [28 <./Hardwaredesign/trykgraf.png>]
 \openout2 = `Hardwaredesign/Printplade.aux'.
 
 
@@ -2291,7 +2031,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
-<Hardware/Multisim.png, id=221, 862.07785pt x 593.21625pt>
+<Hardware/Multisim.png, id=326, 862.07785pt x 593.21625pt>
 File: Hardware/Multisim.png Graphic file (type png)
 <use Hardware/Multisim.png>
 Package pdftex.def Info: Hardware/Multisim.png  used on input line 9.
@@ -2310,11 +2050,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 20.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 20.
-[17
+[29
 
 
  <./Hardware/Multisim.png>]
-<Hardware/Ultiboard.png, id=230, 462.44197pt x 415.98268pt>
+<Hardware/Ultiboard.png, id=335, 462.44197pt x 415.98268pt>
 File: Hardware/Ultiboard.png Graphic file (type png)
 <use Hardware/Ultiboard.png>
 Package pdftex.def Info: Hardware/Ultiboard.png  used on input line 26.
@@ -2327,24 +2067,24 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 35.
- [18
+ [30
 
  <./Hardware/Ultiboard.png>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 36.
-<Hardware/Ratsnest.png, id=239, 468.03429pt x 422.86554pt>
+<Hardware/Ratsnest.png, id=344, 468.03429pt x 422.86554pt>
 File: Hardware/Ratsnest.png Graphic file (type png)
 <use Hardware/Ratsnest.png>
 Package pdftex.def Info: Hardware/Ratsnest.png  used on input line 48.
 (pdftex.def)             Requested size: 273.00278pt x 246.65588pt.
-<Hardware/Nets.png, id=240, 187.55786pt x 311.87947pt>
+<Hardware/Nets.png, id=345, 187.55786pt x 311.87947pt>
 File: Hardware/Nets.png Graphic file (type png)
 <use Hardware/Nets.png>
 Package pdftex.def Info: Hardware/Nets.png  used on input line 57.
 (pdftex.def)             Requested size: 90.99861pt x 151.31845pt.
-<Hardware/Fejl.png, id=241, 323.0641pt x 61.08536pt>
+<Hardware/Fejl.png, id=346, 323.0641pt x 61.08536pt>
 File: Hardware/Fejl.png Graphic file (type png)
 <use Hardware/Fejl.png>
 Package pdftex.def Info: Hardware/Fejl.png  used on input line 64.
@@ -2357,7 +2097,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 69.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 69.
-<Hardware/EuroCircuits1.png, id=242, 676.2407pt x 39.14626pt>
+<Hardware/EuroCircuits1.png, id=347, 676.2407pt x 39.14626pt>
 File: Hardware/EuroCircuits1.png Graphic file (type png)
 <use Hardware/EuroCircuits1.png>
 Package pdftex.def Info: Hardware/EuroCircuits1.png  used on input line 74.
@@ -2370,10 +2110,10 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 77.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 77.
-[19
+[31
 
  <./Hardware/Ratsnest.png> <./Hardware/Nets.png>]
-<Hardware/EuroCircuits2.png, id=254, 433.62pt x 386.73053pt>
+<Hardware/EuroCircuits2.png, id=359, 433.62pt x 386.73053pt>
 File: Hardware/EuroCircuits2.png Graphic file (type png)
 <use Hardware/EuroCircuits2.png>
 Package pdftex.def Info: Hardware/EuroCircuits2.png  used on input line 81.
@@ -2387,10 +2127,41 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 7.
- [20 <./Hardware/Fejl.png> <./Hardware/EuroCircuits1.png> <./Hardware/EuroCircu
+ [32 <./Hardware/Fejl.png> <./Hardware/EuroCircuits1.png> <./Hardware/EuroCircu
 its2.png>])
-(Implementering_og_test/Implementering_og_test.tex) (Resultater/Resultater1.tex
-) (Konklusion/Konklusion.tex) (Referencer/Referencer.tex)
+(Implementering_og_test/Implementering_og_test.tex
+
+Class memoir Warning: X Columns too narrow (table too wide)
+(memoir)               on input line 1.
+
+
+Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+[]|[]| 
+ []
+
+
+Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
+[][] 
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+) (Resultater/Resultater1.tex) (Konklusion/Konklusion.tex)
+(Referencer/Referencer.tex)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 21.
+ [33
+
+
+]
 \tf@toc=\write5
 \openout5 = `Dokumentation.toc'.
 
@@ -2403,21 +2174,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `Dokumentation.out' has not changed.
-(rerunfilecheck)             Checksum: 6A9CC5AF4BCD92269CA9CFB7191CB69C;1456.
+(rerunfilecheck)             Checksum: 46D7F6FBE99CF505D3EB3A689026581C;1574.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 29002 strings out of 493303
- 513999 string characters out of 3129784
- 906857 words of memory out of 3000000
- 32051 multiletter control sequences out of 15000+200000
+ 29381 strings out of 493303
+ 519467 string characters out of 3129784
+ 903857 words of memory out of 3000000
+ 32379 multiletter control sequences out of 15000+200000
  556074 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,78p,681b,779s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,78p,1393b,779s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecrm1000.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecbi1000.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -2432,39 +2206,18 @@ k> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecxc2074.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\eccc1200.pk><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/bitstrea/charter/bchr8a.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mikke/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/mikke/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/mikke/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pf
-b><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr8.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Dokumentation.pdf (20 pages, 1037841 bytes).
+2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/mikke/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mikke/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/User
+s/mikke/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr6.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Users/mikke/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mikke/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Dokumentation.pdf (33 pages, 2611530 bytes).
 PDF statistics:
- 645 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 788 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
+ 360 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-=======
-(Dokumentation.out) (Dokumentation.out
-! I can't write on file `Dokumentation.pdf'.
-Please type another file name for output
-! Emergency stop.
-\Hy@OutlineName ...utline goto name{#2}count#3{#4}
-                                                  
-l.1 \BOOKMARK [0][-]{chapter.1}{Indledning}{}
-                                             % 1
-*** (job aborted, file error in nonstop mode)
-
- 
-Here is how much of TeX's memory you used:
- 27982 strings out of 492970
- 496639 string characters out of 3126150
- 900764 words of memory out of 3000000
- 31574 multiletter control sequences out of 15000+200000
- 534312 words of font info for 29 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 45i,1n,78p,394b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
