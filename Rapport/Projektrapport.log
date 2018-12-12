@@ -1,37 +1,18 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  12 DEC 2018 08:26
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.6)  22 NOV 2018 12:26
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.1)  10 DEC 2018 14:59
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  12 DEC 2018 19:56
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
-LaTeX2e <2017-04-15>
-Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2018-04-01> patch level 5
 (../Preamble/Preamble.tex
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Document Class: memoir 2018/04/04 v3.7g configurable book, report, article docu
 ment class
 \onelineskip=\skip41
 \lxvchars=\skip42
 \xlvchars=\skip43
-\@memcnta=\count79
-\c@@memmarkcntra=\count80
+\@memcnta=\count80
+\c@@memmarkcntra=\count81
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
 ty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
@@ -46,41 +27,6 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
 x.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
-ty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty"
-Package: ifetex 2018/03/31 v1.2a ifetex
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex"
-))
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
-x.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
-sty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty
-"
-Package: ifetex 2018/03/31 v1.2a ifetex
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex
-"))
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
-.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
-ex.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -89,15 +35,7 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fleqn.clo"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fleqn.clo"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fleqn.clo"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -107,15 +45,7 @@ Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 )
 \binding=\skip48
@@ -128,20 +58,20 @@ File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 \mem@maxheadheight=\skip55
 \mem@maxfootheight=\skip56
 \headwidth=\skip57
-\c@storedpagenumber=\count81
+\c@storedpagenumber=\count82
 \memPD=\dimen103
 \m@mabparskip=\skip58
 \thanksmarkwidth=\skip59
 \thanksmarksep=\skip60
 \droptitle=\skip61
-\c@book=\count82
-\c@part=\count83
-\c@chapter=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
 \beforechapskip=\skip62
 \midchapskip=\skip63
 \afterchapskip=\skip64
@@ -163,8 +93,8 @@ File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 \beforesubparaskip=\skip80
 \aftersubparaskip=\skip81
 \pfbreakskip=\skip82
-\c@@ppsavesec=\count90
-\c@@ppsaveapp=\count91
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
 \ragrparindent=\dimen104
 \everylistparindent=\dimen105
 \parsepi=\skip83
@@ -186,10 +116,10 @@ File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 \absrightindent=\skip97
 \absparindent=\skip98
 \absparsep=\skip99
-\c@vslineno=\count92
-\c@poemline=\count93
-\c@modulo@vs=\count94
-\c@memfvsline=\count95
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
 \vleftskip=\skip100
 \vrightskip=\skip101
 \stanzaskip=\skip102
@@ -197,11 +127,11 @@ File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 \vgap=\skip104
 \vindent=\skip105
 \vleftmargin=\dimen107
-\c@verse=\count96
-\c@chrsinstr=\count97
+\c@verse=\count97
+\c@chrsinstr=\count98
 \beforepoemtitleskip=\skip106
 \afterpoemtitleskip=\skip107
-\c@poem=\count98
+\c@poem=\count99
 \beforePoemTitleskip=\skip108
 \midPoemTitleskip=\skip109
 \afterPoemTitleskip=\skip110
@@ -215,7 +145,7 @@ File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 \TX@old@col=\dimen112
 \TX@target=\dimen113
 \TX@delta=\dimen114
-\TX@cols=\count99
+\TX@cols=\count100
 \TX@ftn=\toks16
 \heavyrulewidth=\dimen115
 \lightrulewidth=\dimen116
@@ -227,22 +157,22 @@ File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 \cmidrulesep=\dimen122
 \cmidrulekern=\dimen123
 \defaultaddspace=\dimen124
-\@cmidla=\count100
-\@cmidlb=\count101
+\@cmidla=\count101
+\@cmidlb=\count102
 \@aboverulesep=\dimen125
 \@belowrulesep=\dimen126
-\@thisruleclass=\count102
-\@lastruleclass=\count103
+\@thisruleclass=\count103
+\@lastruleclass=\count104
 \@thisrulewidth=\dimen127
 \ctableftskip=\skip113
 \ctabrightskip=\skip114
-\abovecolumnspenalty=\count104
-\@linestogo=\count105
-\@cellstogo=\count106
-\@cellsincolumn=\count107
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
 \crtok=\toks17
 \@mincolumnwidth=\dimen128
-\c@newflo@tctr=\count108
+\c@newflo@tctr=\count109
 \mem@margin@floatbox=\box26
 \@contcwidth=\skip115
 \@contindw=\skip116
@@ -254,7 +184,7 @@ File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 \subfloatbottomskip=\skip122
 \subfloatlabelskip=\skip123
 \subfloatcapmargin=\dimen129
-\c@@contsubnum=\count109
+\c@@contsubnum=\count110
 \m@mscap@capbox=\box27
 \m@mscap@fbox=\box28
 \sidecapsep=\dimen130
@@ -298,7 +228,7 @@ LaTeX Info: Redefining \emph on input line 7586.
 \cftsubparagraphindent=\skip151
 \cftsubparagraphnumwidth=\skip152
 \prechapterprecisshift=\dimen139
-\c@maxsecnumdepth=\count110
+\c@maxsecnumdepth=\count111
 \bibindent=\dimen140
 \bibitemsep=\skip153
 \indexcolsep=\skip154
@@ -319,7 +249,7 @@ LaTeX Info: Redefining \emph on input line 7586.
 \footinsdim=\skip164
 \footinsv@r=\insert197
 \@mpfootinsv@r=\insert196
-\m@m@k=\count111
+\m@m@k=\count112
 \m@m@h=\dimen143
 \m@mipn@skip=\skip165
 \sidefootins=\insert195
@@ -329,52 +259,52 @@ LaTeX Info: Redefining \emph on input line 7586.
 \sidefootvsep=\skip169
 \sidefootwidth=\skip170
 \m@mdownsf=\skip171
-\c@sidefootnote=\count112
+\c@sidefootnote=\count113
 \sidefootmarkwidth=\skip172
 \sidefootmarksep=\skip173
 \sidefootparindent=\skip174
-\c@pagenote=\count113
-\c@pagenoteshadow=\count114
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
 \mem@pn@lastkern=\skip175
 \every@verbatim=\toks19
 \afterevery@verbatim=\toks20
 \verbatim@line=\toks21
-\tab@position=\count115
+\tab@position=\count116
 \verbatim@in@stream=\read1
 \verbatimindent=\skip176
 \verbatim@out=\write3
 \bvboxsep=\skip177
-\c@memfbvline=\count116
-\c@bvlinectr=\count117
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
 \bvnumlength=\skip178
 \fb@frw=\dimen144
 \fb@frh=\dimen145
 \FrameRule=\dimen146
 \FrameSep=\dimen147
-\c@cp@cntr=\count118
+\c@cp@cntr=\count119
 LaTeX Info: Redefining \: on input line 12100.
 LaTeX Info: Redefining \! on input line 12102.
-\c@ism@mctr=\count119
-\c@xsm@mctr=\count120
-\c@csm@mctr=\count121
-\c@ksm@mctr=\count122
-\c@xksm@mctr=\count123
-\c@cksm@mctr=\count124
-\c@msm@mctr=\count125
-\c@xmsm@mctr=\count126
-\c@cmsm@mctr=\count127
-\c@bsm@mctr=\count128
-\c@workm@mctr=\count129
-\c@sheetsequence=\count130
-\c@lastsheet=\count131
-\c@lastpage=\count132
-\c@figure=\count133
-\c@lofdepth=\count134
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
 \cftbeforefigureskip=\skip179
 \cftfigureindent=\skip180
 \cftfigurenumwidth=\skip181
-\c@table=\count135
-\c@lotdepth=\count136
+\c@table=\count136
+\c@lotdepth=\count137
 \cftbeforetableskip=\skip182
 \cfttableindent=\skip183
 \cfttablenumwidth=\skip184
@@ -413,7 +343,6 @@ Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-<<<<<<< HEAD
 ) ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
 y"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
@@ -426,70 +355,22 @@ Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
 "
-=======
-<<<<<<< HEAD
-) ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
-y"
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
- ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
-File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)) ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
-Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
-"
-=======
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
-"
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
- ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
-File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)) ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
-Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.de
-f"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
-\uc@secondtry=\count137
+\uc@secondtry=\count138
 \uc@combtoks=\toks24
 \uc@combtoksb=\toks25
 \uc@temptokena=\toks26
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2018/09/26 3.24 The Babel package
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
 "
 File: switch.def 2018/09/26 3.24 Babel switching mechanism
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2018/01/24 3.17 The Babel package
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
-"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
-"
-Package: babel 2018/01/24 3.17 The Babel package
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.de
-f"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-File: switch.def 2018/01/24 3.17 Babel switching mechanism
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
@@ -520,77 +401,6 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\danis
-h.ldf"
-Language: danish 2009/09/19 v1.3r Danish support from the babel system
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2018/01/24 3.17 Babel common definitions
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
-"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
-"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\dani
-sh.ldf"
-Language: danish 2009/09/19 v1.3r Danish support from the babel system
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
-"
-File: babel.def 2018/01/24 3.17 Babel common definitions
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.de
-f"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-File: switch.def 2018/01/24 3.17 Babel switching mechanism
-)
-\babel@savecnt=\count138
-\U@D=\dimen148
-
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
-ef")
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.
-def")
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-\bbl@dirlevel=\count139
-)
-Package babel Info: Making " an active character on input line 82.
-))
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.st
-y"
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip185
@@ -608,28 +418,11 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip258
 \JustifyingParindent=\skip259
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anyfontsize\anyfon
 tsize.sty"
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anyfontsize\anyfon
-tsize.sty"
-Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anyfontsize\anyfo
-ntsize.sty"
-Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -643,15 +436,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
-=======
- ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -718,7 +503,6 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -737,89 +521,25 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
 ics.cfg"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks27
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
-ics.cfg"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
-.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
-ty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks27
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
-.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
-"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
-hics.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
 x.def"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
-ex.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
 sty"
 Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
-sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 \multirow@colwidth=\skip260
-\multirow@cntb=\count140
+\multirow@cntb=\count141
 \multirow@dima=\skip261
 \bigstrutjot=\dimen151
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.
 sty"
 Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
@@ -830,31 +550,6 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
 .cfg"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.
-sty"
-Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl
-.sty"
-Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
-y"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
-r.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
@@ -862,28 +557,11 @@ Package color Info: Driver file: pdftex.def on input line 147.
 \everycr=\toks28
 \minrowclearance=\skip262
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
 .cfg"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
-"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
-r.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -898,7 +576,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam.
 def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
@@ -908,86 +585,41 @@ Package: flafter 2018/01/08 v1.4c Standard LaTeX floats after reference (FMi)
 Applying: [2015/01/01] float order in 2-column on input line 49.
 Already applied: [0000/00/00] float order in 2-column on input line 151.
 ) ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam.
-def"
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\flafter.sty"
-Package: flafter 2017/04/11 v1.4a Standard LaTeX floats after reference (FMi)
-Applying: [2015/01/01] float order in 2-column on input line 49.
-Already applied: [0000/00/00] float order in 2-column on input line 151.
-) ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam
-.def"
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\flafter.sty"
-Package: flafter 2017/04/11 v1.4a Standard LaTeX floats after reference (FMi)
-Applying: [2015/01/01] float order in 2-column on input line 49.
-Already applied: [0000/00/00] float order in 2-column on input line 151.
-) ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count141
+\c@float@type=\count142
 \float@exts=\toks29
 \float@box=\box29
 \@float@everytoks=\toks30
 \@floatcapt=\box30
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.st
 y"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.st
-y"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 \wrapoverhang=\dimen152
 \WF@size=\dimen153
-\c@WF@wrappedlines=\count142
+\c@WF@wrappedlines=\count143
 \WF@box=\box31
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.st
 y"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.st
-y"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip263
 \LTright=\skip264
 \LTpre=\skip265
 \LTpost=\skip266
-\LTchunksize=\count143
+\LTchunksize=\count144
 \LTcapwidth=\dimen154
 \LT@head=\box32
 \LT@firsthead=\box33
 \LT@foot=\box34
 \LT@lastfoot=\box35
-\LT@cols=\count144
-\LT@rows=\count145
-\c@LT@tables=\count146
-\c@LT@chunks=\count147
+\LT@cols=\count145
+\LT@rows=\count146
+\c@LT@tables=\count147
+\c@LT@chunks=\count148
 \LT@p@ftn=\toks32
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\hhline.sty"
 Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
 ) ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xr.sty"
@@ -995,59 +627,21 @@ Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
 y"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\hhline.sty"
-Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
-) ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xr.sty"
-Package: xr 1994/05/28 v5.02 eXternal References (DPC)
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
-y"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\hhline.sty"
-Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
-) ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xr.sty"
-Package: xr 1994/05/28 v5.02 eXternal References (DPC)
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip267
 
 For additional information on amsmath, use the `?' option.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
 y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
 "
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
-y"
-Package: amstext 2000/06/29 v2.01 AMS text
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
-ty"
-Package: amstext 2000/06/29 v2.01 AMS text
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
-y"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks33
 \ex@=\dimen155
 ))
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
 "
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -1055,34 +649,15 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
 "
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-"
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen156
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
-y"
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen156
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
-y"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count148
+\inf@bad=\count149
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count149
-\leftroot@=\count150
+\uproot@=\count150
+\leftroot@=\count151
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count151
-\DOTSCASE@=\count152
+\classnum@=\count152
+\DOTSCASE@=\count153
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -1091,15 +666,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen157
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count153
-\c@MaxMatrixCols=\count154
+\macc@depth=\count154
+\c@MaxMatrixCols=\count155
 \dotsspace@=\muskip10
-\c@parentequation=\count155
-\dspbrk@lvl=\count156
+\c@parentequation=\count156
+\dspbrk@lvl=\count157
 \tag@help=\toks34
-\row@=\count157
-\column@=\count158
-\maxfields@=\count159
+\row@=\count158
+\column@=\count159
+\maxfields@=\count160
 \andhelp@=\toks35
 \eqnshift@=\dimen158
 \alignsep@=\dimen159
@@ -1114,54 +689,25 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
 ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
 sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
-ty"
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
-sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
-sty"
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd.
 sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd.
-sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 \symstmry=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtool
 s.sty"
 Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
@@ -1170,52 +716,24 @@ Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count161
 \calc@Bcount=\count162
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtool
-s.sty"
-Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtoo
-ls.sty"
-Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count160
-\calc@Bcount=\count161
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 \calc@Adimen=\dimen164
 \calc@Bdimen=\dimen165
 \calc@Askip=\skip270
 \calc@Bskip=\skip271
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count162
+\calc@Ccount=\count163
 \calc@Cskip=\skip272
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.
 sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.
-sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count163
+\g_MT_multlinerow_int=\count164
 \l_MT_multwidth_dim=\dimen166
 \origjot=\skip273
 \l_MT_shortvdotswithinadjustabove_dim=\dimen167
@@ -1225,7 +743,6 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen171
 \l_MT_below_shortintertext_sep=\dimen172
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.st
 y"
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
@@ -1246,40 +763,6 @@ Package: expl3 2018-10-19 L3 programming layer (code)
 \l__iow_line_target_int=\count173
 \l__iow_one_indent_int=\count174
 \l__iow_indent_int=\count175
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.st
-y"
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
-"
-Package: expl3 2018-10-31 L3 programming layer (loader) 
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-cod
-e.tex"
-Package: expl3 2018-10-31 L3 programming layer (code)
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.s
-ty"
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.st
-y"
-Package: expl3 2018-10-19 L3 programming layer (loader) 
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-co
-de.tex"
-Package: expl3 2018-10-19 L3 programming layer (code)
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-\c_max_int=\count164
-\l_tmpa_int=\count165
-\l_tmpb_int=\count166
-\g_tmpa_int=\count167
-\g_tmpb_int=\count168
-\g__kernel_prg_map_int=\count169
-\c_log_iow=\count170
-\l_iow_line_count_int=\count171
-\l__iow_line_target_int=\count172
-\l__iow_one_indent_int=\count173
-\l__iow_indent_int=\count174
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 \c_zero_dim=\dimen173
 \c_max_dim=\dimen174
 \l_tmpa_dim=\dimen175
@@ -1298,78 +781,78 @@ Package: expl3 2018-10-19 L3 programming layer (code)
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-\l_keys_choice_int=\count175
-\l__intarray_loop_int=\count176
+\l_keys_choice_int=\count176
+\l__intarray_loop_int=\count177
 \c__intarray_sp_dim=\dimen179
-\g__intarray_font_int=\count177
-\c__fp_leading_shift_int=\count178
-\c__fp_middle_shift_int=\count179
-\c__fp_trailing_shift_int=\count180
-\c__fp_big_leading_shift_int=\count181
-\c__fp_big_middle_shift_int=\count182
-\c__fp_big_trailing_shift_int=\count183
-\c__fp_Bigg_leading_shift_int=\count184
-\c__fp_Bigg_middle_shift_int=\count185
-\c__fp_Bigg_trailing_shift_int=\count186
-\c__kernel_randint_max_int=\count187
-\g__fp_array_int=\count188
-\l__fp_array_loop_int=\count189
-\l__sort_length_int=\count190
-\l__sort_min_int=\count191
-\l__sort_top_int=\count192
-\l__sort_max_int=\count193
-\l__sort_true_max_int=\count194
-\l__sort_block_int=\count266
-\l__sort_begin_int=\count267
-\l__sort_end_int=\count268
-\l__sort_A_int=\count269
-\l__sort_B_int=\count270
-\l__sort_C_int=\count271
-\l__tl_analysis_normal_int=\count272
-\l__tl_analysis_index_int=\count273
-\l__tl_analysis_nesting_int=\count274
-\l__tl_analysis_type_int=\count275
-\l__regex_internal_a_int=\count276
-\l__regex_internal_b_int=\count277
-\l__regex_internal_c_int=\count278
-\l__regex_balance_int=\count279
-\l__regex_group_level_int=\count280
-\l__regex_mode_int=\count281
-\c__regex_cs_in_class_mode_int=\count282
-\c__regex_cs_mode_int=\count283
-\l__regex_catcodes_int=\count284
-\l__regex_default_catcodes_int=\count285
-\c__regex_catcode_D_int=\count286
-\c__regex_catcode_S_int=\count287
-\c__regex_catcode_L_int=\count288
-\c__regex_catcode_O_int=\count289
-\c__regex_catcode_A_int=\count290
-\c__regex_all_catcodes_int=\count291
-\l__regex_show_lines_int=\count292
-\l__regex_min_state_int=\count293
-\l__regex_max_state_int=\count294
-\l__regex_left_state_int=\count295
-\l__regex_right_state_int=\count296
-\l__regex_capturing_group_int=\count297
-\l__regex_min_pos_int=\count298
-\l__regex_max_pos_int=\count299
-\l__regex_curr_pos_int=\count300
-\l__regex_start_pos_int=\count301
-\l__regex_success_pos_int=\count302
-\l__regex_curr_char_int=\count303
-\l__regex_curr_catcode_int=\count304
-\l__regex_last_char_int=\count305
-\l__regex_case_changed_char_int=\count306
-\l__regex_curr_state_int=\count307
-\l__regex_step_int=\count308
-\l__regex_min_active_int=\count309
-\l__regex_max_active_int=\count310
-\l__regex_replacement_csnames_int=\count311
-\l__regex_match_count_int=\count312
-\l__regex_min_submatch_int=\count313
-\l__regex_submatch_int=\count314
-\l__regex_zeroth_submatch_int=\count315
-\g__regex_trace_regex_int=\count316
+\g__intarray_font_int=\count178
+\c__fp_leading_shift_int=\count179
+\c__fp_middle_shift_int=\count180
+\c__fp_trailing_shift_int=\count181
+\c__fp_big_leading_shift_int=\count182
+\c__fp_big_middle_shift_int=\count183
+\c__fp_big_trailing_shift_int=\count184
+\c__fp_Bigg_leading_shift_int=\count185
+\c__fp_Bigg_middle_shift_int=\count186
+\c__fp_Bigg_trailing_shift_int=\count187
+\c__kernel_randint_max_int=\count188
+\g__fp_array_int=\count189
+\l__fp_array_loop_int=\count190
+\l__sort_length_int=\count191
+\l__sort_min_int=\count192
+\l__sort_top_int=\count193
+\l__sort_max_int=\count194
+\l__sort_true_max_int=\count266
+\l__sort_block_int=\count267
+\l__sort_begin_int=\count268
+\l__sort_end_int=\count269
+\l__sort_A_int=\count270
+\l__sort_B_int=\count271
+\l__sort_C_int=\count272
+\l__tl_analysis_normal_int=\count273
+\l__tl_analysis_index_int=\count274
+\l__tl_analysis_nesting_int=\count275
+\l__tl_analysis_type_int=\count276
+\l__regex_internal_a_int=\count277
+\l__regex_internal_b_int=\count278
+\l__regex_internal_c_int=\count279
+\l__regex_balance_int=\count280
+\l__regex_group_level_int=\count281
+\l__regex_mode_int=\count282
+\c__regex_cs_in_class_mode_int=\count283
+\c__regex_cs_mode_int=\count284
+\l__regex_catcodes_int=\count285
+\l__regex_default_catcodes_int=\count286
+\c__regex_catcode_D_int=\count287
+\c__regex_catcode_S_int=\count288
+\c__regex_catcode_L_int=\count289
+\c__regex_catcode_O_int=\count290
+\c__regex_catcode_A_int=\count291
+\c__regex_all_catcodes_int=\count292
+\l__regex_show_lines_int=\count293
+\l__regex_min_state_int=\count294
+\l__regex_max_state_int=\count295
+\l__regex_left_state_int=\count296
+\l__regex_right_state_int=\count297
+\l__regex_capturing_group_int=\count298
+\l__regex_min_pos_int=\count299
+\l__regex_max_pos_int=\count300
+\l__regex_curr_pos_int=\count301
+\l__regex_start_pos_int=\count302
+\l__regex_success_pos_int=\count303
+\l__regex_curr_char_int=\count304
+\l__regex_curr_catcode_int=\count305
+\l__regex_last_char_int=\count306
+\l__regex_case_changed_char_int=\count307
+\l__regex_curr_state_int=\count308
+\l__regex_step_int=\count309
+\l__regex_min_active_int=\count310
+\l__regex_max_active_int=\count311
+\l__regex_replacement_csnames_int=\count312
+\l__regex_match_count_int=\count313
+\l__regex_min_submatch_int=\count314
+\l__regex_submatch_int=\count315
+\l__regex_zeroth_submatch_int=\count316
+\g__regex_trace_regex_int=\count317
 \c_empty_box=\box38
 \l_tmpa_box=\box39
 \l_tmpb_box=\box40
@@ -1411,10 +894,9 @@ Package: expl3 2018-10-19 L3 programming layer (code)
 \l__coffin_top_corner_dim=\dimen263
 \l__coffin_scaled_total_height_dim=\dimen264
 \l__coffin_scaled_width_dim=\dimen265
-\l__seq_internal_a_int=\count317
-\l__seq_internal_b_int=\count318
+\l__seq_internal_a_int=\count318
+\l__seq_internal_b_int=\count319
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode
 .def"
 File: l3pdfmode.def 2018-10-19 v L3 Experimental driver: PDF mode
@@ -1422,71 +904,42 @@ File: l3pdfmode.def 2018-10-19 v L3 Experimental driver: PDF mode
 ))
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\
 xparse.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode
-.def"
-File: l3pdfmode.def 2018-10-31 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count319
-))
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\
-xparse.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmod
-e.def"
-File: l3pdfmode.def 2018-10-19 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count319
-))
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse
-\xparse.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: xparse 2018-10-17 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count320
-\g__xparse_grabber_int=\count321
-\l__xparse_m_args_int=\count322
-\l__xparse_mandatory_args_int=\count323
-\l__xparse_v_nesting_int=\count324
+\l__xparse_current_arg_int=\count321
+\g__xparse_grabber_int=\count322
+\l__xparse_m_args_int=\count323
+\l__xparse_mandatory_args_int=\count324
+\l__xparse_v_nesting_int=\count325
 )
 Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2
 e\l3keys2e.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2
-e\l3keys2e.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys
-2e\l3keys2e.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box53
 \l__siunitx_tmp_dim=\dimen266
-\l__siunitx_tmp_int=\count325
-\l__siunitx_number_mantissa_length_int=\count326
-\l__siunitx_number_uncert_length_int=\count327
-\l__siunitx_round_int=\count328
-\l__siunitx_process_decimal_int=\count329
-\l__siunitx_process_uncertainty_int=\count330
-\l__siunitx_process_fixed_int=\count331
-\l__siunitx_process_integer_min_int=\count332
-\l__siunitx_process_precision_int=\count333
-\l__siunitx_group_min_int=\count334
+\l__siunitx_tmp_int=\count326
+\l__siunitx_number_mantissa_length_int=\count327
+\l__siunitx_number_uncert_length_int=\count328
+\l__siunitx_round_int=\count329
+\l__siunitx_process_decimal_int=\count330
+\l__siunitx_process_uncertainty_int=\count331
+\l__siunitx_process_fixed_int=\count332
+\l__siunitx_process_integer_min_int=\count333
+\l__siunitx_process_precision_int=\count334
+\l__siunitx_group_min_int=\count335
 \l__siunitx_angle_marker_box=\box54
 \l__siunitx_angle_unit_box=\box55
 \l__siunitx_angle_marker_dim=\dimen267
 \l__siunitx_angle_unit_dim=\dimen268
-\l__siunitx_unit_int=\count335
-\l__siunitx_unit_denominator_int=\count336
-\l__siunitx_unit_numerator_int=\count337
-\l__siunitx_unit_prefix_int=\count338
-\l__siunitx_unit_prefix_base_int=\count339
-\l__siunitx_unit_prefix_gram_int=\count340
-\l__siunitx_number_product_int=\count341
+\l__siunitx_unit_int=\count336
+\l__siunitx_unit_denominator_int=\count337
+\l__siunitx_unit_numerator_int=\count338
+\l__siunitx_unit_prefix_int=\count339
+\l__siunitx_unit_prefix_base_int=\count340
+\l__siunitx_unit_prefix_gram_int=\count341
+\l__siunitx_number_product_int=\count342
 \c__siunitx_one_fill_skip=\skip280
 \l__siunitx_table_unit_align_skip=\skip281
 \l__siunitx_table_exponent_dim=\dimen269
@@ -1505,7 +958,6 @@ Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_number_align_skip=\skip282
 \l__siunitx_table_text_align_skip=\skip283
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
 tor.sty"
 Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
@@ -1515,36 +967,12 @@ Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgree
 k.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor.sty"
-Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
-))
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty"
-Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgree
-k.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
-ator.sty"
-Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
-))
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty
-"
-Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgre
-ek.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemi
 stry (CN)
-\l__chemgreek_tmpa_int=\count342
-\g__chemgreek_tmpa_int=\count343
+\l__chemgreek_tmpa_int=\count343
+\g__chemgreek_tmpa_int=\count344
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count344
+\l__mhchem_ce_distanceFromLastComma_int=\count345
 \__mhchem_arrow_extPgfLength_skip=\skip284
 \mhchem@minispace@tmp=\skip285
 \mhchem@minibackspace@tmp=\skip286
@@ -1555,155 +983,65 @@ stry (CN)
 \mhchem@smallbondwidth=\skip291
 \mhchem@bondtmp@minussidebearingleft=\skip292
 \mhchem@bondtmp@minussidebearingright=\skip293
-\l__mhchem_option_version_int=\count345
+\l__mhchem_option_version_int=\count346
 \mhchem@option@minusmathsidebearingleft=\dimen278
 \mhchem@option@minusmathsidebearingright=\dimen279
 \mhchem@option@minustextsidebearingleft=\dimen280
 \mhchem@option@minustextsidebearingright=\dimen281
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\varioref.sty
 "
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\varioref.sty
-"
 Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
-\c@vrcnt=\count346
+\c@vrcnt=\count347
 )
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\varioref.st
-y"
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
-Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
-\c@vrcnt=\count346
-)
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty
-"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip294
 \bibsep=\skip295
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count347
+\c@NAT@ctr=\count348
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 sty"
 \lst@mode=\count349
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-\lst@mode=\count348
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 \lst@gtempboxa=\box60
 \lst@token=\toks38
-\lst@length=\count349
+\lst@length=\count350
 \lst@currlwidth=\dimen282
-\lst@column=\count350
-\lst@pos=\count351
+\lst@column=\count351
+\lst@pos=\count352
 \lst@lostspace=\dimen283
 \lst@width=\dimen284
-\lst@newlines=\count352
-\lst@lineno=\count353
+\lst@newlines=\count353
+\lst@lineno=\count354
 \lst@maxwidth=\dimen285
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
 ty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
-sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
-\c@lstnumber=\count354
-\lst@skipnumbers=\count355
+\c@lstnumber=\count355
+\lst@skipnumbers=\count356
 \lst@framebox=\box61
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 cfg"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-cfg"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
-.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
 Package: listings 2018/09/02 1.7 (Carsten Heinz)
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count356
+\c@lips@count=\count357
 )
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
-sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
-"
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
-Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count356
-)
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
 sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip296
 \enit@outerparindent=\dimen286
 \enit@toks=\toks39
 \enit@inbox=\box62
-\enitdp@description=\count357
+\enitdp@description=\count358
 )
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
-sty"
-Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
-y"
-Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
-i.sty"
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
 sty"
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
@@ -1725,59 +1063,21 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
 .sty"
-=======
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages
-.sty"
-Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.s
-ty"
-Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegs
-hi.sty"
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
-err.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
-s.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
 \AM@pagewidth=\dimen287
 \AM@pageheight=\dimen288
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
 def"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
-def"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex
-.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box63
 \AM@global@opts=\toks40
 \AM@toc@title=\toks41
-\c@AM@survey=\count358
+\c@AM@survey=\count359
 \AM@templatesizebox=\box64
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
 Package: fixme 2017/03/05 v4.4 Collaborative annotations for LaTeX2e
 
@@ -1789,44 +1089,18 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 tex"
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
 .tex"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
-Package: fixme 2017/03/05 v4.4 Collaborative annotations for LaTeX2e
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
-y"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
-tex"
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fixme\fixme.sty"
-Package: fixme 2017/03/05 v4.4 Collaborative annotations for LaTeX2e
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.s
-ty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-.tex"
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
-s.tex"
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 \XKV@toks=\toks42
 \XKV@tempa@toks=\toks43
 )
-\XKV@depth=\count359
+\XKV@depth=\count360
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \lox@file=\read3
-\c@fixmecount=\count360
-\c@fxnotecount=\count361
-\c@fxwarningcount=\count362
-\c@fxerrorcount=\count363
-\c@fxfatalcount=\count364
+\c@fixmecount=\count361
+\c@fxnotecount=\count362
+\c@fxwarningcount=\count363
+\c@fxerrorcount=\count364
+\c@fxfatalcount=\count365
 )
 
 ******************************************************
@@ -1849,7 +1123,6 @@ Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
 sty"
 Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
@@ -1861,33 +1134,6 @@ Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
 generic.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
-sty"
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-hyperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-generic.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
-.sty"
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
--hyperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
--generic.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1904,7 +1150,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -1926,96 +1172,46 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
 ty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
 .sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
-ty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
-sty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
-s.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen289
-\Hy@linkcounter=\count365
-\Hy@pagecounter=\count366
+\Hy@linkcounter=\count366
+\Hy@pagecounter=\count367
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
 f"
 File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
-f"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
-ef"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 )
-\Hy@SavedSpaceFactor=\count367
+\Hy@SavedSpaceFactor=\count368
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
 cfg"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
-cfg"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
-.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4409.
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-<<<<<<< HEAD
 Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count369
  ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-=======
-Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count368
-<<<<<<< HEAD
- ("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-=======
- ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5115.
+LaTeX Info: Redefining \url on input line 5141.
 \XeTeXLinkMargin=\dimen290
-\Fld@menulength=\count369
+\Fld@menulength=\count370
 \Field@Width=\dimen291
 \Fld@charsize=\dimen292
-<<<<<<< HEAD
 Package hyperref Info: Hyper figures OFF on input line 6396.
 Package hyperref Info: Link nesting OFF on input line 6401.
 Package hyperref Info: Hyper index ON on input line 6404.
@@ -2031,36 +1227,13 @@ LaTeX Info: Redefining \pageref on input line 6470.
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.st
 y"
-=======
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring ON on input line 6387.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count370
-\c@Item=\count371
-\c@Hfootnote=\count372
-)
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.st
-y"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
-\c@memhycontfloat=\count373
-\c@Hpagenote=\count374
+\c@memhycontfloat=\count374
+\c@Hpagenote=\count375
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
 ef"
 File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
@@ -2069,26 +1242,6 @@ File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
 check.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
-ef"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
-def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count375
-\c@bookmark@seq@number=\count376
-
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
-check.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
-echeck.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -2097,20 +1250,23 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 123.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1
-.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: lstlang1.sty 2018/09/02 1.7 listings language file
-)) (Projektrapport.aux)
+)) (Projektrapport.aux
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 <
+      <<<<<< HEAD
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
 \openout1 = `Projektrapport.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -2127,85 +1283,39 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 4.
-
-<<<<<<< HEAD
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+ ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
-
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 4.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
-kii"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count377
+\scratchcounter=\count378
 \scratchdimen=\dimen293
 \scratchbox=\box65
-\nofMPsegments=\count378
-\nofMParguments=\count379
+\nofMPsegments=\count379
+\nofMParguments=\count380
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count380
+\MPscratchCnt=\count381
 \MPscratchDim=\dimen294
-\MPnumerator=\count381
-\makeMPintoPDFobject=\count382
+\MPnumerator=\count382
+\makeMPintoPDFobject=\count383
 \everyMPtoPDFconversion=\toks45
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
 y"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
--base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -2215,95 +1325,41 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
 tor-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-ab
 breviations.cfg"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-basic-dictionary-English.dict"
-Dictionary: translator-basic-dictionary, Language: English 
-)
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-ab
-breviations.cfg"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
-ator-basic-dictionary-English.dict"
-Dictionary: translator-basic-dictionary, Language: English 
-)
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-a
-bbreviations.cfg"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 
 Package chemgreek Info: Activating mapping `default' on line 4.
 
-\c@lstlisting=\count383
+\c@lstlisting=\count384
 \AtBeginShipoutBox=\box66
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
 .sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
 y"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
-.sty"
-Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
-y"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscap
-e.sty"
-Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.s
-ty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 Package hyperref Info: Link coloring ON on input line 4.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
 ty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
 estring.sty"
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
-ty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
-estring.sty"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
-sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
-lestring.sty"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count384
+\c@section@level=\count385
 LaTeX Info: Redefining \Ref on input line 515.
 )
 Redoing nameref's sectioning
@@ -2319,7 +1375,6 @@ LaTeX Info: Redefining \nameref on input line 4.
 LaTeX Info: Redefining \Ref on input line 4.
 LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -2331,138 +1386,28 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
 ") (Forside/Forside.tex
 <Forside/AUlogo.png, id=251, 498.06075pt x 152.36925pt>
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
-") (Forside/Forside.tex
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
- ("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
-
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.f
-d") (Forside/Forside.tex
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-<Forside/AUlogo.png, id=247, 498.06075pt x 152.36925pt>
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
 (pdftex.def)             Requested size: 227.5pt x 69.59781pt.
 
-<<<<<<< HEAD
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 [1
 
 {C:/Users/carol/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Forside/A
-Ulogo.png>]) (Resume/Resume.tex
+Ulogo.png>] [2]) (Resume/Resume.tex
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd")
-[2
+[3
 
 
-]) (Abstract/Abstract.tex [3
+]) (Abstract/Abstract.tex [4
 
-]) (Projektrapport.toc [4
+]) (Projektrapport.toc [5
 
-])
-(Ordliste/Ordliste.tex [5]
-=======
-<<<<<<< HEAD
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
-=======
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 56.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 56.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 56.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 56.
-
-[1
-
-<<<<<<< HEAD
-{C:/Users/mikke/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Forside/A
-Ulogo.png>]) (Resume/Resume.tex
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd")
-=======
-{C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Forside/
-AUlogo.png>]) (Resume/Resume.tex
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd")
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 6.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 6.
-<<<<<<< HEAD
-=======
-[2
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-
-[2
-
-<<<<<<< HEAD
-
-=======
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-]) (Abstract/Abstract.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 4.
- [3
-
-]) (Projektrapport.toc
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 38.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 38.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 38.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 38.
- [4
-
-])
-(Ordliste/Ordliste.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [5]
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+] [6])
+(Ordliste/Ordliste.tex [7]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -2477,24 +1422,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
-) (Indledning/indledning.tex [6
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-) (Indledning/indledning.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [6
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+) (Indledning/indledning.tex [8
 
 ]
 
@@ -2511,24 +1439,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
-) (Projektformulering/Projektformulering.tex [7
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-) (Projektformulering/Projektformulering.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [7
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+) (Projektformulering/Projektformulering.tex [9
 
 ]
 
@@ -2545,33 +1456,9 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
 
 (Projektformulering/Projekt_og_problemformulering/Projekt_og_problemformulering
-.tex)) (Teori/Teori.tex [8
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-
-(Projektformulering/Projekt_og_problemformulering/Projekt_og_problemformulering
-.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-)) (Teori/Teori.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [8
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+.tex)) (Teori/Teori.tex [10
 
 ]
 
@@ -2588,36 +1475,8 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
 (Teori/Fysiologi/Fysiologi.tex) (Teori/Blodtryksmaaling/Blodtryksmaaling.tex))
-(Systembeskrivelse/Systembeskrivelse.tex [9
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Teori/Fysiologi/Fysiologi.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-) (Teori/Blodtryksmaaling/Blodtryksmaaling.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-))
-(Systembeskrivelse/Systembeskrivelse.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [9
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+(Systembeskrivelse/Systembeskrivelse.tex [11
 
 ]
 
@@ -2634,67 +1493,21 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
-<Systembeskrivelse/Systemoversigt.png, id=369, 1030.60031pt x 722.7pt>
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-<Systembeskrivelse/Systemoversigt.png, id=364, 1030.60031pt x 722.7pt>
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+<Systembeskrivelse/Systemoversigt.png, id=418, 1030.60031pt x 722.7pt>
 File: Systembeskrivelse/Systemoversigt.png Graphic file (type png)
 <use Systembeskrivelse/Systemoversigt.png>
 Package pdftex.def Info: Systembeskrivelse/Systemoversigt.png  used on input li
 ne 6.
 (pdftex.def)             Requested size: 250.25139pt x 175.48059pt.
-<<<<<<< HEAD
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 12.
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 
 Underfull \hbox (badness 1448) in paragraph at lines 29--29
 \T1/cmr/m/n/10.95 For nærmere beskrivelse af brugergrænsefladens funktioner hen
 vises der til dokumentet
  []
 
-<<<<<<< HEAD
-[10
+[12
 
- <./Systembeskrivelse/Systemoversigt.png>] [11
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
-[10
-
- <./Systembeskrivelse/Systemoversigt.png>]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 31.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 31.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 44.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 44.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 44.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 44.
- [11
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+ <./Systembeskrivelse/Systemoversigt.png>] [13
 
 ])
 (Kravspecifikation/Kravspecifikation.tex
@@ -2712,326 +1525,52 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
 (Projektformulering/Krav/Krav.tex
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Projektformulering/Krav/Krav.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
-)
-Underfull \hbox (badness 10000) in paragraph at lines 17--3
-
- []
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 4.
-<Kravspecifikation/Diagram.png, id=381, 554.07pt x 342.42215pt>
-File: Kravspecifikation/Diagram.png Graphic file (type png)
-<use Kravspecifikation/Diagram.png>
-Package pdftex.def Info: Kravspecifikation/Diagram.png  used on input line 9.
-(pdftex.def)             Requested size: 341.25pt x 210.89403pt.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 12.
-[12
-
-
-] (Kravspecifikation/Aktoer_beskrivelser/Aktoer_beskrivelser.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
- [13 <./Kravspecifikation/Diagram.png>])
-(Kravspecifikation/Use_case_beskrivelser/Use_case_beskrivelser.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 5.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 9.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 9.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 11.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 11.
-)
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 18.
- [14]
-(Projektformulering/Projektafgraensning/Projektafgraensning.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-
-("C:\Users\mikke\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-=======
-
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 12--16
-=======
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-=======
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 19.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 19.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 19.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 19.
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
-[12
+[14
 
 
 ])
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 24--3
-
- []
-
-<Kravspecifikation/Diagram.png, id=390, 554.07pt x 342.42215pt>
-File: Kravspecifikation/Diagram.png Graphic file (type png)
-<use Kravspecifikation/Diagram.png>
-Package pdftex.def Info: Kravspecifikation/Diagram.png  used on input line 9.
-(pdftex.def)             Requested size: 341.25pt x 210.89403pt.
-(Kravspecifikation/Aktoer_beskrivelser/Aktoer_beskrivelser.tex [13 <./Kravspeci
-fikation/Diagram.png>])
-(Kravspecifikation/Use_case_beskrivelser/Use_case_beskrivelser.tex) [14]
-(Projektformulering/Projektafgraensning/Projektafgraensning.tex
-("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-[15
-
-])) (Arkitektur_og_design/Arkitektur_og_design.tex
-=======
 Underfull \hbox (badness 10000) in paragraph at lines 23--3
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 
  []
 
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 4.
-<Kravspecifikation/Diagram.png, id=385, 1028.84375pt x 624.3325pt>
+<Kravspecifikation/Diagram.png, id=440, 1028.84375pt x 624.3325pt>
 File: Kravspecifikation/Diagram.png Graphic file (type png)
 <use Kravspecifikation/Diagram.png>
 Package pdftex.def Info: Kravspecifikation/Diagram.png  used on input line 9.
 (pdftex.def)             Requested size: 341.25pt x 207.07828pt.
 (Kravspecifikation/Aktoer_beskrivelser/Aktoer_beskrivelser.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-
-Overfull \hbox (2.5229pt too wide) in alignment at lines 4--7
- [] [] [] [] [] 
- []
-
-
-Overfull \hbox (2.5229pt too wide) in alignment at lines 7--9
- [] [] [] [] [] 
- []
-
-
-Overfull \hbox (2.5229pt too wide) in alignment at lines 9--12
- [] [] [] [] [] 
- []
-
-
-Overfull \hbox (2.5229pt too wide) in alignment at lines 12--14
- [] [] [] [] [] 
- []
-
-<<<<<<< HEAD
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 11.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 11.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
-[15
-=======
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-
 Overfull \hbox (2.5229pt too wide) in alignment at lines 14--23
  [] [] [] [] [] 
  []
 
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
-[13 <./Kravspecifikation/Diagram.png>])
-(Kravspecifikation/Use_case_beskrivelser/Use_case_beskrivelser.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 5.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 9.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 9.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 11.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 11.
-)
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 18.
- [14]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 18.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 18.
 
-[15] (Projektformulering/Projektafgraensning/Projektafgraensning.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
+Package longtable Warning: Column widths have changed
+(longtable)                in table \color {RoyalBlue}6.1 on input line 23.
 
-("C:\Users\Lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+[15 <./Kravspecifikation/Diagram.png>])
+(Kravspecifikation/Use_case_beskrivelser/Use_case_beskrivelser.tex) [16]
+[17] (Projektformulering/Projektafgraensning/Projektafgraensning.tex
+("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
+[18
 
-[16
-
-]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 28.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 28.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 28.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 28.
- [17])) (Arkitektur_og_design/Arkitektur_og_design.tex
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+] [19])) (Arkitektur_og_design/Arkitektur_og_design.tex
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -3046,9 +1585,8 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
 (Arkitektur_og_design/Hardwarearkitektur/Hardwarearkitektur.tex
-<Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png, id=417, 1058.23929pt 
+<Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png, id=475, 1058.23929pt 
 x 438.78215pt>
 File: Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png Graphic file (typ
 e png)
@@ -3056,11 +1594,11 @@ e png)
 Package pdftex.def Info: Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.pn
 g  used on input line 9.
 (pdftex.def)             Requested size: 455.0pt x 188.65924pt.
- [16
+ [20
 
 
  <./Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png>]
-<Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png, id=426, 881.4359pt x 
+<Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png, id=484, 881.4359pt x 
 631.93233pt>
 File: Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png Graphic file (typ
 e png)
@@ -3068,13 +1606,13 @@ e png)
 Package pdftex.def Info: Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.pn
 g  used on input line 25.
 (pdftex.def)             Requested size: 455.0pt x 326.21536pt.
- [17
+ [21
 
  <./Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png>])
-(Arkitektur_og_design/Design_Hardware/Design_hardware.tex [18
+(Arkitektur_og_design/Design_Hardware/Design_hardware.tex [22
 
 ]
-<Arkitektur_og_design/Design_hardware/SallenKey.png, id=440, 369.95357pt x 138.
+<Arkitektur_og_design/Design_hardware/SallenKey.png, id=498, 369.95357pt x 138.
 08733pt>
 File: Arkitektur_og_design/Design_hardware/SallenKey.png Graphic file (type png
 )
@@ -3082,7 +1620,7 @@ File: Arkitektur_og_design/Design_hardware/SallenKey.png Graphic file (type png
 Package pdftex.def Info: Arkitektur_og_design/Design_hardware/SallenKey.png  us
 ed on input line 33.
 (pdftex.def)             Requested size: 227.5pt x 84.91792pt.
-<Arkitektur_og_design/Design_hardware/Multisim.png, id=441, 862.07785pt x 593.2
+<Arkitektur_og_design/Design_hardware/Multisim.png, id=499, 862.07785pt x 593.2
 1625pt>
 File: Arkitektur_og_design/Design_hardware/Multisim.png Graphic file (type png)
 
@@ -3090,110 +1628,20 @@ File: Arkitektur_og_design/Design_hardware/Multisim.png Graphic file (type png)
 Package pdftex.def Info: Arkitektur_og_design/Design_hardware/Multisim.png  use
 d on input line 45.
 (pdftex.def)             Requested size: 364.00139pt x 250.47972pt.
- [19
+ [23
 
  <./Arkitektur_og_design/Design_hardware/SallenKey.png> <./Arkitektur_og_design
 /Design_hardware/Multisim.png>])
 (Arkitektur_og_design/Softwarearkitektur/Softwarearkitektur.tex)
-(Arkitektur_og_design/Design_Software/Design_software.tex))
-(Implementering_og_test/Implementering_og_test.tex [20
-
-]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Arkitektur_og_design/Hardwarearkitektur/Hardwarearkitektur.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
-)
-(Arkitektur_og_design/Design_Hardware/Design_hardware.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 4.
-)
-(Arkitektur_og_design/Softwarearkitektur/Softwarearkitektur.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-)
 (Arkitektur_og_design/Design_Software/Design_software.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
-))
-(Implementering_og_test/Implementering_og_test.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [16
-
-=======
-
 Underfull \hbox (badness 1210) in paragraph at lines 4--5
 []\T1/cmr/m/n/10.95 Kommunikationen mellem datalaget og logiklaget er designet 
 ud fra producer-consumer
  []
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
 
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 7.
-[18
+)) (Implementering_og_test/Implementering_og_test.tex [24
 
-
-])) (Implementering_og_test/Implementering_og_test.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [19]
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -3208,127 +1656,43 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
 (Implementering_og_test/Hardware/Hardware.tex
-<../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg, id=45
-5, 3717.89pt x 2268.475pt>
+<../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg, id=51
+2, 3717.89pt x 2268.475pt>
 File: ../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg G
 raphic file (type jpg)
 <use ../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg>
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/forstaerker
-ogsubtractor2.jpg  used on input line 7.
+ogsubtractor2.jpg  used on input line 8.
 (pdftex.def)             Requested size: 245.69695pt x 149.87903pt.
-<../Rapport/Implementering_og_test/Hardware/filter2.jpg, id=456, 2906.86pt x 24
+<../Rapport/Implementering_og_test/Hardware/filter2.jpg, id=513, 2906.86pt x 24
 94.31876pt>
 File: ../Rapport/Implementering_og_test/Hardware/filter2.jpg Graphic file (type
  jpg)
 <use ../Rapport/Implementering_og_test/Hardware/filter2.jpg>
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/filter2.jpg
-  used on input line 15.
+  used on input line 16.
 (pdftex.def)             Requested size: 245.69695pt x 210.8154pt.
- [21
+ [25
 
  <../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg> <../
 Rapport/Implementering_og_test/Hardware/filter2.jpg>]
-<../Rapport/Implementering_og_test/Hardware/Ultiboard.png, id=464, 462.44197pt 
+<../Rapport/Implementering_og_test/Hardware/Ultiboard.png, id=522, 462.44197pt 
 x 415.98268pt>
 File: ../Rapport/Implementering_og_test/Hardware/Ultiboard.png Graphic file (ty
 pe png)
 <use ../Rapport/Implementering_og_test/Hardware/Ultiboard.png>
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/Ultiboard.p
-ng  used on input line 26.
+ng  used on input line 27.
 (pdftex.def)             Requested size: 227.5pt x 204.6394pt.
-) (Implementering_og_test/Software/software.tex))
-(Resultater/Resultater1.tex [22 <../Rapport/Implementering_og_test/Hardware/Ult
-iboard.png>]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Implementering_og_test/Hardware/Hardware.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 7.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
-)
-(Implementering_og_test/Software/software.tex
-=======
 
-Underfull \hbox (badness 2035) in paragraph at lines 6--8
+Underfull \hbox (badness 2035) in paragraph at lines 37--40
 []\T1/cmr/m/n/10.95 Systemet hænger sammen på den måde, at strømforsyningen for
 syner med strøm til
  []
 
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 12.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 13.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 13.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 17.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 17.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 20.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 20.
-) (Implementering_og_test/Software/software.tex
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 4.
-)) (Resultater/Resultater1.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-
-<<<<<<< HEAD
-[17
-=======
-[20
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-
-]
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+) (Implementering_og_test/Software/software.tex [26 <../Rapport/Implementering_
+og_test/Hardware/Ultiboard.png>])) (Resultater/Resultater1.tex [27]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -3343,50 +1707,9 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
 (Resultater/Resultater/Resultater_Hardware.tex)
 (Resultater/Resultater/Resultater_Software.tex))
-(Udviklingsproces/Udviklingsproces.tex [23
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Resultater/Resultater/Resultater_Hardware.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-)
-(Resultater/Resultater/Resultater_Software.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-))
-(Udviklingsproces/Udviklingsproces.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
- [18
-=======
- [21
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+(Udviklingsproces/Udviklingsproces.tex [28
 
 ]
 
@@ -3403,93 +1726,19 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
 (Udviklingsproces/Metode/Metode.tex
-<Udviklingsproces/ASEmodellen.png, id=479, 711.51535pt x 449.10643pt>
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Udviklingsproces/Metode/Metode.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
-<Udviklingsproces/ASEmodellen.png, id=427, 711.51535pt x 449.10643pt>
-=======
-<Udviklingsproces/ASEmodellen.png, id=440, 711.51535pt x 449.10643pt>
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+<Udviklingsproces/ASEmodellen.png, id=541, 711.51535pt x 449.10643pt>
 File: Udviklingsproces/ASEmodellen.png Graphic file (type png)
 <use Udviklingsproces/ASEmodellen.png>
 Package pdftex.def Info: Udviklingsproces/ASEmodellen.png  used on input line 7
 .
 (pdftex.def)             Requested size: 364.00139pt x 229.76079pt.
-<<<<<<< HEAD
- [24
+ [29
 
  <./Udviklingsproces/ASEmodellen.png>])
 (Udviklingsproces/Proces/Proces.tex)
 (Udviklingsproces/Programmer/Programmer.tex)) (Erfaringer/Erfaringer.tex
-[25]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 13.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 13.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 16.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 16.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 16.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 16.
-<<<<<<< HEAD
- [19
-=======
- [22
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-
- <./Udviklingsproces/ASEmodellen.png>]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 17.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 17.
-)
-(Udviklingsproces/Proces/Proces.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-)
-(Udviklingsproces/Programmer/Programmer.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-)) (Erfaringer/Erfaringer.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-
-<<<<<<< HEAD
-[20]
-=======
-[23]
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+[30]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -3504,28 +1753,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
-) (Fremtidigt_arbejde/Fremtidigt_arbejde.tex [26
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-) (Fremtidigt_arbejde/Fremtidigt_arbejde.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
- [21
-=======
- [24
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+) (Fremtidigt_arbejde/Fremtidigt_arbejde.tex [31
 
 ]
 
@@ -3542,43 +1770,10 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
 (Fremtidigt_arbejde/Fremtidigt_arbejde/Fremtidigt_arbejde.tex))
-(Konklusion/Konklusion.tex [27
+(Konklusion/Konklusion.tex [32
 
-]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Fremtidigt_arbejde/Fremtidigt_arbejde/Fremtidigt_arbejde.tex))
-(Konklusion/Konklusion.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
- [22
-=======
- [25
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-
-]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [26]
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+] [33]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -3593,28 +1788,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
-(Konklusion/Konklusion/Konklusion.tex)) (Bilag/Bilag.tex [28
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Konklusion/Konklusion/Konklusion.tex)) (Bilag/Bilag.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
- [23
-=======
- [27
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+(Konklusion/Konklusion/Konklusion.tex)) (Bilag/Bilag.tex [34
 
 ]
 
@@ -3631,28 +1805,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
-(Bilag/Bilag/Bilag.tex)) (Referencer/Referencer.tex [29
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Bilag/Bilag/Bilag.tex)) (Referencer/Referencer.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-<<<<<<< HEAD
- [24
-=======
- [28
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+(Bilag/Bilag/Bilag.tex)) (Referencer/Referencer.tex [35
 
 ]
 
@@ -3669,59 +1822,40 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<<<<<<< HEAD
-(Referencer/Referencer/Referencer.tex)) [30
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-(Referencer/Referencer/Referencer.tex))
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 41.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 41.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 41.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 41.
-<<<<<<< HEAD
- [25
-=======
- [29
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+(Referencer/Referencer/Referencer.tex)) [36
 
 ]
 \tf@toc=\write5
 \openout5 = `Projektrapport.toc'.
 
+
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
- (Projektrapport.aux)
+(Projektrapport.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `Projektrapport.out' has not changed.
-<<<<<<< HEAD
-(rerunfilecheck)             Checksum: 2927EF6F2F1B6862D9303D83B9969CBF;3949.
-=======
-(rerunfilecheck)             Checksum: 0B421E08586911D3AC3FE979634805C1;3871.
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
+(rerunfilecheck)             Checksum: 7D79CFBCB117705AEBB016BE70F0900C;3936.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 29437 strings out of 492970
- 528370 string characters out of 3126593
+ 29443 strings out of 492970
+ 528412 string characters out of 3126593
  914748 words of memory out of 3000000
  32634 multiletter control sequences out of 15000+200000
  557104 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,78p,964b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,78p,1411b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecti1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\tcrm1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -3731,80 +1865,21 @@ ec\dpi600\tcrm1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 al/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\carol\AppData\Loc
 al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\carol\A
 ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Use
-rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.p
+rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.p
 k> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1728.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Program
+ecrm1728.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\eccc1200.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk><C:/Users/carol/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/car
 ol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
 C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmr10.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb>
-Output written on Projektrapport.pdf (30 pages, 5152909 bytes).
+Output written on Projektrapport.pdf (36 pages, 5087117 bytes).
 PDF statistics:
- 943 PDF objects out of 1000 (max. 8388607)
- 123 named destinations out of 1000 (max. 500000)
+ 1017 PDF objects out of 1200 (max. 8388607)
+ 129 named destinations out of 1000 (max. 500000)
  552 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 29428 strings out of 493303
-<<<<<<< HEAD
- 524874 string characters out of 3129784
- 906861 words of memory out of 3000000
- 32326 multiletter control sequences out of 15000+200000
- 557104 words of font info for 74 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 45i,12n,78p,964b,914s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecti1095.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\tcrm1095.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\mikke\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1000.pk>{C:/Users/mikke/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\mikke\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\mikke\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Use
-rs\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.p
-k> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1095.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1728.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecxc2074.pk> <C:\Users\mikke\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/mikke/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/mikke/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on Projektrapport.pdf (25 pages, 1136619 bytes).
-=======
- 525205 string characters out of 3129349
- 907841 words of memory out of 3000000
- 32322 multiletter control sequences out of 15000+200000
- 557104 words of font info for 74 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 45i,12n,78p,1411b,914s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ecti1095.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
-n\ec\dpi600\tcrm1095.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Lenovo\AppData\Local\M
-iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1000.pk>{C:/Users/Lenovo/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\Lenovo\AppD
-ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\
-Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk>
- <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-crm1095.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecbx1095.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
-r\jknappen\ec\dpi600\ecrm1728.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk> <C:\Users\Lenovo\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/Lenovo/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Le
-novo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pf
-b>
-Output written on Projektrapport.pdf (29 pages, 1059239 bytes).
->>>>>>> e83979494a825148743b7edc7654bceee3f2aeb4
-PDF statistics:
- 876 PDF objects out of 1000 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
- 509 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
 
