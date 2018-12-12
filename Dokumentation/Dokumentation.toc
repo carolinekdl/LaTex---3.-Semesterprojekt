@@ -19,6 +19,7 @@
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}5}Integrationstest}{23}{section.2.5}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}5.1}Test med sp\IeC {\ae }ndingsdeler}{23}{subsection.2.5.1}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}5.2}Test med vands\IeC {\o }jle}{23}{subsection.2.5.2}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6}Printplade}{24}{section.2.6}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1}Design af printplade}{24}{subsection.2.6.1}
 \contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1.1}Multisim}{24}{subsubsection.2.6.1.1}
@@ -29,3 +30,14 @@
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.3}EuroCircuits}{27}{subsection.2.6.3}
 \contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Implementeringen}{28}{chapter.3}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}1}Hardwareimplementering}{28}{section.3.1}
+=======
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6}Printplade}{29}{section.2.6}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1}Design af printplade}{29}{subsection.2.6.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1.1}Multisim}{29}{subsubsection.2.6.1.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1.2}Ultiboard}{30}{subsubsection.2.6.1.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2}Test af printplade}{31}{subsection.2.6.2}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2.1}Multisim}{31}{subsubsection.2.6.2.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2.2}Ultiboard}{31}{subsubsection.2.6.2.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.3}EuroCircuits}{32}{subsection.2.6.3}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Implementeringen}{33}{chapter.3}
+>>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169

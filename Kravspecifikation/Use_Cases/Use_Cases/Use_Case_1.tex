@@ -11,7 +11,8 @@
 		\rowcolor[HTML]{A9D9F9} 
 		\textbf{Initiering} & Brugeren \\ \hline
 		\textbf{Aktører} & Primær: Brugeren \\
-		& Sekundær: Blodtryksensor \\ \hline
+		& Sekundær: Blodtryksensor \\
+		& Sekundær: Skærm \\ \hline
 		\rowcolor[HTML]{A9D9F9} 
 		\textbf{Antal samtidige forekomster} & 1 \\ \hline
 		\textbf{Prækondition} & Systemet er klar og operationelt \\ \hline
@@ -24,32 +25,22 @@
 		\rowcolor[HTML]{A9D9F9} 
 		& og puls er afbildet med tal på \\
 		\rowcolor[HTML]{A9D9F9} 
-		& brugeregrænsefladen. \\ \hline
-		\textbf{Hovedscenarie} & 1.1 Bruger foretager nulpunktsjustering og \\
-		& trykker på "Tjek nulpunktsjustering" \\
-		& {[}Ext. 1a: Fejl i nulpunktsjustering{]} \\
+		& brugergrænsefladen. \\ \hline
+		\textbf{Hovedscenarie} & 1.1 Bruger trykker på lav nulpunktsjustering og \\
+		& foretager nulpunktsjustering \\
 		& 1.2 Bruger trykker på "Start" på brugergrænsefladen \\
 		& 1.3 Blodtryk måles og vises kontinuert via en \\
 		& graf på brugergrænsefladen. Talværdi for systolisk-, \\
 		& diastolisk-, og median blodtryk samt puls afbildes \\
-		& {[}Ext 1b: Digitalt filter vælges fra{]} \\
+		& {[}Ext 1a: Digitalt filter vælges fra{]} \\
 		& 1.4 Bruger trykker på "Stop" på brugergrænsefladen \\
 		& 1.5 Bruger trykker på "Ryd" på brugergrænsefladen \\
 		& 1.6 Use Case afsluttet \\ \hline
 		\rowcolor[HTML]{A9D9F9} 
-		\textbf{Udvidelser/undtagelser} & {[}Ext. 1a: Fejl i nulpunktsjustering{]} \\
+		\textbf{Udvidelser/undtagelser} 
+		& {[}Ext 1a: Digitalt filter vælges fra{]} \\
 		\rowcolor[HTML]{A9D9F9} 
-		& 1a.1 Use Case 3 "Alarmering" gennemføres \\
-		\rowcolor[HTML]{A9D9F9} 
-		& 1a.2 Bruger trykker "Stop" på brugergrænsefladen \\
-		\rowcolor[HTML]{A9D9F9} 
-		& 1a.3 Use Case fortsætter fra punkt 1.1 \\
-		\rowcolor[HTML]{A9D9F9} 
-		&  \\
-		\rowcolor[HTML]{A9D9F9} 
-		& {[}Ext 1b: Digitalt filter vælges fra{]} \\
-		\rowcolor[HTML]{A9D9F9} 
-		& 1b.1 Bruger trykker "Fra" ved digitalt filter på \\
+		& 1b.1 Bruger vælger "mode" ved digitalt filter på \\
 		\rowcolor[HTML]{A9D9F9} 
 		& brugergrænsefladen \\
 		\rowcolor[HTML]{A9D9F9} 
