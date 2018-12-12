@@ -27,3 +27,5 @@
 \contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2.1}Multisim}{26}{subsubsection.2.6.2.1}
 \contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2.2}Ultiboard}{26}{subsubsection.2.6.2.2}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.3}EuroCircuits}{27}{subsection.2.6.3}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Implementeringen}{28}{chapter.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}1}Hardwareimplementering}{28}{section.3.1}
