@@ -1,0 +1,43 @@
+\changetocdepth {2}
+\babel@toc {danish}{}
+~\hfill \textbf {Side}\par 
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}1}Indledning}{3}{chapter.1}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}2}Hardwaredesign}{4}{chapter.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}1}Str\IeC {\o }mforsyning}{5}{section.2.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}2}Forst\IeC {\ae }rker}{6}{section.2.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}2.1}Beregninger}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}2.2}Test af forst\IeC {\ae }rker med sp\IeC {\ae }ndingsdeler}{6}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}2.3}Test af forst\IeC {\ae }rker med vands\IeC {\o }jle}{7}{subsection.2.2.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}3}Subtractor}{11}{section.2.3}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}3.1}Beregninger}{11}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}3.2}Test af subtractor}{12}{subsection.2.3.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}4}Filter}{14}{section.2.4}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}4.1}Valg af filtertype}{14}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}4.2}Beregninger: RC-filter}{15}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}4.3}Beregninger: Sallen Key filter}{17}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}4.4}Test af filter}{19}{subsection.2.4.4}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}5}Integrationstest}{23}{section.2.5}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}5.1}Test med sp\IeC {\ae }ndingsdeler}{23}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}5.2}Test med vands\IeC {\o }jle}{23}{subsection.2.5.2}
+<<<<<<< HEAD
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6}Printplade}{24}{section.2.6}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1}Design af printplade}{24}{subsection.2.6.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1.1}Multisim}{24}{subsubsection.2.6.1.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1.2}Ultiboard}{25}{subsubsection.2.6.1.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2}Test af printplade}{26}{subsection.2.6.2}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2.1}Multisim}{26}{subsubsection.2.6.2.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2.2}Ultiboard}{26}{subsubsection.2.6.2.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.3}EuroCircuits}{27}{subsection.2.6.3}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Implementeringen}{28}{chapter.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}3.}\color {RoyalBlue}1}Hardwareimplementering}{28}{section.3.1}
+=======
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6}Printplade}{29}{section.2.6}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1}Design af printplade}{29}{subsection.2.6.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1.1}Multisim}{29}{subsubsection.2.6.1.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.1.2}Ultiboard}{30}{subsubsection.2.6.1.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2}Test af printplade}{31}{subsection.2.6.2}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2.1}Multisim}{31}{subsubsection.2.6.2.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.2.2}Ultiboard}{31}{subsubsection.2.6.2.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}2.}\color {RoyalBlue}6.3}EuroCircuits}{32}{subsection.2.6.3}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}3}Implementeringen}{33}{chapter.3}
+>>>>>>> 9656cb1b8b2eb4bcac12ea1597f7c5a821fee169
