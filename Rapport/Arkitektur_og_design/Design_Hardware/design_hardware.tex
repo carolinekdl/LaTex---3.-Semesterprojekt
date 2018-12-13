@@ -1,21 +1,27 @@
 \section{Hardwaredesign}
 \vspace{0.5cm}
-I det følgende afsnit vil de vigtigste overvejelser for designet af systemets hardware fremtræde. En mere detaljeret begrundelse for valg findes i dokumentet analyse i bilaget. Dokumentet analyse indeholder også alle de beregninger der er foretaget i forbindelse med valg af forstærkning, filtertype og subtractor.
+I det følgende afsnit vil de vigtigste overvejelser og udregninger for designet af systemets hardware fremtræde. En mere detaljeret begrundelse for valg findes i dokumentet analyse i bilaget. Dokumentet analyse indeholder også alle de beregninger der er foretaget i forbindelse med valg af forstærkning, filtertype og subtractor.
 
 \subsection{Forstærker}
 \vspace{0.5cm}
 Grundet at det signal, der udsendes gennem tryktransduceren er for småt til, at det kan analyseres og anvendes i vores system, skal signalet derfor forstærkes. Til projektet blev det givet, at signalet skulle forstærkes med en operationsforstærker af typen INA114. Denne type operationsforstærker har et variabelt gain, der afhænger af hvilken modstand, der forbindes til operationsforstærkeren.
 
-For at vide hvor meget vi ønsker at forstærke signalet fra tryktransduceren er det vigtigt at kende til størrelsen af signalet. Mængden af forstærkning bestemmes derfor ud fra tryktransducerens følsomhed. Denne følsomhed findes i databladet for tryktransduceren. Vi udregner hvor meget vi ønsker at forstærke signalet op til:
-  
+For at vide hvor meget vi ønsker at forstærke signalet fra tryktransduceren er det vigtigt at kende til størrelsen af signalet. Mængden af forstærkning bestemmes derfor ud fra tryktransducerens følsomhed. Denne følsomhed findes i databladet for tryktransduceren. Vi udregner signalets størrelse fra transduceren i forhold til det maksimale blodtryk vi har valgt, at systemet skal kunne måle op til.
+
+Tryktransducerens følsomhed:
+\[ V_{out} =5\cdot\frac{µV}{V\cdot mmHg}\]  
 \[ V_{out} =5\cdot\frac{µV}{V\cdot mmHg} \cdot 10 V \cdot 250 mmHg = 12500 µV = 12,5 mV\]
 
-Fordi vi kender følsomheden på tryktransduceren og ved, at vi ønsker at kunne forstærke blodtrykssignaler op til 250 mmHg og har en forsyningsspænding på -5 til 5V via Analog Discovery får vi ovenstående resultat ved design af forstærkeren.
+Fordi vi kender følsomheden på tryktransduceren og ved, at vi ønsker at kunne forstærke blodtrykssignaler op til 250 mmHg og har en forsyningsspænding på -5 til 5V via Analog Discovery får vi ovenstående resultat.
 
 Forstærkerens gain kan udregnes med følgende formel: 
 \[ G = 1+\frac{50k\Omega}{R_{G}} \]
 
-Vi ønsker at forstærke disse 12,5 mV op til 4V. Resultatet af udregningerne blev derfor, at vi forstærker signalet fra transduceren 320 gange og bruger en modstand på 156 $\Omega$. Alle beregninger og beskrivelser findes i dokumentet analyse i bilaget.   
+Vi ønsker at forstærke signalet fra 12,5 mV op til 4V. Denne forstækning er valgt for at kunne udnytte alle 14-bit på AD-Converteren.
+
+Komponenterne har vi udregnet på følgende måde:
+
+   
 
 \subsection{Subtractor}
 \vspace{0.5cm}
