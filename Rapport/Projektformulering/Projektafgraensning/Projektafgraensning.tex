@@ -1,28 +1,35 @@
 \section{Afgrænsning}
-I kravspecifikationen er der beskrevet de ikke-funktionelle krav vha. MoSCoW- modellen. Vores fokus har været invasiv blodtryksmålingen, og derfor har vi valgt ikke at prioritere at implementere fx EKG-måling. Vores won’t have krav lyder derfor således, ”Systemet kan ikke vise andet end blodtryksmålingen samt angive puls, diastolisk/systolisk blodtryk (F)”.
+I kravspecifikationen er der beskrevet de ikke-funktionelle krav vha. MoSCoW- modellen. 
 
-De softwaremæssige afgrænsninger i systemet er blandt andet, at der ikke kan hentes, samt åbnes en tidligere måling fra en fil. Herudover har vi valgt at gemme målingens værdier i en fil, frem for i en database. Ift brugssituationen, ville det give god mening at benytte både en fil og en database, da dataen kan tilgås og ses fra flere enheder. Eftersom det at gemme i en fil er et must have krav, er det blevet prioriteret højere at opfylde dette end could have kravet om at gemme i en database. Yderligere er et could have krav at systemet kunne have et lydsignal ved afsluttet blodtryksmåling, dette blev dog ikke prioriteret, da det kun var et could have krav. Derimod er det prioriteret, at systemet skal kunne beregne og vise middelblodtrykket på GUI'en. Dette er et must have krav, da man gennem en operation skal have en indikation på, hvordan blodtrykket for patineten lægger.
+INDSÆT BILLEDE HER
 
-Det er nødvendigt at man manuelt skal foretage en nulpunktsjustering inden hver måling igangsættes, for at sikre sig at man ikke måler det atmosfæriske tryk med. Sker dette ville vores system ikke kunne registrere værdierne, da vi har bygget systemet efter at kunne håndtere et max tryk på 250 mmHg. Derfor er dette et must krav. Endnu et must krav er, at der årligt skal laves en kalibrering af systemet, for at sikre en vedvarende præcision af systemet. Dette foretages af en teknisk person, som sørger for at et kendt tryk svarer til en kendt spænding, således systemet måler korrekt.
+I ovenstående tabel ses vores de MoSCoW krav, som er implementeret på vores system.
 
-Der er valgt en række værdier ifm. udviklingen af hardwaren, hvilket gør at den er begrænset i forhold til hvilke størrelser af værdier den kan håndtere. Forstærkeren kræver nogle specifikke modstande, for at operationsforstærkeren skal forstærke op til de 4 V, som vi har valgt vores system skal kunne. Derudover skal systemet benytte en tryktransducer med en sensitivitet på 5,0 µV/(V*mmHg), da forstærkningsfakotoren er beregnet ud fra denne, og dermed er modstandsvalget afhængig af en tryktransducer med en sensitivitet på 5,0 µV/(V*mmHg).
+Vores fokus har været invasiv blodtryksmålingen, og derfor har vi valgt ikke at prioritere at
+implementere fx EKG-måling. Vores won't have krav lyder derfor således, ”Systemet kan ikke
+vise andet end blodtryksmålingen samt angive puls, diastolisk/systolisk blodtryk (F)”.
 
-\subsection{Ikke-funktionelle krav}
-\vspace{0.3 cm}
-MoSCoW bruges til at definere forskellige krav til systemet. I dette afsnit vil nogle af de vigtigste krav være opstillet. For alle krav henvises til dokumentet kravspecifikation afsnit xx. 
+De softwaremæssige afgrænsninger i systemet er blandt andet, at der ikke kan hentes, samt åbnes
+en tidligere måling fra en fil. Herudover har vi valgt at gemme målingens værdier i en fil, frem
+for i en database. Ift. brugssituationen, ville det give god mening at benytte både en fil og en
+database, da data kan tilgås og ses fra flere enheder. Eftersom det at gemme i en fil er et must
+have krav, er det blevet prioriteret højere at opfylde dette end could have kravet om at gemme i
+en database. Yderligere er et could have krav, at systemet kunne have et lydsignal ved afsluttet
+blodtryksmåling, dette blev dog ikke prioriteret, da det kun var et could have krav. Derimod er
+det prioriteret, at systemet skal kunne beregne og vise middelblodtrykket på GUI'en. Dette er et
+must have krav, da man gennem en operation skal have en indikation på, hvordan blodtrykket
+for patienten ligger. Systemet er en prototype, hvor softwaren kræver en PC som kan køre Visual Studio, hvor det til fremtidigt arbejde ville være oplagt at lægge softwaren på en mikroprocessor.
 
-\vspace{0.5 cm}
-\textbf{Must have}
-\begin{enumerate}
-	\item Systemet skal kunne kalibreres (F, U)
-	\item Systemet skal kunne nulpunktsjusteres (F, U)
-	\item Systemet skal kunne måle og vise et blodtryk på 250 mmHg ved normal atmosfærisk tryk (P)
-	\item Systemet skal kunne måle og vise en puls på mellem 30 og 220 slag pr. minut
-	\item Systemets GUI skal kunne vise en graf inden for 10 sekunder (R)
-	\item Systemets GUI skal kunne stoppe målingen inden for 5 sekunder (R)
-	\item Systemets GUI skal kunne vise systolisk-, diastolisk-, og median blodtryk samt puls i form af heltal (U)
-	\item Systemet skal kunne alarmere i henhold til systembeskrivelsen afsnit xx i dokumentet kravspecifikation (P)
-\end{enumerate}
+Det er nødvendigt at man manuelt skal foretage en nulpunktsjustering inden hver måling
+igangsættes, for at sikre sig at man ikke måler det atmosfæriske tryk med i beregningerne. Sker dette ville vores system ikke kunne registrere værdierne, da vi har bygget systemet efter at kunne håndtere et max tryk på 250 mmHg. Derfor er dette et must krav. Endnu et must krav er, at der årligt skal laves en kalibrering af systemet, for at sikre en vedvarende præcision af systemet. Dette
+foretages af en teknisk person, som sørger for at et kendt tryk svarer til en kendt spænding,
+således systemet måler korrekt. Hardwaren er følsom overfor vand og støv, da der ikke er prioriteret at bygge en boks til at skjule printpladen. Derudover kræver hardwaren at Analog Discovery bruges som power supply.
 
- 
+Der er valgt en række værdier ifm. udviklingen af hardwaren, hvilket gør at den er begrænset
+i forhold til hvilke størrelser af værdier den kan håndtere. Forstærkeren kræver specifikke
+modstande, for at operationsforstærkeren skal forstærke op til de 4 V, som vi har valgt vores
+system skal kunne. Derudover skal systemet benytte en tryktransducer med en sensitivitet
+på 5,0 μV/(V*mmHg), da forstærkningsfakotoren er beregnet ud fra denne, og dermed er
+modstandsvalget afhængig af en tryktransducer med en sensitivitet på 5,0 μV/(V*mmHg).
+
 \clearpage

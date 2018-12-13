@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  13 DEC 2018 16:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  13 DEC 2018 22:40
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
@@ -1374,7 +1374,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
 ") (Forside/Forside.tex
-<Forside/AUlogo.png, id=251, 498.06075pt x 152.36925pt>
+<Forside/AUlogo.png, id=239, 498.06075pt x 152.36925pt>
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
@@ -1411,7 +1411,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-) (Indledning/indledning.tex [6
+) (Forord/Forord.tex [6
 
 ]
 
@@ -1428,7 +1428,37 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-) (Projektformulering/Projektformulering.tex [7
+
+Underfull \hbox (badness 2005) in paragraph at lines 3--4
+\T1/cmr/m/n/10.95 Denne projektrapport er udarbejdet af gruppe 5 bestående af: 
+Kajene Elankanathan,
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 3--4
+\T1/cmr/m/n/10.95 Thea Plenus Kjeldahl Kristensen, Nicolai Bæch, Sarah Krohn Fe
+nger, Mikkel Rugholm
+ []
+
+[7
+
+]) (Indledning/indledning.tex
+
+Class memoir Warning: X Columns too narrow (table too wide)
+(memoir)               on input line 1.
+
+
+Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+[]|[]| 
+ []
+
+
+Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
+[][] 
+ []
+
+) (Projektformulering/Projektformulering.tex [8
+
 
 ]
 
@@ -1447,7 +1477,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 
 
 (Projektformulering/Projekt_og_problemformulering/Projekt_og_problemformulering
-.tex)) (Teori/Teori.tex [8
+.tex)) (Teori/Teori.tex [9
 
 ]
 
@@ -1464,42 +1494,52 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Teori/Fysiologi/Fysiologi.tex) (Teori/Blodtryksmaaling/Blodtryksmaaling.tex))
-(Systembeskrivelse/Systembeskrivelse.tex [9
+(Teori/Fysiologi/Fysiologi.tex
+<Teori/Fysiologi/hjerte.jpg, id=353, 361.35pt x 305.64188pt>
+File: Teori/Fysiologi/hjerte.jpg Graphic file (type jpg)
+<use Teori/Fysiologi/hjerte.jpg>
+Package pdftex.def Info: Teori/Fysiologi/hjerte.jpg  used on input line 10.
+(pdftex.def)             Requested size: 227.5pt x 192.42946pt.
+<Teori/Fysiologi/Blodtryk.png, id=356, 414.04688pt x 521.69907pt>
+File: Teori/Fysiologi/Blodtryk.png Graphic file (type png)
+<use Teori/Fysiologi/Blodtryk.png>
+Package pdftex.def Info: Teori/Fysiologi/Blodtryk.png  used on input line 23.
+(pdftex.def)             Requested size: 318.49861pt x 401.31946pt.
 
-]
 
-Class memoir Warning: X Columns too narrow (table too wide)
-(memoir)               on input line 1.
-
-
-Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
-[]|[]| 
- []
-
-
-Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
-[][] 
- []
-
-<Systembeskrivelse/Systemoversigt.png, id=369, 1030.60031pt x 722.7pt>
-File: Systembeskrivelse/Systemoversigt.png Graphic file (type png)
-<use Systembeskrivelse/Systemoversigt.png>
-Package pdftex.def Info: Systembeskrivelse/Systemoversigt.png  used on input li
-ne 6.
-(pdftex.def)             Requested size: 250.25139pt x 175.48059pt.
-
-Underfull \hbox (badness 1448) in paragraph at lines 29--29
-\T1/cmr/m/n/10.95 For nærmere beskrivelse af brugergrænsefladens funktioner hen
-vises der til dokumentet
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [10
 
- <./Systembeskrivelse/Systemoversigt.png>] [11
+ <./Teori/Fysiologi/hjerte.jpg>])) (Udviklingsproces/Udviklingsproces.tex
+[11 <./Teori/Fysiologi/Blodtryk.png>]
 
-])
-(Kravspecifikation/Kravspecifikation.tex
+Class memoir Warning: X Columns too narrow (table too wide)
+(memoir)               on input line 1.
+
+
+Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+[]|[]| 
+ []
+
+
+Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
+[][] 
+ []
+
+(Udviklingsproces/Metode/Metode.tex
+<Udviklingsproces/ASEmodellen.png, id=372, 711.51535pt x 449.10643pt>
+File: Udviklingsproces/ASEmodellen.png Graphic file (type png)
+<use Udviklingsproces/ASEmodellen.png>
+Package pdftex.def Info: Udviklingsproces/ASEmodellen.png  used on input line 7
+.
+(pdftex.def)             Requested size: 364.00139pt x 229.76079pt.
+ [12
+
+ <./Udviklingsproces/ASEmodellen.png>])
+(Udviklingsproces/Proces/Proces.tex)
+(Udviklingsproces/Programmer/Programmer.tex))
+(Kravspecifikation/Kravspecifikation.tex [13]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -1529,15 +1569,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-[12
-
+[14
 
 ])
 Underfull \hbox (badness 10000) in paragraph at lines 23--3
 
  []
 
-<Kravspecifikation/Diagram.png, id=390, 1028.84375pt x 624.3325pt>
+<Kravspecifikation/Diagram.png, id=387, 1028.84375pt x 624.3325pt>
 File: Kravspecifikation/Diagram.png Graphic file (type png)
 <use Kravspecifikation/Diagram.png>
 Package pdftex.def Info: Kravspecifikation/Diagram.png  used on input line 9.
@@ -1567,15 +1606,49 @@ Overfull \hbox (2.5229pt too wide) in alignment at lines 14--23
  [] [] [] [] [] 
  []
 
-[13 <./Kravspecifikation/Diagram.png>])
-(Kravspecifikation/Use_case_beskrivelser/Use_case_beskrivelser.tex) [14]
-[15] (Projektformulering/Projektafgraensning/Projektafgraensning.tex
+[15 <./Kravspecifikation/Diagram.png>])
+(Kravspecifikation/Use_case_beskrivelser/Use_case_beskrivelser.tex)
+(Projektformulering/Projektafgraensning/Projektafgraensning.tex [16]
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-[16
+("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-3.def"
+File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
+)
+[17])) (Systembeskrivelse/Systembeskrivelse.tex
 
-] [17])) (Arkitektur_og_design/Arkitektur_og_design.tex
+Class memoir Warning: X Columns too narrow (table too wide)
+(memoir)               on input line 1.
+
+
+Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+[]|[]| 
+ []
+
+
+Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
+[][] 
+ []
+
+<Systembeskrivelse/Systemoversigt.png, id=404, 1030.60031pt x 722.7pt>
+File: Systembeskrivelse/Systemoversigt.png Graphic file (type png)
+<use Systembeskrivelse/Systemoversigt.png>
+Package pdftex.def Info: Systembeskrivelse/Systemoversigt.png  used on input li
+ne 6.
+(pdftex.def)             Requested size: 250.25139pt x 175.48059pt.
+
+Underfull \hbox (badness 1448) in paragraph at lines 29--29
+\T1/cmr/m/n/10.95 For nærmere beskrivelse af brugergrænsefladens funktioner hen
+vises der til dokumentet
+ []
+
+[18
+
+
+ <./Systembeskrivelse/Systemoversigt.png>] [19
+
+])
+(Arkitektur_og_design/Arkitektur_og_design.tex
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -1591,33 +1664,31 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
  []
 
 (Arkitektur_og_design/Hardwarearkitektur/Hardwarearkitektur.tex
-<Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png, id=425, 1058.23929pt 
+<Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png, id=422, 1058.23929pt 
 x 438.78215pt>
 File: Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png Graphic file (typ
 e png)
 <use Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png>
 Package pdftex.def Info: Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.pn
-g  used on input line 9.
+g  used on input line 15.
 (pdftex.def)             Requested size: 455.0pt x 188.65924pt.
- [18
+ [20
 
 
  <./Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png>]
-<Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png, id=434, 881.4359pt x 
+<Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png, id=431, 881.4359pt x 
 631.93233pt>
 File: Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png Graphic file (typ
 e png)
 <use Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png>
 Package pdftex.def Info: Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.pn
-g  used on input line 25.
+g  used on input line 29.
 (pdftex.def)             Requested size: 455.0pt x 326.21536pt.
- [19
-
- <./Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png>])
-(Arkitektur_og_design/Design_Hardware/Design_hardware.tex [20
+ [21 <./Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png>])
+(Arkitektur_og_design/Design_Hardware/Design_hardware.tex [22
 
 ]
-<Arkitektur_og_design/Design_hardware/SallenKey.png, id=449, 369.95357pt x 138.
+<Arkitektur_og_design/Design_hardware/SallenKey.png, id=447, 369.95357pt x 138.
 08733pt>
 File: Arkitektur_og_design/Design_hardware/SallenKey.png Graphic file (type png
 )
@@ -1625,7 +1696,7 @@ File: Arkitektur_og_design/Design_hardware/SallenKey.png Graphic file (type png
 Package pdftex.def Info: Arkitektur_og_design/Design_hardware/SallenKey.png  us
 ed on input line 39.
 (pdftex.def)             Requested size: 227.5pt x 84.91792pt.
-<Arkitektur_og_design/Design_hardware/Multisim.png, id=450, 862.07785pt x 593.2
+<Arkitektur_og_design/Design_hardware/Multisim.png, id=448, 862.07785pt x 593.2
 1625pt>
 File: Arkitektur_og_design/Design_hardware/Multisim.png Graphic file (type png)
 
@@ -1633,7 +1704,7 @@ File: Arkitektur_og_design/Design_hardware/Multisim.png Graphic file (type png)
 Package pdftex.def Info: Arkitektur_og_design/Design_hardware/Multisim.png  use
 d on input line 51.
 (pdftex.def)             Requested size: 364.00139pt x 250.47972pt.
- [21
+ [23
 
  <./Arkitektur_og_design/Design_hardware/SallenKey.png> <./Arkitektur_og_design
 /Design_hardware/Multisim.png>])
@@ -1644,7 +1715,7 @@ Underfull \hbox (badness 1210) in paragraph at lines 4--5
 ud fra producer-consumer
  []
 
-)) (Implementering_og_test/Implementering_og_test.tex [22
+)) (Implementering_og_test/Implementering_og_test.tex [24
 
 ]
 
@@ -1652,7 +1723,7 @@ Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
 
 
-Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+Overfull \hbox (69.47629pt too wide) in paragraph at lines 1--1
 []|[]| 
  []
 
@@ -1663,14 +1734,14 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 
 (Implementering_og_test/Hardware/Hardware.tex
 <../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg, id=46
-3, 3717.89pt x 2268.475pt>
+1, 3717.89pt x 2268.475pt>
 File: ../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg G
 raphic file (type jpg)
 <use ../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg>
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/forstaerker
 ogsubtractor2.jpg  used on input line 7.
 (pdftex.def)             Requested size: 245.69695pt x 149.87903pt.
-<../Rapport/Implementering_og_test/Hardware/filter2.jpg, id=464, 2906.86pt x 24
+<../Rapport/Implementering_og_test/Hardware/filter2.jpg, id=462, 2906.86pt x 24
 94.31876pt>
 File: ../Rapport/Implementering_og_test/Hardware/filter2.jpg Graphic file (type
  jpg)
@@ -1678,11 +1749,11 @@ File: ../Rapport/Implementering_og_test/Hardware/filter2.jpg Graphic file (type
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/filter2.jpg
   used on input line 15.
 (pdftex.def)             Requested size: 245.69695pt x 210.8154pt.
- [23
+ [25
 
  <../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg> <../
 Rapport/Implementering_og_test/Hardware/filter2.jpg>]
-<../Rapport/Implementering_og_test/Hardware/Ultiboard.png, id=472, 462.44197pt 
+<../Rapport/Implementering_og_test/Hardware/Ultiboard.png, id=471, 462.44197pt 
 x 415.98268pt>
 File: ../Rapport/Implementering_og_test/Hardware/Ultiboard.png Graphic file (ty
 pe png)
@@ -1690,9 +1761,9 @@ pe png)
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/Ultiboard.p
 ng  used on input line 26.
 (pdftex.def)             Requested size: 227.5pt x 204.6394pt.
- [24 <../Rapport/Implementering_og_test/Hardware/Ultiboard.png>]) (Implementeri
+ [26 <../Rapport/Implementering_og_test/Hardware/Ultiboard.png>]) (Implementeri
 ng_og_test/Software/software.tex))
-(Resultater/Resultater1.tex [25
+(Resultater/Resultater1.tex [27
 
 ]
 
@@ -1700,7 +1771,7 @@ Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
 
 
-Overfull \hbox (29.2942pt too wide) in paragraph at lines 1--1
+Overfull \hbox (69.47629pt too wide) in paragraph at lines 1--1
 []|[]| 
  []
 
@@ -1710,8 +1781,8 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
  []
 
 (Resultater/Resultater/Resultater_Hardware.tex)
-(Resultater/Resultater/Resultater_Software.tex))
-(Udviklingsproces/Udviklingsproces.tex [26
+(Resultater/Resultater/Resultater_Software.tex)) (Konklusion/Konklusion.tex
+[28
 
 ]
 
@@ -1728,34 +1799,8 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Udviklingsproces/Metode/Metode.tex
-<Udviklingsproces/ASEmodellen.png, id=492, 711.51535pt x 449.10643pt>
-File: Udviklingsproces/ASEmodellen.png Graphic file (type png)
-<use Udviklingsproces/ASEmodellen.png>
-Package pdftex.def Info: Udviklingsproces/ASEmodellen.png  used on input line 7
-.
-(pdftex.def)             Requested size: 364.00139pt x 229.76079pt.
- [27
-
- <./Udviklingsproces/ASEmodellen.png>])
-(Udviklingsproces/Proces/Proces.tex)
-(Udviklingsproces/Programmer/Programmer.tex)) (Erfaringer/Erfaringer.tex
-[28]
-
-Class memoir Warning: X Columns too narrow (table too wide)
-(memoir)               on input line 1.
-
-
-Overfull \hbox (69.47629pt too wide) in paragraph at lines 1--1
-[]|[]| 
- []
-
-
-Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
-[][] 
- []
-
-) (Fremtidigt_arbejde/Fremtidigt_arbejde.tex [29
+(Konklusion/Konklusion/Konklusion.tex))
+(Fremtidigt_arbejde/Fremtidigt_arbejde.tex [29
 
 ]
 
@@ -1773,7 +1818,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
  []
 
 (Fremtidigt_arbejde/Fremtidigt_arbejde/Fremtidigt_arbejde.tex))
-(Konklusion/Konklusion.tex [30
+(Bilag/Bilag.tex [30
 
 ] [31]
 
@@ -1790,91 +1835,78 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Konklusion/Konklusion/Konklusion.tex)) (Bilag/Bilag.tex [32
+(Bilag/Bilag/Bilag.tex)) (Projektrapport.bbl [32
 
 ]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 12.
 
-Class memoir Warning: X Columns too narrow (table too wide)
-(memoir)               on input line 1.
-
-
-Overfull \hbox (69.47629pt too wide) in paragraph at lines 1--1
-[]|[]| 
+("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 2941) in paragraph at lines 16--21
+[]\T1/cmr/m/n/10.95 Chegg Stu-dy.  Wig-gers di-a-gram.  URL [][]$\T1/cmtt/m/n/1
+0.95 https : / / www . chegg . com / homework-[]help /
  []
 
 
-Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
-[][] 
+Overfull \hbox (263.81848pt too wide) in paragraph at lines 16--21
+\T1/cmtt/m/n/10.95 questions-[]and-[]answers / using-[]wiggers-[]diagram-[]calc
+ulate-[]following-[]heart-[]rate-[]b-[]stroke-[]volume-[]c-[]cardiac-[]output-[
+]d-[]me-[]q30345183$[][]\T1/cmr/m/n/10.95 .
  []
 
-(Bilag/Bilag/Bilag.tex)) (Referencer/Referencer.tex [33
-
-]
-
-Class memoir Warning: X Columns too narrow (table too wide)
-(memoir)               on input line 1.
-
-
-Overfull \hbox (69.47629pt too wide) in paragraph at lines 1--1
-[]|[]| 
- []
-
-
-Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
-[][] 
- []
-
-(Referencer/Referencer/Referencer.tex)) [34
+) [33
 
 ]
 \tf@toc=\write5
 \openout5 = `Projektrapport.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
  (Projektrapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `Projektrapport.out' has not changed.
-(rerunfilecheck)             Checksum: 7D79CFBCB117705AEBB016BE70F0900C;3936.
+(rerunfilecheck)             Checksum: AAD6A73958F6CF311CDE433D415947B2;3737.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 29441 strings out of 492970
- 528398 string characters out of 3126593
+ 29821 strings out of 492970
+ 532335 string characters out of 3126593
  914748 words of memory out of 3000000
- 32634 multiletter control sequences out of 15000+200000
- 557104 words of font info for 74 fonts, out of 3000000 for 9000
+ 33024 multiletter control sequences out of 15000+200000
+ 557418 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,78p,1411b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,78p,964b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecti1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\tcrm1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+ectt1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecti1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\carol\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1000.pk>{C:/Users/carol/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\carol\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\carol\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Use
-rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.p
+\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk> <C:\Users\carol\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\carol\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1000.pk>{C:/Users/carol/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\carol\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Use
+rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.p
 k> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1728.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/car
-ol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr10.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb>
-Output written on Projektrapport.pdf (34 pages, 5074331 bytes).
+ecrm1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecrm1728.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/carol/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:
+/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Projektrapport.pdf (33 pages, 5347757 bytes).
 PDF statistics:
- 964 PDF objects out of 1000 (max. 8388607)
- 127 named destinations out of 1000 (max. 500000)
- 552 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 993 PDF objects out of 1000 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
+ 538 words of extra memory for PDF output out of 10000 (max. 10000000)
 
