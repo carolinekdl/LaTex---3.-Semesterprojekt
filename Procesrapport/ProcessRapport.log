@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  13 DEC 2018 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  13 DEC 2018 22:51
 entering extended mode
 **./ProcessRapport.tex
 (ProcessRapport.tex
@@ -1122,7 +1122,10 @@ Sidefoothsep and sidefootwidth: 7pt and 49pt
 Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
-
+("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
 sty"
 Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
@@ -1203,10 +1206,6 @@ Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count369
- ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
 LaTeX Info: Redefining \url on input line 5141.
 \XeTeXLinkMargin=\dimen290
 \Fld@menulength=\count370
@@ -1248,7 +1247,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip297
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 123.
+Package hyperref Info: Option `colorlinks' set `true' on input line 124.
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
@@ -1374,7 +1373,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
 ") (Forside/Forsiden.tex
-<Forside/AUlogo.png, id=79, 498.06075pt x 152.36925pt>
+<Forside/AUlogo.png, id=91, 498.06075pt x 152.36925pt>
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
@@ -1428,7 +1427,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<Gruppedannelse/Insightsdiscovery.png, id=128, 408.66965pt x 399.6359pt>
+<Gruppedannelse/Insightsdiscovery.png, id=137, 408.66965pt x 399.6359pt>
 File: Gruppedannelse/Insightsdiscovery.png Graphic file (type png)
 <use Gruppedannelse/Insightsdiscovery.png>
 Package pdftex.def Info: Gruppedannelse/Insightsdiscovery.png  used on input li
@@ -1522,25 +1521,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
  (ProcessRapport.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 28.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 28.
+Package rerunfilecheck Info: File `ProcessRapport.out' has not changed.
+(rerunfilecheck)             Checksum: C609FB5576BAA292BD08BC50B7A3DFC9;1303.
 
-
-Package rerunfilecheck Warning: File `ProcessRapport.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ProcessRapport.out':
-(rerunfilecheck)             Before: 40F77740BA99139011747F5362B6B58B;1081
-(rerunfilecheck)             After:  C609FB5576BAA292BD08BC50B7A3DFC9;1303.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 28.
  ) 
 Here is how much of TeX's memory you used:
- 28819 strings out of 492970
- 512180 string characters out of 3126593
- 907748 words of memory out of 3000000
- 32226 multiletter control sequences out of 15000+200000
+ 28822 strings out of 492970
+ 512234 string characters out of 3126593
+ 907765 words of memory out of 3000000
+ 32229 multiletter control sequences out of 15000+200000
  553834 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,12n,78p,1092b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1556,9 +1549,9 @@ ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk> <C:\Use
 rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.p
 k><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charte
 r/bchr8a.pfb>
-Output written on ProcessRapport.pdf (16 pages, 1013606 bytes).
+Output written on ProcessRapport.pdf (16 pages, 1014385 bytes).
 PDF statistics:
- 459 PDF objects out of 1000 (max. 8388607)
+ 468 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
- 163 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 

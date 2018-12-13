@@ -5,6 +5,9 @@ Warning--entry type for "Hjerte" isn't style-file defined
 --line 1 of file Projektrapport.bib
 Warning--entry type for "WiggersDiagram" isn't style-file defined
 --line 8 of file Projektrapport.bib
+Warning--entry type for "ASE" isn't style-file defined
+--line 15 of file Projektrapport.bib
 Warning--empty year in Hjerte
 Warning--empty year in WiggersDiagram
-(There were 4 warnings)
+Warning--empty year in ASE
+(There were 6 warnings)

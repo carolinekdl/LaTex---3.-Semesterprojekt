@@ -1,4 +1,4 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{3}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -17,6 +17,13 @@ Chegg Study.
 \newblock Wiggers diagram.
 \newblock URL
   \url{https://www.chegg.com/homework-help/questions-and-answers/using-wiggers-diagram-calculate-following-heart-rate-b-stroke-volume-c-cardiac-output-d-me-q30345183}.
+\newblock Sidst besøgt d. 13-12-2018.
+
+\bibitem[til udfærdigelse~af projektrapporter()]{ASE}
+Vejledning til udfærdigelse~af projektrapporter.
+\newblock Ase-modellen.
+\newblock URL
+  \url{http://studerende.au.dk/fileadmin/user_upload/Vejledning_til_udfaerdigelse_af_projektrapporter_v1.5.pdf}.
 \newblock Sidst besøgt d. 13-12-2018.
 
 \end{thebibliography}
