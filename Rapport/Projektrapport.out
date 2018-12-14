@@ -34,15 +34,15 @@
 \BOOKMARK [2][-]{subsection.9.2.3}{Anti-aliaserings filter}{section.9.2}% 34
 \BOOKMARK [2][-]{subsection.9.2.4}{Printplade}{section.9.2}% 35
 \BOOKMARK [1][-]{section.9.3}{Softwarearkitektur}{chapter.9}% 36
-\BOOKMARK [2][-]{subsection.9.3.1}{Dom\346nemodel}{section.9.3}% 37
-\BOOKMARK [1][-]{section.9.4}{Softwaredesign}{chapter.9}% 38
-\BOOKMARK [0][-]{chapter.10}{Implementering og test}{}% 39
-\BOOKMARK [1][-]{section.10.1}{Hardwareimplementering}{chapter.10}% 40
-\BOOKMARK [1][-]{section.10.2}{Test af hardware}{chapter.10}% 41
-\BOOKMARK [2][-]{subsection.10.2.1}{Forst\346rker}{section.10.2}% 42
-\BOOKMARK [2][-]{subsection.10.2.2}{Anti-aliaseringsfilter}{section.10.2}% 43
-\BOOKMARK [2][-]{subsection.10.2.3}{Test af printplade}{section.10.2}% 44
-\BOOKMARK [1][-]{section.10.3}{Softwareimplementering}{chapter.10}% 45
+\BOOKMARK [2][-]{subsection.9.3.1}{Overordnet dom\346nemodel}{section.9.3}% 37
+\BOOKMARK [2][-]{subsection.9.3.2}{Dom\346nemodel for software}{section.9.3}% 38
+\BOOKMARK [1][-]{section.9.4}{Softwaredesign}{chapter.9}% 39
+\BOOKMARK [0][-]{chapter.10}{Implementering og test}{}% 40
+\BOOKMARK [1][-]{section.10.1}{Hardwareimplementering}{chapter.10}% 41
+\BOOKMARK [1][-]{section.10.2}{Softwareimplementering}{chapter.10}% 42
+\BOOKMARK [1][-]{section.10.3}{Test af hardware}{chapter.10}% 43
+\BOOKMARK [2][-]{subsection.10.3.1}{Modultest}{section.10.3}% 44
+\BOOKMARK [2][-]{subsection.10.3.2}{Integrationstest}{section.10.3}% 45
 \BOOKMARK [1][-]{section.10.4}{Test af software}{chapter.10}% 46
 \BOOKMARK [2][-]{subsection.10.4.1}{Modultest}{section.10.4}% 47
 \BOOKMARK [2][-]{subsection.10.4.2}{Integrationstest}{section.10.4}% 48

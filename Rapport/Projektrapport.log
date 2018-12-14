@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  14 DEC 2018 00:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  14 DEC 2018 11:10
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
@@ -1590,7 +1590,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--3
 
  []
 
-<Kravspecifikation/Diagram.png, id=394, 1028.84375pt x 624.3325pt>
+<Kravspecifikation/Diagram.png, id=396, 1028.84375pt x 624.3325pt>
 File: Kravspecifikation/Diagram.png Graphic file (type png)
 <use Kravspecifikation/Diagram.png>
 Package pdftex.def Info: Kravspecifikation/Diagram.png  used on input line 9.
@@ -1644,7 +1644,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<Systembeskrivelse/Systemoversigt.png, id=412, 1030.60031pt x 722.7pt>
+<Systembeskrivelse/Systemoversigt.png, id=414, 1030.60031pt x 722.7pt>
 File: Systembeskrivelse/Systemoversigt.png Graphic file (type png)
 <use Systembeskrivelse/Systemoversigt.png>
 Package pdftex.def Info: Systembeskrivelse/Systemoversigt.png  used on input li
@@ -1678,7 +1678,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
  []
 
 (Arkitektur_og_design/Hardwarearkitektur/Hardwarearkitektur.tex
-<Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png, id=429, 1058.23929pt 
+<Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png, id=431, 1058.23929pt 
 x 438.78215pt>
 File: Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png Graphic file (typ
 e png)
@@ -1690,7 +1690,7 @@ g  used on input line 15.
 
 
  <./Arkitektur_og_design/Hardwarearkitektur/BDD_faerdig.png>]
-<Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png, id=438, 881.4359pt x 
+<Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png, id=440, 881.4359pt x 
 631.93233pt>
 File: Arkitektur_og_design/Hardwarearkitektur/IBD_faerdig.png Graphic file (typ
 e png)
@@ -1702,7 +1702,7 @@ g  used on input line 29.
 (Arkitektur_og_design/Design_Hardware/Design_hardware.tex [24
 
 ]
-<Arkitektur_og_design/Design_hardware/SallenKey.png, id=454, 369.95357pt x 138.
+<Arkitektur_og_design/Design_hardware/SallenKey.png, id=456, 369.95357pt x 138.
 08733pt>
 File: Arkitektur_og_design/Design_hardware/SallenKey.png Graphic file (type png
 )
@@ -1710,7 +1710,7 @@ File: Arkitektur_og_design/Design_hardware/SallenKey.png Graphic file (type png
 Package pdftex.def Info: Arkitektur_og_design/Design_hardware/SallenKey.png  us
 ed on input line 39.
 (pdftex.def)             Requested size: 227.5pt x 84.91792pt.
-<Arkitektur_og_design/Design_hardware/Multisim.png, id=455, 862.07785pt x 593.2
+<Arkitektur_og_design/Design_hardware/Multisim.png, id=457, 862.07785pt x 593.2
 1625pt>
 File: Arkitektur_og_design/Design_hardware/Multisim.png Graphic file (type png)
 
@@ -1722,16 +1722,42 @@ d on input line 51.
 
  <./Arkitektur_og_design/Design_hardware/SallenKey.png> <./Arkitektur_og_design
 /Design_hardware/Multisim.png>])
-(Arkitektur_og_design/Softwarearkitektur/Softwarearkitektur.tex)
-(Arkitektur_og_design/Design_Software/Design_software.tex
-Underfull \hbox (badness 1210) in paragraph at lines 4--5
-[]\T1/cmr/m/n/10.95 Kommunikationen mellem datalaget og logiklaget er designet 
-ud fra producer-consumer
- []
+(Arkitektur_og_design/Softwarearkitektur/Softwarearkitektur.tex
+<Arkitektur_og_design/Softwarearkitektur/overordnetdomain.png, id=467, 800.4906
+3pt x 559.08875pt>
+File: Arkitektur_og_design/Softwarearkitektur/overordnetdomain.png Graphic file
+ (type png)
+<use Arkitektur_og_design/Softwarearkitektur/overordnetdomain.png>
+Package pdftex.def Info: Arkitektur_og_design/Softwarearkitektur/overordnetdoma
+in.png  used on input line 7.
+(pdftex.def)             Requested size: 455.0pt x 317.78813pt.
+ [26
 
-)) (Implementering_og_test/Implementering_og_test.tex [26
+ <./Arkitektur_og_design/Softwarearkitektur/overordnetdomain.png>]
+<Arkitektur_og_design/Softwarearkitektur/classdomain.png, id=474, 636.87938pt x
+ 407.02063pt>
+File: Arkitektur_og_design/Softwarearkitektur/classdomain.png Graphic file (typ
+e png)
+<use Arkitektur_og_design/Softwarearkitektur/classdomain.png>
+Package pdftex.def Info: Arkitektur_og_design/Softwarearkitektur/classdomain.pn
+g  used on input line 22.
+(pdftex.def)             Requested size: 455.0pt x 290.78152pt.
+ [27
 
-]
+ <./Arkitektur_og_design/Softwarearkitektur/classdomain.png>]
+<Arkitektur_og_design/Softwarearkitektur/tomclass.png, id=481, 1204.5pt x 673.7
+6718pt>
+File: Arkitektur_og_design/Softwarearkitektur/tomclass.png Graphic file (type p
+ng)
+<use Arkitektur_og_design/Softwarearkitektur/tomclass.png>
+Package pdftex.def Info: Arkitektur_og_design/Softwarearkitektur/tomclass.png  
+used on input line 37.
+(pdftex.def)             Requested size: 455.0pt x 254.51262pt.
+)
+(Arkitektur_og_design/Design_Software/Design_software.tex [28
+
+ <./Arkitektur_og_design/Softwarearkitektur/tomclass.png>]))
+(Implementering_og_test/Implementering_og_test.tex [29]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -1746,16 +1772,16 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Implementering_og_test/Hardware/Hardware.tex
-<../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg, id=46
-9, 3717.89pt x 2268.475pt>
+(Implementering_og_test/Hardware/Hardwareimplementering.tex
+<../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg, id=49
+2, 3717.89pt x 2268.475pt>
 File: ../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg G
 raphic file (type jpg)
 <use ../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg>
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/forstaerker
 ogsubtractor2.jpg  used on input line 7.
 (pdftex.def)             Requested size: 245.69695pt x 149.87903pt.
-<../Rapport/Implementering_og_test/Hardware/filter2.jpg, id=470, 2906.86pt x 24
+<../Rapport/Implementering_og_test/Hardware/filter2.jpg, id=493, 2906.86pt x 24
 94.31876pt>
 File: ../Rapport/Implementering_og_test/Hardware/filter2.jpg Graphic file (type
  jpg)
@@ -1763,11 +1789,11 @@ File: ../Rapport/Implementering_og_test/Hardware/filter2.jpg Graphic file (type
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/filter2.jpg
   used on input line 15.
 (pdftex.def)             Requested size: 245.69695pt x 210.8154pt.
- [27
+ [30
 
  <../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg> <../
 Rapport/Implementering_og_test/Hardware/filter2.jpg>]
-<../Rapport/Implementering_og_test/Hardware/Ultiboard.png, id=478, 462.44197pt 
+<../Rapport/Implementering_og_test/Hardware/Ultiboard.png, id=501, 462.44197pt 
 x 415.98268pt>
 File: ../Rapport/Implementering_og_test/Hardware/Ultiboard.png Graphic file (ty
 pe png)
@@ -1775,9 +1801,79 @@ pe png)
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/Ultiboard.p
 ng  used on input line 26.
 (pdftex.def)             Requested size: 227.5pt x 204.6394pt.
- [28 <../Rapport/Implementering_og_test/Hardware/Ultiboard.png>]) (Implementeri
-ng_og_test/Software/software.tex))
-(Resultater/Resultater1.tex [29
+)
+(Implementering_og_test/Software/Softwareimplementering.tex) [31 <../Rapport/Im
+plementering_og_test/Hardware/Ultiboard.png>]
+(Implementering_og_test/Hardware/Hardwaretest.tex
+<../Rapport/Implementering_og_test/Hardware/integration100mmhg.png, id=509, 392
+.96812pt x 89.58469pt>
+File: ../Rapport/Implementering_og_test/Hardware/integration100mmhg.png Graphic
+ file (type png)
+<use ../Rapport/Implementering_og_test/Hardware/integration100mmhg.png>
+Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/integration
+100mmhg.png  used on input line 13.
+(pdftex.def)             Requested size: 341.25pt x 77.79997pt.
+<../Rapport/Implementering_og_test/Hardware/integration50mmhg.png, id=510, 401.
+24907pt x 100.12407pt>
+File: ../Rapport/Implementering_og_test/Hardware/integration50mmhg.png Graphic 
+file (type png)
+<use ../Rapport/Implementering_og_test/Hardware/integration50mmhg.png>
+Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/integration
+50mmhg.png  used on input line 20.
+(pdftex.def)             Requested size: 341.25pt x 85.15779pt.
+<../Rapport/Implementering_og_test/Hardware/integration10mmhg.png, id=511, 408.
+77719pt x 106.14656pt>
+File: ../Rapport/Implementering_og_test/Hardware/integration10mmhg.png Graphic 
+file (type png)
+<use ../Rapport/Implementering_og_test/Hardware/integration10mmhg.png>
+Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/integration
+10mmhg.png  used on input line 27.
+(pdftex.def)             Requested size: 341.25pt x 88.61667pt.
+<../Rapport/Implementering_og_test/Hardware/integration0mmhg.png, id=512, 411.7
+8844pt x 91.09032pt>
+File: ../Rapport/Implementering_og_test/Hardware/integration0mmhg.png Graphic f
+ile (type png)
+<use ../Rapport/Implementering_og_test/Hardware/integration0mmhg.png>
+Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/integration
+0mmhg.png  used on input line 34.
+(pdftex.def)             Requested size: 341.25pt x 75.48677pt.
+ [32
+
+ <../Rapport/Implementering_og_test/Hardware/integration100mmhg.png> <../Rappor
+t/Implementering_og_test/Hardware/integration50mmhg.png> <../Rapport/Implemente
+ring_og_test/Hardware/integration10mmhg.png> <../Rapport/Implementering_og_test
+/Hardware/integration0mmhg.png>]
+<../Rapport/Implementering_og_test/Hardware/integration75mmhg.png, id=521, 424.
+58624pt x 114.4275pt>
+File: ../Rapport/Implementering_og_test/Hardware/integration75mmhg.png Graphic 
+file (type png)
+<use ../Rapport/Implementering_og_test/Hardware/integration75mmhg.png>
+Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/integration
+75mmhg.png  used on input line 51.
+(pdftex.def)             Requested size: 341.25pt x 91.97163pt.
+<../Rapport/Implementering_og_test/Hardware/integration25mmhg.png, id=522, 420.
+06938pt x 115.93312pt>
+File: ../Rapport/Implementering_og_test/Hardware/integration25mmhg.png Graphic 
+file (type png)
+<use ../Rapport/Implementering_og_test/Hardware/integration25mmhg.png>
+Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/integration
+25mmhg.png  used on input line 58.
+(pdftex.def)             Requested size: 341.25pt x 94.18126pt.
+<../Rapport/Implementering_og_test/Hardware/integrationsplothw.png, id=523, 582
+.25075pt x 382.48557pt>
+File: ../Rapport/Implementering_og_test/Hardware/integrationsplothw.png Graphic
+ file (type png)
+<use ../Rapport/Implementering_og_test/Hardware/integrationsplothw.png>
+Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/integration
+splothw.png  used on input line 69.
+(pdftex.def)             Requested size: 341.25pt x 224.17628pt.
+ [33
+
+ <../Rapport/Implementering_og_test/Hardware/integration75mmhg.png> <../Rapport
+/Implementering_og_test/Hardware/integration25mmhg.png> <../Rapport/Implementer
+ing_og_test/Hardware/integrationsplothw.png>])
+(Implementering_og_test/Software/Softwaretest.tex)) (Resultater/Resultater1.tex
+[34
 
 ]
 
@@ -1796,7 +1892,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 
 (Resultater/Resultater/Resultater_Hardware.tex)
 (Resultater/Resultater/Resultater_Software.tex)) (Konklusion/Konklusion.tex
-[30
+[35
 
 ]
 
@@ -1814,7 +1910,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
  []
 
 (Konklusion/Konklusion/Konklusion.tex))
-(Fremtidigt_arbejde/Fremtidigt_arbejde.tex [31
+(Fremtidigt_arbejde/Fremtidigt_arbejde.tex [36
 
 ]
 
@@ -1832,9 +1928,9 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
  []
 
 (Fremtidigt_arbejde/Fremtidigt_arbejde/Fremtidigt_arbejde.tex))
-(Bilag/Bilag.tex [32
+(Bilag/Bilag.tex [37
 
-] [33]
+] [38]
 
 Class memoir Warning: X Columns too narrow (table too wide)
 (memoir)               on input line 1.
@@ -1849,7 +1945,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Bilag/Bilag/Bilag.tex)) (Projektrapport.bbl [34
+(Bilag/Bilag/Bilag.tex)) (Projektrapport.bbl [39
 
 ]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 12.
@@ -1874,7 +1970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--28
 dning _ til _ udfaerdigelse _ af _
  []
 
-) [35
+) [40
 
 ]
 \tf@toc=\write5
@@ -1886,7 +1982,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `Projektrapport.out' has not changed.
-(rerunfilecheck)             Checksum: 468D0EC9F36F68F1E15B41A813BB954F;3626.
+(rerunfilecheck)             Checksum: ADB8EF6E4FF4A3F6331971A48BB3AA28;3634.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1894,13 +1990,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 29853 strings out of 492970
- 532704 string characters out of 3126593
+ 29942 strings out of 492970
+ 536541 string characters out of 3126593
  914765 words of memory out of 3000000
- 33055 multiletter control sequences out of 15000+200000
+ 33117 multiletter control sequences out of 15000+200000
  557418 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,78p,1362b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,78p,1292b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ectt1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecti1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -1923,9 +2019,9 @@ AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:
 mmi8.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmr10.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Projektrapport.pdf (35 pages, 5552783 bytes).
+Output written on Projektrapport.pdf (40 pages, 5917269 bytes).
 PDF statistics:
- 1015 PDF objects out of 1200 (max. 8388607)
- 123 named destinations out of 1000 (max. 500000)
- 532 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1066 PDF objects out of 1200 (max. 8388607)
+ 134 named destinations out of 1000 (max. 500000)
+ 582 words of extra memory for PDF output out of 10000 (max. 10000000)
 

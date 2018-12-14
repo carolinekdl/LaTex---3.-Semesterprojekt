@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  13 DEC 2018 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  14 DEC 2018 12:59
 entering extended mode
 **./Accepttest.tex
 (Accepttest.tex
@@ -1122,7 +1122,10 @@ Sidefoothsep and sidefootwidth: 7pt and 49pt
 Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
-
+("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
 sty"
 Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
@@ -1203,10 +1206,6 @@ Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count369
- ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
 LaTeX Info: Redefining \url on input line 5141.
 \XeTeXLinkMargin=\dimen290
 \Fld@menulength=\count370
@@ -1248,7 +1247,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip297
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 123.
+Package hyperref Info: Option `colorlinks' set `true' on input line 124.
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
@@ -1425,13 +1424,32 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-(Accepttest/Usecase1/Usecase1.tex [5
+(Accepttest/Usecase1/Usecase1.tex
+Overfull \hbox (31.38281pt too wide) in paragraph at lines 5--38
+[][] 
+ []
+
+[5
 
 
-]) (Accepttest/Usecase2/Usecase2.tex
+]
+Overfull \hbox (20.97643pt too wide) in paragraph at lines 46--58
+[][] 
+ []
+
+) (Accepttest/Usecase2/Usecase2.tex
+Overfull \hbox (16.3493pt too wide) in paragraph at lines 6--39
+[][] 
+ []
+
 [6
 
-]) (Accepttest/Usecase3/Usecase3.tex [7
+]
+Overfull \hbox (22.06833pt too wide) in paragraph at lines 46--73
+[][] 
+ []
+
+) (Accepttest/Usecase3/Usecase3.tex [7
 
 ]) (Accepttest/Usecase4/Usecase4.tex
 [8
@@ -1455,7 +1473,7 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<Nulpunktsjustering/Nulpunktsjustering.png, id=137, 722.7pt x 963.6pt>
+<Nulpunktsjustering/Nulpunktsjustering.png, id=138, 722.7pt x 963.6pt>
 File: Nulpunktsjustering/Nulpunktsjustering.png Graphic file (type png)
 <use Nulpunktsjustering/Nulpunktsjustering.png>
 Package pdftex.def Info: Nulpunktsjustering/Nulpunktsjustering.png  used on inp
@@ -1465,7 +1483,7 @@ ut line 12.
 
 
  <./Nulpunktsjustering/Nulpunktsjustering.png>]
-<Nulpunktsjustering/Maaling.jpg, id=144, 1208.515pt x 1606.0pt>
+<Nulpunktsjustering/Maaling.jpg, id=145, 1208.515pt x 1606.0pt>
 File: Nulpunktsjustering/Maaling.jpg Graphic file (type jpg)
 <use Nulpunktsjustering/Maaling.jpg>
 Package pdftex.def Info: Nulpunktsjustering/Maaling.jpg  used on input line 24.
@@ -1491,30 +1509,31 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 28795 strings out of 492970
- 509831 string characters out of 3126593
- 906732 words of memory out of 3000000
- 32234 multiletter control sequences out of 15000+200000
- 556074 words of font info for 72 fonts, out of 3000000 for 9000
+ 28810 strings out of 492970
+ 510052 string characters out of 3126593
+ 915749 words of memory out of 3000000
+ 32248 multiletter control sequences out of 15000+200000
+ 556415 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,78p,391b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,78p,436b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1200.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1000.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbi1000.pk>{C:/Users/carol/AppData/Local/Programs/MiKTeX 2
-.9/fonts/enc/dvips/base/8r.enc} <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Users\carol\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\carol\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Use
-rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.p
+tcrm1095.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1200.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecbi1000.pk>{C:/Users/carol/AppData/Local/Program
+s/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\carol\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\carol\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\Users\carol\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Use
+rs\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.p
 k> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/bitstrea/charter/bchr8a.pfb>
-Output written on Accepttest.pdf (11 pages, 1489755 bytes).
+ecrm1728.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecxc2074.pk> <C:\Users\carol\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\eccc1200.pk><C:/Users/carol/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/bitstrea/charter/bchr8a.pfb>
+Output written on Accepttest.pdf (11 pages, 1500535 bytes).
 PDF statistics:
- 467 PDF objects out of 1000 (max. 8388607)
+ 483 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
  144 words of extra memory for PDF output out of 10000 (max. 10000000)
 

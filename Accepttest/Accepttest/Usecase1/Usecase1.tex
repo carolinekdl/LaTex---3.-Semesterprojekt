@@ -1,4 +1,60 @@
 \section{Use Case 1: Mål og vis blodtryk og puls}
-
+\vspace{0.3cm}
+Følgende accepttest tester hovedscenariet i Use Case 1: Mål og vis blodtryk og puls. 
+\begin{table}[h!]
+	\begin{tabular}{lllll}
+		\multicolumn{2}{l|}{\textbf{Use case under test}} & \multicolumn{3}{l}{\textbf{UC1: Mål og vis blodtryk og puls}} \\ \hline
+		\multicolumn{2}{l|}{\textbf{Scenarie}} & \multicolumn{3}{l}{\textbf{Hovedscenarie}} \\ \hline
+		\multicolumn{2}{l|}{\textbf{Prækondition}} & \multicolumn{3}{l}{\textbf{Blodtryksmåleren er ledig og operationel}} \\ \hline
+		\multicolumn{5}{l}{\cellcolor[HTML]{187ABD}{\color[HTML]{187ABD} }} \\ \hline
+		\multicolumn{1}{l|}{\textbf{Step}} & \multicolumn{1}{l|}{\textbf{Handling}} & \multicolumn{1}{l|}{\textbf{Forventet observation/}} & \multicolumn{1}{l|}{\textbf{Faktisk observation/}} & \textbf{Resultat} \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{\textbf{Resultat}} & \multicolumn{1}{l|}{\textbf{Resultat}} & \textbf{(OK/} \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{\textbf{}} & \multicolumn{1}{l|}{\textbf{}} & \textbf{FAIL)} \\ \hline
+		\multicolumn{1}{l|}{1.1.1} & \multicolumn{1}{l|}{Drej hanen på tryk-} & \multicolumn{1}{l|}{"Start" knappen låses op} & \multicolumn{1}{l|}{"Start" knappen låses op} & OK \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{transduceren} & \multicolumn{1}{l|}{og der står} & \multicolumn{1}{l|}{og der står} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{så hanen indstilles til} & \multicolumn{1}{l|}{"Nulpunktsjustering} & \multicolumn{1}{l|}{"Nulpunktsjustering} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{atmosfærisk tryk.} & \multicolumn{1}{l|}{foretaget" i statusboksen} & \multicolumn{1}{l|}{foretaget" i statusboksen} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Vejledning findes på} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{figur -} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Tryk derefter på "Lav} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{nulpunktsjustering"} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\ \hline
+		\multicolumn{1}{l|}{1.1.3} & \multicolumn{1}{l|}{Drej hanen på tryk-} & \multicolumn{1}{l|}{Efter maksimalt 12} & \multicolumn{1}{l|}{Efter maksimalt 12} & OK \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{transduceren} & \multicolumn{1}{l|}{sekunder vises blodtryk} & \multicolumn{1}{l|}{sekunder vises blodtryk} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{så hanen indstilles til} & \multicolumn{1}{l|}{kontinuert via en} & \multicolumn{1}{l|}{kontinuert via en} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{at måle på væskesøjlen.} & \multicolumn{1}{l|}{graf på bruger-} & \multicolumn{1}{l|}{graf på bruger-} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Vejledning findes på} & \multicolumn{1}{l|}{grænsefladen og} & \multicolumn{1}{l|}{grænsefladen og} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{figur -} & \multicolumn{1}{l|}{talværdier for systolisk-} & \multicolumn{1}{l|}{talværdier for systolisk-} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Tryk derefter på} & \multicolumn{1}{l|}{diastolisk-, middel} & \multicolumn{1}{l|}{diastolisk-, middel} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{knappen "Start"} & \multicolumn{1}{l|}{blodtryk samt puls vises} & \multicolumn{1}{l|}{blodtryk samt puls vises} &  \\ \hline
+		\multicolumn{1}{l|}{1.4} & \multicolumn{1}{l|}{Tryk på knappen} & \multicolumn{1}{l|}{Inden for 5 sekunder} & \multicolumn{1}{l|}{Inden for 5 sekunder} & OK \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{"Stop"} & \multicolumn{1}{l|}{stopper målingen.} & \multicolumn{1}{l|}{stopper målingen.} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Knappen "Gem} & \multicolumn{1}{l|}{Knappen "Gem} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{måling" låses op og data} & \multicolumn{1}{l|}{måling" låses op og data} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{er klar til at blive gemt.} & \multicolumn{1}{l|}{er klar til at blive gemt.} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Knappen "Ryd" låses op} & \multicolumn{1}{l|}{Knappen "Ryd" låses op} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{og man kan hér vælge} & \multicolumn{1}{l|}{og man kan hér vælge} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{at rydde skærmen.} & \multicolumn{1}{l|}{at rydde skærmen.} & 
+	\end{tabular}
+\end{table}
+\vspace{0.3cm}
 \subsection{Ext 1a: Digitalt filter vælges fra}
+\vspace{0.3cm}
+Følgende accepttest tester extension 1a i Use Case 1: Digitalt filter vælges fra.
 \clearpage
+
+\begin{table}[h!]
+	\begin{tabular}{lllll}
+		\multicolumn{2}{l|}{\textbf{Use case under test}} & \multicolumn{3}{l}{\textbf{UC1: Mål og vis blodtryk og puls}} \\ \hline
+		\multicolumn{2}{l|}{\textbf{Scenarie}} & \multicolumn{3}{l}{\textbf{Extension 1a}} \\ \hline
+		\multicolumn{2}{l|}{\textbf{Prækondition}} & \multicolumn{3}{l}{\textbf{Det digitale filter er slået til}} \\ \hline
+		\multicolumn{5}{l}{\cellcolor[HTML]{187ABD}{\color[HTML]{187ABD} }} \\ \hline
+		\multicolumn{1}{l|}{\textbf{Step}} & \multicolumn{1}{l|}{\textbf{Handling}} & \multicolumn{1}{l|}{\textbf{Forventet observation/}} & \multicolumn{1}{l|}{\textbf{Faktisk observation/}} & \textbf{Resultat} \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{\textbf{Resultat}} & \multicolumn{1}{l|}{\textbf{Resultat}} & \textbf{(OK/} \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{\textbf{}} & \multicolumn{1}{l|}{\textbf{}} & \textbf{FAIL)} \\ \hline
+		\multicolumn{1}{l|}{1.2.1} & \multicolumn{1}{l|}{Bruger vælger digitalt} & \multicolumn{1}{l|}{Måledate vises mere} & \multicolumn{1}{l|}{Måledata vises mere} & OK \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{filter fra ved at trykke} & \multicolumn{1}{l|}{takket} & \multicolumn{1}{l|}{takket} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{på knappen "mode"} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & 
+	\end{tabular}
+\end{table}
+
+\vspace{0.8 cm}

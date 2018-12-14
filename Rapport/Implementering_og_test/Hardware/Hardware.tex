@@ -24,7 +24,7 @@ For kredsløbet i Multisim henvises til figur \vref{fig:Multisim2}. Nedenfor vis
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.5\linewidth]{../Rapport/Implementering_og_test/Hardware/Ultiboard}
-	\caption[Print i Ultiboard]{}
+	\caption{Print i Ultiboard}
 	\label{fig:ultiboard1}
 \end{figure}
 
@@ -32,11 +32,40 @@ For kredsløbet i Multisim henvises til figur \vref{fig:Multisim2}. Nedenfor vis
 
 
 \section{Test af hardware}
-\subsection{Forstærker}
+\subsection{Modultest}
 
-\subsubsection{Test med Analog Discovery}
-\subsubsection{Test med væskesøjle}
-\subsection{Anti-aliaseringsfilter}
-\subsubsection{Test med Analog Discovery}
-\subsubsection{Test med væskesøjle}
-\subsection{Test af printplade}
+\subsection{Integrationstest}
+Formålet med at lave en integrationstest er at teste at de forskellige moduler virker, når de integreres. Vi ønsker at undersøge hvilke outputs de forskellige tryk på vandsøjlen giver, og derved se om der er en sammenhæng mellem tryk og spænding.
+
+Der blev udført en række tests, hvor hele systemet var koblet sammen. Vi undersøgte hvilke spændinger vores system ville give ved et tryk på henholdsvis 100 mmHg, 50 mmHg og 10 mmHg.  Fra WaveForms gav vi subtraktoren 2 V, og resten af systemet fik +5 og -5 V. I intergretionstesten ville vi forvente at vores spændinger ville ligger inden for et interval der hedder + 2 og - 2 V, da subtraktoren nedsænker signalet med 2V.
+
+\vspace{0.5 cm}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.75\linewidth]{../Rapport/Implementering_og_test/Hardware/integration100mmhg}
+	\caption{Integrationstest med vandsøjle - 100 mmHg}
+	\label{fig:i100mmhg}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.75\linewidth]{../Rapport/Implementering_og_test/Hardware/integration50mmhg}
+	\caption{Integrationstest med vandsøjle - 50 mmHg}
+	\label{fig:i50mmhg}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.75\linewidth]{../Rapport/Implementering_og_test/Hardware/integration10mmhg}
+	\caption{Integrationstest med vandsøjle - 10 mmHg}
+	\label{fig:i10mmgh}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.75\linewidth]{../Rapport/Implementering_og_test/Hardware/integration0mmhg}
+	\caption{Integrationstest med vandsøjle - 0 mmHg}
+	\label{fig:i0mmhg}
+\end{figure}
+

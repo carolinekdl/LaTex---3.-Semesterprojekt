@@ -1,5 +1,89 @@
 \section{Use Case 2: Justér grænseværdi}
+\vspace{0.3cm}
+Følgende accepttest tester hovedscenariet i Use Case 2: Juster grænseværdier. 
 
+\begin{table}[h!]
+	\begin{tabular}{lllll}
+		\multicolumn{2}{l|}{\textbf{Use case under test}} & \multicolumn{3}{l}{\textbf{UC2: Juster grænseværdier}} \\ \hline
+		\multicolumn{2}{l|}{\textbf{Scenarie}} & \multicolumn{3}{l}{\textbf{Hovedscenarie}} \\ \hline
+		\multicolumn{2}{l|}{\textbf{Prækondition}} & \multicolumn{3}{l}{\textbf{Blodtryksmåleren er ledig og operationel}} \\ \hline
+		\multicolumn{5}{l}{\cellcolor[HTML]{187ABD}{\color[HTML]{187ABD} }} \\ \hline
+		\multicolumn{1}{l|}{\textbf{Step}} & \multicolumn{1}{l|}{\textbf{Handling}} & \multicolumn{1}{l|}{\textbf{Forventet observation/}} & \multicolumn{1}{l|}{\textbf{Faktisk observation/}} & \textbf{Resultat} \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{\textbf{Resultat}} & \multicolumn{1}{l|}{\textbf{Resultat}} & \textbf{(OK/} \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{\textbf{}} & \multicolumn{1}{l|}{\textbf{}} & \textbf{FAIL)} \\ \hline
+		\multicolumn{1}{l|}{2.1} & \multicolumn{1}{l|}{Tryk på knappen} & \multicolumn{1}{l|}{Der kommer et nyt vindue} & \multicolumn{1}{l|}{Der kommer et nye vindue} & OK \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{"Juster grænse-} & \multicolumn{1}{l|}{frem på skærmen} & \multicolumn{1}{l|}{frem på skærmen} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{værdier"} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\ \hline
+		\multicolumn{1}{l|}{2.2} & \multicolumn{1}{l|}{Indtast nedre- og} & \multicolumn{1}{l|}{Der gives besked om at} & \multicolumn{1}{l|}{Der gives besked om at} & OK \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{øvre grænseværdi} & \multicolumn{1}{l|}{justeringerne er registreret} & \multicolumn{1}{l|}{justeringer er registreret} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{for blodtryk.} & \multicolumn{1}{l|}{i form af en meddelse} & \multicolumn{1}{l|}{i form af en meddelse} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Nedre værdi} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{sættes til 50 og} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{øvre værdi sættes} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{til 90.} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Indtast nedre- og} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{øvre grænseværdi} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{for puls.} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Nedre værdi} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{sættes til 50 og} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{øvre værdi sættes} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{til 110.} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Tryk på "OK"} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} &  \\ \hline
+		\multicolumn{1}{l|}{2.3} & \multicolumn{1}{l|}{Send et signal} & \multicolumn{1}{l|}{Statusboksen blinker rødt} & \multicolumn{1}{l|}{Analog Discovery} & FAIL \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{med et blodtryk} & \multicolumn{1}{l|}{og viser en besked med} & \multicolumn{1}{l|}{skulle have været brugt} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{på 50 mmHg ind} & \multicolumn{1}{l|}{tre udråbstegn} & \multicolumn{1}{l|}{} &  \\ \hline
+		\multicolumn{1}{l|}{2.4} & \multicolumn{1}{l|}{Send et signal} & \multicolumn{1}{l|}{Statusboksen blinker rødt} & \multicolumn{1}{l|}{Analog Discovery} & FAIL \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{med et blodtryk} & \multicolumn{1}{l|}{og viser en besked med} & \multicolumn{1}{l|}{skulle have været brugt} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{på 100 mmHg ind} & \multicolumn{1}{l|}{tre udråbstegn} & \multicolumn{1}{l|}{} & 
+	\end{tabular}
+\end{table}
 \subsection{Ext 2a: System afviser justering}
-
+\vspace{0.3 cm}
+Følgende accepttest tester extension 2a i Use Case 2: System afviser justering
 \clearpage
+
+\begin{table}[h!]
+	\begin{tabular}{lllll}
+		\multicolumn{2}{l|}{\textbf{Use case under test}} & \multicolumn{3}{l}{\textbf{UC2: Juster grænseværdier}} \\ \hline
+		\multicolumn{2}{l|}{\textbf{Scenarie}} & \multicolumn{3}{l}{\textbf{Extension 2a: Systemet afviser justering}} \\ \hline
+		\multicolumn{2}{l|}{\textbf{Prækondition}} & \multicolumn{3}{l}{\textbf{UC1 er gennemført}} \\ \hline
+		\multicolumn{5}{l}{\cellcolor[HTML]{187ABD}{\color[HTML]{187ABD} }} \\ \hline
+		\multicolumn{1}{l|}{\textbf{Step}} & \multicolumn{1}{l|}{\textbf{Handling}} & \multicolumn{1}{l|}{\textbf{Forventet observation/}} & \multicolumn{1}{l|}{\textbf{Faktisk observation/}} & \textbf{Resultat} \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{\textbf{Resultat}} & \multicolumn{1}{l|}{\textbf{Resultat}} & \textbf{(OK/} \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{\textbf{}} & \multicolumn{1}{l|}{\textbf{}} & \textbf{FAIL)} \\ \hline
+		\multicolumn{1}{l|}{1} & \multicolumn{1}{l|}{Indtast 20 som nedre} & \multicolumn{1}{l|}{Systemet giver en} & \multicolumn{1}{l|}{Systemet giver en} & OK \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{grænseværdi for puls} & \multicolumn{1}{l|}{fejlmeddelse, da 20 er} & \multicolumn{1}{l|}{fejlmeddelelse, da 20 er} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Tryk på "OK"} & \multicolumn{1}{l|}{under den tilladte grænse-} & \multicolumn{1}{l|}{under til tilladte grænse-} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{værdi for puls} & \multicolumn{1}{l|}{værdi for puls} &  \\ \hline
+		\multicolumn{1}{l|}{2} & \multicolumn{1}{l|}{Indtast 300 som øvre} & \multicolumn{1}{l|}{Systemet giver en} & \multicolumn{1}{l|}{Systemet giver en} & FAIL \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{grænseværdi for puls} & \multicolumn{1}{l|}{fejlmeddelelse, da 300 er} & \multicolumn{1}{l|}{fejlmeddelse, da 300 er} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Tryk på "OK"} & \multicolumn{1}{l|}{over den tilladte grænse-} & \multicolumn{1}{l|}{over den tilladte grænse-} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{værdi for puls} & \multicolumn{1}{l|}{værdi for puls. Det skal} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{dog angives at grænse-} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{værdi for puls er for høj} &  \\ \hline
+		\multicolumn{1}{l|}{3} & \multicolumn{1}{l|}{Indtast 5 som nedre} & \multicolumn{1}{l|}{Systemet giver en} & \multicolumn{1}{l|}{Systemet giver en} & OK \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{grænseværdi for} & \multicolumn{1}{l|}{fejlmeddelelse, da 5 er} & \multicolumn{1}{l|}{fejlmeddelelse, da 5 er} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{blodtryk.} & \multicolumn{1}{l|}{under til tilladte grænse-} & \multicolumn{1}{l|}{under til tilladte grænse-} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Tryk på "OK"} & \multicolumn{1}{l|}{værdi for blodtryk} & \multicolumn{1}{l|}{værdi for blodtryk} &  \\ \hline
+		\multicolumn{1}{l|}{4} & \multicolumn{1}{l|}{Indtast 250 som øvre} & \multicolumn{1}{l|}{Systemet giver en} & \multicolumn{1}{l|}{} & Ikke \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{grænseværdi for} & \multicolumn{1}{l|}{fejlmeddelelse, da 250 er} & \multicolumn{1}{l|}{} & testet \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{blodtryk.} & \multicolumn{1}{l|}{over den tilladte grænse-} & \multicolumn{1}{l|}{} &  \\
+		\multicolumn{1}{l|}{} & \multicolumn{1}{l|}{Tryk på "OK"} & \multicolumn{1}{l|}{værdi for blodtryk} & \multicolumn{1}{l|}{} & 
+	\end{tabular}
+\end{table}
+
+Til justering af grænseværdier er de tilladte værdier for puls og blodtryk: 
+
+\textbf{Puls}
+\begin{itemize}
+	\item Nedre grænseværdi: 26
+	\item Øvre grænseværdi: 250
+\end{itemize}
+
+\textbf{Blodtryk}
+\begin{itemize}
+	\item Nedre grænseværdi: 10
+	\item Øvre grænseværdi: 250
+\end{itemize}
+
+\vspace{1 cm}
