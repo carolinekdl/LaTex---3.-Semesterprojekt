@@ -1,11 +1,52 @@
+\clearpage
+
 \section{Softwaredesign}
-Softwaren er designet ud fra paradigmet om lav kobling. Dette er først og fremmest gjort ved, at dele de forskellige use cases op i egne klasser med interfaces imellem for at opfylde open-closed princippet. Derudover er der brugt dependency injection, som ligeledes fremmer en lav kobling. Denne opbygning gør det også muligt at benytte scrum  da hver use case har sin egen klasse i softwaren, og man dermed kan arbejde individuelt på hver sin use case. Desuden bliver det også lettere at teste og lokalisere eventuelle fejl. Derudover er det i fremtiden, lettere at genbruge softwaren i nye applikationer, samt at udvide uden at skulle lave alt for mange ændringer i koden. 
+Dette afsnit beskriver designprocessen af softwaren. Afsnittet tager udgangspunkt i UC1, som er systemets vigtigste use case nemlig at måle og vise blodtryk. Her er der arbejdet iterativt, da det var nødvendigt at udvide softwaren mange gange i forhold til den oprindelige arkitektur. Nedenstående figur viser det endelige sekvensdiagram for UC1.
 
-Et knudepunkt i softwaren er klassen HovedmenuGUI, som har mange ansvar. Dette ansvar er forsøgt mindsket ved at lave en GuiFactory klasse, som sørger for at oprette instanser af de tre andre GUI’er. Dette sikrer også, at det ville være nemt at tilføje en anden GUI, hvis softwaren skal udvides med en ny funktionalitet.
-Kommunikationen mellem datalaget og logiklaget er designet ud fra producer-consumer princippet. Dette var en oplagt løsning, da vores måleenhed hele tiden producerer data, som skal bruges og behandles af controllerklasserne i logiklaget. En anden vigtig feature ved producer-consumer er, at en datakø er indbygget, som sørger for, at der ikke går måledata tabt mellem datalaget og logiklaget, som kører i hver sin tråd. Køen har vi realiseret ved at bruge AutoResetEvents, som forhindrer, at producertråden overskriver måledata, inden de er blevet consumed i logiklaget. På den måde undgås fejl i kommunikationen mellem datalaget og logiklaget.
+For større visning af figur henvises til bilaget. 
 
-Mellem logiklaget og præsentationslaget var det i første omgang planen at bruge observer pattern. Det viste sig dog, at dette ikke var særlig hensigtsmæssigt, da der er forskel på, hvor tit blodtryksgrafen og beregningerne på hovedmenuen skal opdateres. Dette gjorde det vanskeligt at bruge observer standardmønstret. Der var behov for en mere generisk løsning. Kommunikationen mellem logiklaget og præsentationslaget blev i stedet løst ved at bruge events, som på mange måder minder om observer, men er en mere fleksibel metode, der er indbygget i .NET frameworket. Dette viste sig også at være en god løsning på kommunikation mellem alarmeringscontrolleren og hovedmenuen. Her blev der altså afgivet fra ASE-modellen, da der blev arbejdet iterativt med software arkitekturen. Dette har generelt 
+\vspace{0.5 cm}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Arkitektur_og_design/Softwarearkitektur/sekvensdiagram}
+	\label{fig:sekvensdiagram}
+	\caption{Sekvensdiagram for Use Case 1: Mål og vis blodtryk og puls}
+\end{figure}
+\vspace{0.5 cm}
 
-En anden udfordring var en samplefrekvens på 1000 Hz og en computerskærm, der opdaterer med 60 Hz. For at undgå en nedsampling af signalet i softwaren, blev det besluttet, at grafen opdaterer med 100 punkter af gangen 10 gange i sekundet. Opdateringsfrekvensen på skærmen bliver således kun 10 Hz. Blodtryksgrafen opdaterer altså ikke helt så smooth, men dette blev besluttet som et fint kompromis, da der ikke mistes information i signalet på grund nedsampling.
+Sekvensdiagrammet viser interaktionen mellem de forskellige klasser og hvilke oplysninger der bliver sendt rundt. Den første del af diagrammet beskriver nulpunktsjusteringen, som sker inden en måling kan igangsættes. Den midterste del som er indrammet af et loop beskriver selve målingen og opdateringen af GUI’en.  Der er benyttet tråde, hvilket ikke direkte kan illustreres på et sekvensdiagram. Som det er vist ovenstående, sker opdateringen af grafen inden opdateringen af beregningerne. I virkeligheden forløber opdatering af grafen, og opdatering af beregninger sideløbende i to tråde. Dette kunne være vist i et aktivitetsdiagram, men dette er ikke udarbejdet, da andet har været prioriteret højere. 
 
+Måling og beregninger sker indtil sundhedsfagligt personale vælger at stoppe målingen. Dette står beskrevet nederst i diagrammet. Ud fra sekvensdiagrammet er der udarbejdet et udfyldt klassediagram, som beskriver alle attributter og metoder der er nødvendige for at realisere Use Case 1. Klassediagrammet ses på nedenstående figur. 
 
+For større visning af figur henvises til bilaget.
+
+\clearpage
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\linewidth]{Arkitektur_og_design/Softwarearkitektur/classdiagram}
+	\label{fig:classdiagram}
+	\caption{Klassediagram udfyldt med attributter og metoder}
+\end{figure}
+\vspace{0.5 cm}
+
+Som der står på diagramnoten, så er der kun inkluderet metoder og attributter, som bruges i UC1. Diagrammet er forsøgt delt op i tre kolonner. Alle klasserne der ses til højre er domæneklasser, som en del af domæne package jf. Figur “Klassediagram for hele applikationen uden attributter og metoder”. I midterste kolonne er der HovedmenuGUI klassen, som er en del af PL, samt interfacet IMålOgVis og MålOgVisController, som er en del af BL. Det er underforstået, at klasser der implementerer et interface indeholder interfacets metoder. Klasserne til venstre i diagrammet er en del af DAL Ud fra klassediagrammet er det tydeligt, at UC1 er forholdvis kompleks og indeholder rigtig mange afhængigheder. Dette gav sig til udtryk ift. test, da det viste sig at være meget sværere at lave unittests på denne use case end forventet. Dette er nærmere beskrevet i testafsnittet.
+
+\vspace{1 cm}
+\textbf{Puls}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.5\linewidth]{Arkitektur_og_design/Softwarearkitektur/puls}
+	\label{fig:puls}
+	\caption{Puls}
+\end{figure}
+
+\clearpage
+
+Et af vores must have krav er, at vi skal kunne vise systolis-, diastolisk-, middelblodtryk og puls på brugergrænsefladen. Derfor skal vores system kunne finde pulsen ud fra et blodtrykssignal. Dette kunne løses på to måder. Den ene mulighed var at måle tiden mellem to diastoler, da hjertet på denne tid har kontraheret sig og pumpet blod ud i det store kredsløb. Denne metode vil dog kun give en indikation om, hvad pulsen er, men vil ikke kunne give den nøjagtige.
+Den anden mulighed var at lave fourier transformation på blodtrykssignalet. Ved at lave fourier transformation vil vi flytte blodtrykssignalet fra tidsdomænet til frekvensdomænet. På frekvensspekteret vil vi kunne finde den måling med den højeste amplitude. Den måling med den højeste amplitude er den måling med mest energi i, og dermed den frekvens, der optræder flest gang i signalet. Denne måling har en frekvens, og ved at gange denne med 60, vil vi få vores puls. Vi har valgt at arbejde med denne metode i det, man beregner pulsen over en længere periode, og dermed vil det give en mere præcis indikation på pulsen.
+
+Den beregnede puls benytter vi til at beregne det systoliske-, diastoliske-, og middelblodtrykekt. Pulsen er med til at bestemme, hvor langt tilbage i blodtrykssignalet vi skal gå for at finde minimum, maximum og middelværdien. Minimum er det diastoliske, maxiumum er det systoliske og middelværdien er middelblodtrykket.
+
+For at give et overblik til os selv om, hvordan beregninger af puls og blodtryksværdierne skulle foregå ville det have været en fordel, at vi havde lavet aktivitetsdiagrammer.
