@@ -32,8 +32,6 @@
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}1.1}BDD}{22}{subsection.9.1.1}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}1.2}IBD}{23}{subsection.9.1.2}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2}Softwarearkitektur}{24}{section.9.2}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2.1}Overordnet dom\IeC {\ae }nemodel}{24}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2.2}Dom\IeC {\ae }nemodel for software}{24}{subsection.9.2.2}
 \contentsline {chapter}{\chapternumberline {\color {RoyalBlue}10}Design}{28}{chapter.10}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1}Hardwaredesign}{28}{section.10.1}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.1}Forst\IeC {\ae }rker}{28}{subsection.10.1.1}
