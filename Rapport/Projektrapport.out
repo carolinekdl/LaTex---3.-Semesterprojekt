@@ -9,21 +9,21 @@
 \BOOKMARK [2][-]{subsection.6.1.2}{Udviklingsforl\370b}{section.6.1}% 9
 \BOOKMARK [2][-]{subsection.6.1.3}{Arbejdsfordeling}{section.6.1}% 10
 \BOOKMARK [1][-]{section.6.2}{Programmer}{chapter.6}% 11
-\BOOKMARK [0][-]{chapter.7}{Krav}{}% 12
-\BOOKMARK [1][-]{section.7.1}{Krav}{chapter.7}% 13
-\BOOKMARK [1][-]{section.7.2}{Use Case diagram}{chapter.7}% 14
-\BOOKMARK [1][-]{section.7.3}{Akt\370rbeskrivelser}{chapter.7}% 15
-\BOOKMARK [1][-]{section.7.4}{Use Case beskrivelser}{chapter.7}% 16
-\BOOKMARK [2][-]{subsection.7.4.1}{Use Case 1: M\345l og vis blodtryk og puls}{section.7.4}% 17
-\BOOKMARK [2][-]{subsection.7.4.2}{Use Case 2: Just\351r gr\346nsev\346rdier}{section.7.4}% 18
-\BOOKMARK [2][-]{subsection.7.4.3}{Use Case 3: Alarmering}{section.7.4}% 19
-\BOOKMARK [2][-]{subsection.7.4.4}{Use Case 4: Gem data}{section.7.4}% 20
-\BOOKMARK [2][-]{subsection.7.4.5}{Use Case 5: Kalibrering}{section.7.4}% 21
-\BOOKMARK [1][-]{section.7.5}{Afgr\346nsning}{chapter.7}% 22
-\BOOKMARK [0][-]{chapter.8}{Systembeskrivelse}{}% 23
-\BOOKMARK [1][-]{section.8.1}{Systemoversigt}{chapter.8}% 24
-\BOOKMARK [1][-]{section.8.2}{Systembeskrivelse}{chapter.8}% 25
-\BOOKMARK [2][-]{subsection.8.2.1}{Alarmer}{section.8.2}% 26
+\BOOKMARK [0][-]{chapter.7}{Systembeskrivelse}{}% 12
+\BOOKMARK [1][-]{section.7.1}{Systemoversigt}{chapter.7}% 13
+\BOOKMARK [1][-]{section.7.2}{Systembeskrivelse}{chapter.7}% 14
+\BOOKMARK [2][-]{subsection.7.2.1}{Alarmer}{section.7.2}% 15
+\BOOKMARK [0][-]{chapter.8}{Krav}{}% 16
+\BOOKMARK [1][-]{section.8.1}{Krav}{chapter.8}% 17
+\BOOKMARK [1][-]{section.8.2}{Use Case diagram}{chapter.8}% 18
+\BOOKMARK [1][-]{section.8.3}{Akt\370rbeskrivelser}{chapter.8}% 19
+\BOOKMARK [1][-]{section.8.4}{Use Case beskrivelser}{chapter.8}% 20
+\BOOKMARK [2][-]{subsection.8.4.1}{Use Case 1: M\345l og vis blodtryk og puls}{section.8.4}% 21
+\BOOKMARK [2][-]{subsection.8.4.2}{Use Case 2: Just\351r gr\346nsev\346rdier}{section.8.4}% 22
+\BOOKMARK [2][-]{subsection.8.4.3}{Use Case 3: Alarmering}{section.8.4}% 23
+\BOOKMARK [2][-]{subsection.8.4.4}{Use Case 4: Gem data}{section.8.4}% 24
+\BOOKMARK [2][-]{subsection.8.4.5}{Use Case 5: Kalibrering}{section.8.4}% 25
+\BOOKMARK [1][-]{section.8.5}{Afgr\346nsning}{chapter.8}% 26
 \BOOKMARK [0][-]{chapter.9}{Arkitektur}{}% 27
 \BOOKMARK [1][-]{section.9.1}{Hardwarearkitektur}{chapter.9}% 28
 \BOOKMARK [2][-]{subsection.9.1.1}{BDD}{section.9.1}% 29
@@ -45,7 +45,7 @@
 \BOOKMARK [2][-]{subsection.11.3.1}{Modultest}{section.11.3}% 45
 \BOOKMARK [1][-]{section.11.4}{Test af software}{chapter.11}% 46
 \BOOKMARK [0][-]{chapter.12}{Resultater}{}% 47
-\BOOKMARK [1][-]{section.12.1}{Reresultater}{chapter.12}% 48
+\BOOKMARK [1][-]{section.12.1}{Resultater}{chapter.12}% 48
 \BOOKMARK [1][-]{section.12.2}{Diskussion af resultater}{chapter.12}% 49
 \BOOKMARK [0][-]{chapter.13}{Konklusion}{}% 50
 \BOOKMARK [0][-]{chapter.14}{Fremtidigt arbejde}{}% 51
