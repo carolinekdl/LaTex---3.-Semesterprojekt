@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  16 DEC 2018 12:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  16 DEC 2018 22:39
 entering extended mode
 **./Analyse.tex
 (Analyse.tex
@@ -1247,7 +1247,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip297
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 124.
+Package hyperref Info: Option `colorlinks' set `true' on input line 125.
 
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
@@ -1388,7 +1388,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 ("C:\Users\carol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd
 ") (Forside/Forside.tex
-<Forside/AUlogo.png, id=43, 498.06075pt x 152.36925pt>
+<Forside/AUlogo.png, id=99, 498.06075pt x 152.36925pt>
 File: Forside/AUlogo.png Graphic file (type png)
 <use Forside/AUlogo.png>
 Package pdftex.def Info: Forside/AUlogo.png  used on input line 9.
@@ -1459,12 +1459,12 @@ Underfull \hbox (badness 1097) in paragraph at lines 42--44
 ryktransduceren i brug.
  []
 
-<Hardware/0mmHg.png, id=122, 572.02386pt x 381.80377pt>
+<Hardware/0mmHg.png, id=164, 572.02386pt x 381.80377pt>
 File: Hardware/0mmHg.png Graphic file (type png)
 <use Hardware/0mmHg.png>
 Package pdftex.def Info: Hardware/0mmHg.png  used on input line 52.
 (pdftex.def)             Requested size: 455.0pt x 303.7015pt.
-<Hardware/10mmHg.png, id=123, 569.97849pt x 382.48557pt>
+<Hardware/10mmHg.png, id=165, 569.97849pt x 382.48557pt>
 File: Hardware/10mmHg.png Graphic file (type png)
 <use Hardware/10mmHg.png>
 Package pdftex.def Info: Hardware/10mmHg.png  used on input line 59.
@@ -1472,7 +1472,7 @@ Package pdftex.def Info: Hardware/10mmHg.png  used on input line 59.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/50mmHg.png, id=124, 572.70566pt x 381.80377pt>
+<Hardware/50mmHg.png, id=166, 572.70566pt x 381.80377pt>
 File: Hardware/50mmHg.png Graphic file (type png)
 <use Hardware/50mmHg.png>
 Package pdftex.def Info: Hardware/50mmHg.png  used on input line 66.
@@ -1480,7 +1480,7 @@ Package pdftex.def Info: Hardware/50mmHg.png  used on input line 66.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/100mmHg.png, id=125, 571.34207pt x 383.16736pt>
+<Hardware/100mmHg.png, id=167, 571.34207pt x 383.16736pt>
 File: Hardware/100mmHg.png Graphic file (type png)
 <use Hardware/100mmHg.png>
 Package pdftex.def Info: Hardware/100mmHg.png  used on input line 73.
@@ -1488,7 +1488,7 @@ Package pdftex.def Info: Hardware/100mmHg.png  used on input line 73.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/GrafTrykOgSpaending.png, id=126, 579.52359pt x 447.25584pt>
+<Hardware/GrafTrykOgSpaending.png, id=168, 579.52359pt x 447.25584pt>
 File: Hardware/GrafTrykOgSpaending.png Graphic file (type png)
 <use Hardware/GrafTrykOgSpaending.png>
 Package pdftex.def Info: Hardware/GrafTrykOgSpaending.png  used on input line 8
@@ -1509,13 +1509,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 ]
-<Hardwaredesign/Subtractor1.png, id=156, 2253.92062pt x 1242.89343pt>
+<Hardwaredesign/Subtractor1.png, id=198, 2253.92062pt x 1242.89343pt>
 File: Hardwaredesign/Subtractor1.png Graphic file (type png)
 <use Hardwaredesign/Subtractor1.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor1.png  used on input line 40.
 
 (pdftex.def)             Requested size: 455.0pt x 250.88802pt.
-<Hardwaredesign/Subtractor2.png, id=157, 2229.07782pt x 1274.51157pt>
+<Hardwaredesign/Subtractor2.png, id=199, 2229.07782pt x 1274.51157pt>
 File: Hardwaredesign/Subtractor2.png Graphic file (type png)
 <use Hardwaredesign/Subtractor2.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor2.png  used on input line 47.
@@ -1532,13 +1532,13 @@ erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 pdfTeX warning: pdflatex.exe (file ./Hardwaredesign/Subtractor2.png): large int
 erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<Hardwaredesign/Subtractor3.png, id=164, 2252.415pt x 1213.53375pt>
+<Hardwaredesign/Subtractor3.png, id=206, 2252.415pt x 1213.53375pt>
 File: Hardwaredesign/Subtractor3.png Graphic file (type png)
 <use Hardwaredesign/Subtractor3.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor3.png  used on input line 55.
 
 (pdftex.def)             Requested size: 455.0pt x 245.12817pt.
-<Hardwaredesign/Subtractor4.png, id=165, 2229.07782pt x 1270.7475pt>
+<Hardwaredesign/Subtractor4.png, id=207, 2229.07782pt x 1270.7475pt>
 File: Hardwaredesign/Subtractor4.png Graphic file (type png)
 <use Hardwaredesign/Subtractor4.png>
 Package pdftex.def Info: Hardwaredesign/Subtractor4.png  used on input line 62.
@@ -1558,12 +1558,12 @@ erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 \openout2 = `Hardwaredesign/Filter.aux'.
 
  (Hardwaredesign/Filter.tex
-<Hardware/RCfilter.png, id=173, 314.46054pt x 116.5784pt>
+<Hardware/RCfilter.png, id=215, 314.46054pt x 116.5784pt>
 File: Hardware/RCfilter.png Graphic file (type png)
 <use Hardware/RCfilter.png>
 Package pdftex.def Info: Hardware/RCfilter.png  used on input line 13.
 (pdftex.def)             Requested size: 227.5pt x 84.34016pt.
-<Hardware/SallenKey.png, id=175, 369.95357pt x 138.08733pt>
+<Hardware/SallenKey.png, id=217, 369.95357pt x 138.08733pt>
 File: Hardware/SallenKey.png Graphic file (type png)
 <use Hardware/SallenKey.png>
 Package pdftex.def Info: Hardware/SallenKey.png  used on input line 24.
@@ -1574,13 +1574,13 @@ Package pdftex.def Info: Hardware/SallenKey.png  used on input line 24.
  <./Hardware/RCfilter.png> <./Hardware/SallenKey.png>] [15
 
 ]
-<Hardwaredesign/RCRCfilter1.png, id=190, 530.84036pt x 332.09785pt>
+<Hardwaredesign/RCRCfilter1.png, id=232, 530.84036pt x 332.09785pt>
 File: Hardwaredesign/RCRCfilter1.png Graphic file (type png)
 <use Hardwaredesign/RCRCfilter1.png>
 Package pdftex.def Info: Hardwaredesign/RCRCfilter1.png  used on input line 86.
 
 (pdftex.def)             Requested size: 318.49861pt x 199.26025pt.
-<Hardwaredesign/RCRCfilter2.png, id=191, 528.2593pt x 323.0641pt>
+<Hardwaredesign/RCRCfilter2.png, id=233, 528.2593pt x 323.0641pt>
 File: Hardwaredesign/RCRCfilter2.png Graphic file (type png)
 <use Hardwaredesign/RCRCfilter2.png>
 Package pdftex.def Info: Hardwaredesign/RCRCfilter2.png  used on input line 93.
@@ -1591,12 +1591,12 @@ Package pdftex.def Info: Hardwaredesign/RCRCfilter2.png  used on input line 93.
  <./Hardwaredesign/RCRCfilter1.png> <./Hardwaredesign/RCRCfilter2.png>] [17
 
 ]
-<Hardware/Filterplot1.png, id=205, 482.66035pt x 346.29375pt>
+<Hardware/Filterplot1.png, id=247, 482.66035pt x 346.29375pt>
 File: Hardware/Filterplot1.png Graphic file (type png)
 <use Hardware/Filterplot1.png>
 Package pdftex.def Info: Hardware/Filterplot1.png  used on input line 127.
 (pdftex.def)             Requested size: 318.49861pt x 228.5123pt.
-<Hardware/Filterplot2.png, id=206, 483.9509pt x 296.39304pt>
+<Hardware/Filterplot2.png, id=248, 483.9509pt x 296.39304pt>
 File: Hardware/Filterplot2.png Graphic file (type png)
 <use Hardware/Filterplot2.png>
 Package pdftex.def Info: Hardware/Filterplot2.png  used on input line 136.
@@ -1607,12 +1607,12 @@ Package pdftex.def Info: Hardware/Filterplot2.png  used on input line 136.
 [19
 
 ]
-<Hardwaredesign/10hz.png, id=223, 563.96411pt x 289.51018pt>
+<Hardwaredesign/10hz.png, id=265, 563.96411pt x 289.51018pt>
 File: Hardwaredesign/10hz.png Graphic file (type png)
 <use Hardwaredesign/10hz.png>
 Package pdftex.def Info: Hardwaredesign/10hz.png  used on input line 213.
 (pdftex.def)             Requested size: 455.0pt x 233.58311pt.
-<Hardwaredesign/50hz.png, id=224, 565.25464pt x 288.21965pt>
+<Hardwaredesign/50hz.png, id=266, 565.25464pt x 288.21965pt>
 File: Hardwaredesign/50hz.png Graphic file (type png)
 <use Hardwaredesign/50hz.png>
 Package pdftex.def Info: Hardwaredesign/50hz.png  used on input line 221.
@@ -1620,12 +1620,12 @@ Package pdftex.def Info: Hardwaredesign/50hz.png  used on input line 221.
  [20
 
  <./Hardwaredesign/10hz.png> <./Hardwaredesign/50hz.png>]
-<Hardwaredesign/100hz.png, id=233, 563.96411pt x 287.78946pt>
+<Hardwaredesign/100hz.png, id=275, 563.96411pt x 287.78946pt>
 File: Hardwaredesign/100hz.png Graphic file (type png)
 <use Hardwaredesign/100hz.png>
 Package pdftex.def Info: Hardwaredesign/100hz.png  used on input line 229.
 (pdftex.def)             Requested size: 455.0pt x 232.19478pt.
-<Hardwaredesign/250hz.png, id=234, 563.96411pt x 288.64983pt>
+<Hardwaredesign/250hz.png, id=276, 563.96411pt x 288.64983pt>
 File: Hardwaredesign/250hz.png Graphic file (type png)
 <use Hardwaredesign/250hz.png>
 Package pdftex.def Info: Hardwaredesign/250hz.png  used on input line 237.
@@ -1633,7 +1633,7 @@ Package pdftex.def Info: Hardwaredesign/250hz.png  used on input line 237.
  [21
 
  <./Hardwaredesign/100hz.png> <./Hardwaredesign/250hz.png>]
-<Hardwaredesign/500hz.png, id=243, 563.53394pt x 288.21965pt>
+<Hardwaredesign/500hz.png, id=285, 563.53394pt x 288.21965pt>
 File: Hardwaredesign/500hz.png Graphic file (type png)
 <use Hardwaredesign/500hz.png>
 Package pdftex.def Info: Hardwaredesign/500hz.png  used on input line 245.
@@ -1644,12 +1644,12 @@ Package pdftex.def Info: Hardwaredesign/500hz.png  used on input line 245.
 \openout2 = `Hardwaredesign/Integrationstest.aux'.
 
  (Hardwaredesign/Integrationstest.tex
-<Hardwaredesign/mmHg100.png, id=250, 578.8418pt x 383.16736pt>
+<Hardwaredesign/mmHg100.png, id=292, 578.8418pt x 383.16736pt>
 File: Hardwaredesign/mmHg100.png Graphic file (type png)
 <use Hardwaredesign/mmHg100.png>
 Package pdftex.def Info: Hardwaredesign/mmHg100.png  used on input line 25.
 (pdftex.def)             Requested size: 455.0pt x 301.20215pt.
-<Hardwaredesign/mmHg50.png, id=251, 576.11462pt x 385.21274pt>
+<Hardwaredesign/mmHg50.png, id=293, 576.11462pt x 385.21274pt>
 File: Hardwaredesign/mmHg50.png Graphic file (type png)
 <use Hardwaredesign/mmHg50.png>
 Package pdftex.def Info: Hardwaredesign/mmHg50.png  used on input line 38.
@@ -1662,24 +1662,24 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
  <./Hardwaredesign/mmHg100.png>]
-<Hardwaredesign/mmHg10.png, id=257, 577.47821pt x 382.48557pt>
+<Hardwaredesign/mmHg10.png, id=299, 577.47821pt x 382.48557pt>
 File: Hardwaredesign/mmHg10.png Graphic file (type png)
 <use Hardwaredesign/mmHg10.png>
 Package pdftex.def Info: Hardwaredesign/mmHg10.png  used on input line 51.
 (pdftex.def)             Requested size: 455.0pt x 301.36656pt.
  [24 <./Hardwaredesign/mmHg50.png> <./Hardwaredesign/mmHg10.png>]
-<Hardwaredesign/mmHg0.png, id=264, 578.8418pt x 384.53094pt>
+<Hardwaredesign/mmHg0.png, id=306, 578.8418pt x 384.53094pt>
 File: Hardwaredesign/mmHg0.png Graphic file (type png)
 <use Hardwaredesign/mmHg0.png>
 Package pdftex.def Info: Hardwaredesign/mmHg0.png  used on input line 65.
 (pdftex.def)             Requested size: 455.0pt x 302.27403pt.
  [25 <./Hardwaredesign/mmHg0.png>]
-<Hardwaredesign/mmHg25.png, id=271, 576.79642pt x 383.16736pt>
+<Hardwaredesign/mmHg25.png, id=313, 576.79642pt x 383.16736pt>
 File: Hardwaredesign/mmHg25.png Graphic file (type png)
 <use Hardwaredesign/mmHg25.png>
 Package pdftex.def Info: Hardwaredesign/mmHg25.png  used on input line 89.
 (pdftex.def)             Requested size: 455.0pt x 302.26039pt.
-<Hardwaredesign/mmHg75.png, id=272, 578.16pt x 382.48557pt>
+<Hardwaredesign/mmHg75.png, id=314, 578.16pt x 382.48557pt>
 File: Hardwaredesign/mmHg75.png Graphic file (type png)
 <use Hardwaredesign/mmHg75.png>
 Package pdftex.def Info: Hardwaredesign/mmHg75.png  used on input line 98.
@@ -1689,7 +1689,7 @@ Package pdftex.def Info: Hardwaredesign/mmHg75.png  used on input line 98.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [26 <./Hardwaredesign/mmHg25.png>]
-<Hardwaredesign/trykgraf.png, id=278, 582.25075pt x 382.48557pt>
+<Hardwaredesign/trykgraf.png, id=320, 582.25075pt x 382.48557pt>
 File: Hardwaredesign/trykgraf.png Graphic file (type png)
 <use Hardwaredesign/trykgraf.png>
 Package pdftex.def Info: Hardwaredesign/trykgraf.png  used on input line 113.
@@ -1703,7 +1703,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 (Hardwaredesign/Printplade.tex
-<Hardware/Multisim.png, id=289, 862.07785pt x 593.21625pt>
+<Hardware/Multisim.png, id=331, 862.07785pt x 593.21625pt>
 File: Hardware/Multisim.png Graphic file (type png)
 <use Hardware/Multisim.png>
 Package pdftex.def Info: Hardware/Multisim.png  used on input line 9.
@@ -1718,7 +1718,7 @@ Underfull \hbox (badness 1014) in paragraph at lines 14--15
 
 
  <./Hardware/Multisim.png>]
-<Hardware/Ultiboard.png, id=298, 462.44197pt x 415.98268pt>
+<Hardware/Ultiboard.png, id=340, 462.44197pt x 415.98268pt>
 File: Hardware/Ultiboard.png Graphic file (type png)
 <use Hardware/Ultiboard.png>
 Package pdftex.def Info: Hardware/Ultiboard.png  used on input line 26.
@@ -1726,17 +1726,17 @@ Package pdftex.def Info: Hardware/Ultiboard.png  used on input line 26.
  [30
 
  <./Hardware/Ultiboard.png>]
-<Hardware/Ratsnest.png, id=307, 468.03429pt x 422.86554pt>
+<Hardware/Ratsnest.png, id=349, 468.03429pt x 422.86554pt>
 File: Hardware/Ratsnest.png Graphic file (type png)
 <use Hardware/Ratsnest.png>
 Package pdftex.def Info: Hardware/Ratsnest.png  used on input line 48.
 (pdftex.def)             Requested size: 273.00278pt x 246.65588pt.
-<Hardware/Nets.png, id=308, 187.55786pt x 311.87947pt>
+<Hardware/Nets.png, id=350, 187.55786pt x 311.87947pt>
 File: Hardware/Nets.png Graphic file (type png)
 <use Hardware/Nets.png>
 Package pdftex.def Info: Hardware/Nets.png  used on input line 57.
 (pdftex.def)             Requested size: 90.99861pt x 151.31845pt.
-<Hardware/Fejl.png, id=309, 323.0641pt x 61.08536pt>
+<Hardware/Fejl.png, id=351, 323.0641pt x 61.08536pt>
 File: Hardware/Fejl.png Graphic file (type png)
 <use Hardware/Fejl.png>
 Package pdftex.def Info: Hardware/Fejl.png  used on input line 64.
@@ -1745,7 +1745,7 @@ Package pdftex.def Info: Hardware/Fejl.png  used on input line 64.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Hardware/EuroCircuits1.png, id=310, 676.2407pt x 39.14626pt>
+<Hardware/EuroCircuits1.png, id=352, 676.2407pt x 39.14626pt>
 File: Hardware/EuroCircuits1.png Graphic file (type png)
 <use Hardware/EuroCircuits1.png>
 Package pdftex.def Info: Hardware/EuroCircuits1.png  used on input line 74.
@@ -1753,7 +1753,7 @@ Package pdftex.def Info: Hardware/EuroCircuits1.png  used on input line 74.
 [31
 
  <./Hardware/Ratsnest.png> <./Hardware/Nets.png>]
-<Hardware/EuroCircuits2.png, id=322, 433.62pt x 386.73053pt>
+<Hardware/EuroCircuits2.png, id=364, 433.62pt x 386.73053pt>
 File: Hardware/EuroCircuits2.png Graphic file (type png)
 <use Hardware/EuroCircuits2.png>
 Package pdftex.def Info: Hardware/EuroCircuits2.png  used on input line 81.
@@ -1775,15 +1775,15 @@ Overfull \hbox (106.01976pt too wide) in alignment at lines 1--1
 [][] 
  []
 
-<../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg, id=33
-3, 3717.89pt x 2268.475pt>
+<../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg, id=37
+5, 3717.89pt x 2268.475pt>
 File: ../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg G
 raphic file (type jpg)
 <use ../Rapport/Implementering_og_test/Hardware/forstaerkerogsubtractor2.jpg>
 Package pdftex.def Info: ../Rapport/Implementering_og_test/Hardware/forstaerker
 ogsubtractor2.jpg  used on input line 8.
 (pdftex.def)             Requested size: 245.69695pt x 149.87903pt.
-<../Rapport/Implementering_og_test/Hardware/filter2.jpg, id=334, 2906.86pt x 24
+<../Rapport/Implementering_og_test/Hardware/filter2.jpg, id=376, 2906.86pt x 24
 94.31876pt>
 File: ../Rapport/Implementering_og_test/Hardware/filter2.jpg Graphic file (type
  jpg)
@@ -1804,7 +1804,7 @@ ne 23.
 LaTeX Warning: Reference `fig:Multisim2' on page 34 undefined on input line 23.
 
 
-<../Rapport/Implementering_og_test/Hardware/Ultiboard.png, id=341, 462.44197pt 
+<../Rapport/Implementering_og_test/Hardware/Ultiboard.png, id=383, 462.44197pt 
 x 415.98268pt>
 File: ../Rapport/Implementering_og_test/Hardware/Ultiboard.png Graphic file (ty
 pe png)
@@ -1826,15 +1826,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
 (Hardwaredesign/Printplade.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
+Package rerunfilecheck Info: File `Analyse.out' has not changed.
+(rerunfilecheck)             Checksum: 16315258E4F53CED32FF8232F439A1DD;1644.
 
-
-Package rerunfilecheck Warning: File `Analyse.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Analyse.out':
-(rerunfilecheck)             Before: E45154AED45020E15B535759A3967BC0;572
-(rerunfilecheck)             After:  16315258E4F53CED32FF8232F439A1DD;1644.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1847,10 +1841,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 29346 strings out of 492970
- 520064 string characters out of 3126593
+ 29360 strings out of 492970
+ 520316 string characters out of 3126593
  910737 words of memory out of 3000000
- 32657 multiletter control sequences out of 15000+200000
+ 32671 multiletter control sequences out of 15000+200000
  556074 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,12n,78p,1387b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1877,9 +1871,9 @@ ts/cm/cmr6.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr8.pfb><C:/Users/carol/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/carol/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Analyse.pdf (34 pages, 6314265 bytes).
+Output written on Analyse.pdf (34 pages, 6317845 bytes).
 PDF statistics:
- 771 PDF objects out of 1000 (max. 8388607)
+ 813 PDF objects out of 1000 (max. 8388607)
  101 named destinations out of 1000 (max. 500000)
- 271 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 383 words of extra memory for PDF output out of 10000 (max. 10000000)
 

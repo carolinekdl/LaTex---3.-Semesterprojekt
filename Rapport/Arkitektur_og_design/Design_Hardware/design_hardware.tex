@@ -1,6 +1,9 @@
+\chapter{Design}
 \section{Hardwaredesign}
 \vspace{0.5cm}
 I det følgende afsnit vil de vigtigste overvejelser og udregninger for designet af systemets hardware fremtræde. En mere detaljeret begrundelse for valg findes i dokumentet analyse i bilaget. Dokumentet analyse indeholder også alle de beregninger der er foretaget i forbindelse med valg af forstærkning, filtertype og subtractor.
+
+Vi har desuden valgt at stabilisere vores hardware med brug af afkoblingskondensatorer. Vi har små afkoblingskondensatorer på hver del, herunder forstærker, subtractor og filter. Vi har to store afkoblingskondensatorer på fores forsyningsspænding på henholdsvis +-5V. Vi har valgt at bruge disse for at sikre vores hardwares overfølsomhed så meget som muligt mod støj. 
 
 \subsection{Forstærker}
 \vspace{0.5cm}
@@ -21,13 +24,35 @@ Vi ønsker at forstærke signalet fra 12,5 mV op til 4V. Denne forstækning er v
 
 Komponenterne har vi udregnet på følgende måde:
 
-   
+\[ gain = \frac{4V}{V_{out}} = 320 \]
+\[ 320 = 1+\frac{50k\Omega}{R_{G}} \rightarrow R_{G}=\frac{5000}{319}\]
+\[ R_{G} = 156,74 \Omega \]
+
+Denne beregnede modstand sikrer at vi får en forstærkning på 320 gange.    
 
 \subsection{Subtractor}
 \vspace{0.5cm}
-For at benytte alle 14-bit på AD-Converten, NI-DAQ 6009, har vi i forbindelse med designet af forstærkeren besluttet at forstærke fra 0-4V. Alle tal vi får ind fra tryktransduceren vil derfor ligge i dette område. For at få vores indgangssignal til at passe med indgangene på AD-Converten og derved udnytte alle bit er det nødvendigt at nedjustere signalet. Vi bruger derfor en subtractor af typen OP27G, som er en standard operationsforstærker, der findes i laboratoriet. Subtractoren justerer vores signal så det går fra -2V til 2V i stedet for 0-4V. Alle udregninger vedrørende subtractoren findes ligeledes i dokumentet analyse i bilaget.
+For at benytte alle 14-bit på AD-Converten, NI-DAQ 6009, har vi i forbindelse med designet af forstærkeren besluttet at forstærke fra 0-4V. Alle tal vi får ind fra tryktransduceren vil derfor ligge i dette område. For at få vores indgangssignal til at passe med indgangene på AD-Converten og derved udnytte alle bit er det nødvendigt at nedjustere signalet. Vi bruger derfor en subtractor af typen OP27G, som er en standard operationsforstærker, der findes i laboratoriet. Subtractoren justerer vores signal så det går fra -2V til 2V i stedet for 0-4V. 
 
-\clearpage
+\vspace{0.5 cm}
+\begin{figure}[h!]
+	\centering
+	\includegraphics
+	[width=0.7\linewidth]{Arkitektur_og_design/Design_hardware/subtractor}
+	\caption{Kredsløb for subtractor/Differential Amplifier}
+	\label{fig:Subtractor}
+\end{figure}
+\vspace{0.5 cm}
+Til subtractoren bruger vi fire ens modstande. Dette gør, at de fire modstande divideret med hinanden giver 1.
+\[ \frac{R3}{R1}=\frac{R4}{R2} = 1 \]
+
+Ved brug af superposition har vi fået et udtryk for $V_{O}.$
+\[ V_{O}=V_{2}-V_{1} \]
+
+$V_{2}$ er input i subtractoren og $V_{1}$ er spændingen vi ønsker at nedjustere vores signal med.
+\[ V_{O}=4V-2V=2V \]
+
+Alle udregninger vedrørende subtractoren findes ligeledes i dokumentet analyse i bilaget.
 
 \subsection{Anti-aliaserings filter}
 \vspace{0.5 cm}

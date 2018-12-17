@@ -27,32 +27,33 @@
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}1}Systemoversigt}{20}{section.8.1}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2}Systembeskrivelse}{20}{section.8.2}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}8.}\color {RoyalBlue}2.1}Alarmer}{21}{subsection.8.2.1}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}9}Arkitektur og design}{22}{chapter.9}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}9}Arkitektur}{22}{chapter.9}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}1}Hardwarearkitektur}{22}{section.9.1}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}1.1}BDD}{22}{subsection.9.1.1}
 \contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}1.2}IBD}{23}{subsection.9.1.2}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2}Hardwaredesign}{24}{section.9.2}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2.1}Forst\IeC {\ae }rker}{24}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2.2}Subtractor}{24}{subsection.9.2.2}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2.3}Anti-aliaserings filter}{25}{subsection.9.2.3}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2.4}Printplade}{25}{subsection.9.2.4}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}3}Softwarearkitektur}{26}{section.9.3}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}3.1}Overordnet dom\IeC {\ae }nemodel}{26}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}3.2}Dom\IeC {\ae }nemodel for software}{26}{subsection.9.3.2}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}4}Softwaredesign}{29}{section.9.4}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}10}Implementering og test}{32}{chapter.10}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1}Hardwareimplementering}{32}{section.10.1}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}2}Softwareimplementering}{33}{section.10.2}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}3}Test af hardware}{34}{section.10.3}
-\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}3.1}Modultest}{34}{subsection.10.3.1}
-\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}3.1.1}Forst\IeC {\ae }rker}{34}{subsubsection.10.3.1.1}
-\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}3.1.2}Subtractor}{35}{subsubsection.10.3.1.2}
-\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}3.1.3}Filter}{36}{subsubsection.10.3.1.3}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}4}Test af software}{37}{section.10.4}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}11}Resultater}{38}{chapter.11}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}1}Reresultater}{38}{section.11.1}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}2}Diskussion af resultater}{38}{section.11.2}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}12}Konklusion}{40}{chapter.12}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}13}Fremtidigt arbejde}{41}{chapter.13}
-\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}14}Bilag}{43}{chapter.14}
-\contentsline {chapter}{Litteratur}{44}{chapter*.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2}Softwarearkitektur}{24}{section.9.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2.1}Overordnet dom\IeC {\ae }nemodel}{24}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}9.}\color {RoyalBlue}2.2}Dom\IeC {\ae }nemodel for software}{24}{subsection.9.2.2}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}10}Design}{27}{chapter.10}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1}Hardwaredesign}{27}{section.10.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.1}Forst\IeC {\ae }rker}{27}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.2}Subtractor}{28}{subsection.10.1.2}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.3}Anti-aliaserings filter}{29}{subsection.10.1.3}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}1.4}Printplade}{29}{subsection.10.1.4}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}10.}\color {RoyalBlue}2}Softwaredesign}{30}{section.10.2}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}11}Implementering og test}{33}{chapter.11}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}1}Hardwareimplementering}{33}{section.11.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}2}Softwareimplementering}{34}{section.11.2}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}3}Test af hardware}{35}{section.11.3}
+\contentsline {subsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}3.1}Modultest}{35}{subsection.11.3.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}3.1.1}Forst\IeC {\ae }rker}{35}{subsubsection.11.3.1.1}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}3.1.2}Subtractor}{36}{subsubsection.11.3.1.2}
+\contentsline {subsubsection}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}3.1.3}Filter}{37}{subsubsection.11.3.1.3}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}11.}\color {RoyalBlue}4}Test af software}{38}{section.11.4}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}12}Resultater}{39}{chapter.12}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}12.}\color {RoyalBlue}1}Reresultater}{39}{section.12.1}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}12.}\color {RoyalBlue}2}Diskussion af resultater}{41}{section.12.2}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}13}Konklusion}{42}{chapter.13}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}14}Fremtidigt arbejde}{43}{chapter.14}
+\contentsline {chapter}{\chapternumberline {\color {RoyalBlue}15}Bilag}{45}{chapter.15}
+\contentsline {chapter}{Litteratur}{46}{chapter*.3}
