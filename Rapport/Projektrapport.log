@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.8)  17 DEC 2018 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.11.8)  17 DEC 2018 21:44
 entering extended mode
 **./Projektrapport.tex
 (Projektrapport.tex
@@ -2585,7 +2585,11 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 118.
  [41
 
- <./Resultater/Resultater/gris.png>])) (Konklusion/Konklusion.tex
+ <./Resultater/Resultater/gris.png>]
+("C:\Users\Trochmann\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-33.def
+"
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+))) (Konklusion/Konklusion.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2644,19 +2648,32 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-(Fremtidigt_arbejde/Fremtidigt_arbejde/Fremtidigt_arbejde.tex))
-(Bilag/Bilag.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [44
+(Fremtidigt_arbejde/Fremtidigt_arbejde/Fremtidigt_arbejde.tex
+Underfull \hbox (badness 1590) in paragraph at lines 4--7
+\T1/cmr/m/n/10.95 I vores program foregår processen med at gemme oplysninger fr
+a operation til sidst,
+ []
 
-]
+<fremtidigt_arbejde/fremtidigt_arbejde/mute_alarm_billede.png, id=561, 88.07906
+pt x 91.09032pt>
+File: fremtidigt_arbejde/fremtidigt_arbejde/mute_alarm_billede.png Graphic file
+ (type png)
+<use fremtidigt_arbejde/fremtidigt_arbejde/mute_alarm_billede.png>
+Package pdftex.def Info: fremtidigt_arbejde/fremtidigt_arbejde/mute_alarm_bille
+de.png  used on input line 16.
+(pdftex.def)             Requested size: 68.24722pt x 70.58034pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 24.
+[44
+
+ <./fremtidigt_arbejde/fremtidigt_arbejde/mute_alarm_billede.png>]))
+(Bilag/Bilag.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2752,10 +2769,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 30042 strings out of 493303
- 539557 string characters out of 3128044
+ 30257 strings out of 493303
+ 542318 string characters out of 3128044
  909878 words of memory out of 3000000
- 32872 multiletter control sequences out of 15000+200000
+ 33081 multiletter control sequences out of 15000+200000
  557418 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,12n,78p,1292b,914s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2783,9 +2800,9 @@ n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
 /cm/cmr10.pfb><C:/Users/Trochmann/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmr8.pfb><C:/Users/Trochmann/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Projektrapport.pdf (47 pages, 6562176 bytes).
+Output written on Projektrapport.pdf (47 pages, 6570889 bytes).
 PDF statistics:
- 1094 PDF objects out of 1200 (max. 8388607)
- 137 named destinations out of 1000 (max. 500000)
- 560 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1096 PDF objects out of 1200 (max. 8388607)
+ 138 named destinations out of 1000 (max. 500000)
+ 565 words of extra memory for PDF output out of 10000 (max. 10000000)
 

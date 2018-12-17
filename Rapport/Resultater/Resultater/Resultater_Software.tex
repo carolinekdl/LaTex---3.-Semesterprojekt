@@ -1,6 +1,6 @@
 \section{Resultater}
 
-Ud fra vores accepttest blev alle vores krav testet. Resultaterne giver et billede over hvilke funktioner som virkede optimalt, og hvilke der ikke gjorde. 
+Ud fra vores accepttest blev alle vores krav testet. Resultaterne giver et billede over hvilke funktioner som virkede optimalt og ikke gjorde. En mere detaljeret beskrivelse af udførelsen af accepttesten findes i dokumentet ”Accepttest”.
 
 \begin{table}[h!]
 	\centering
@@ -101,7 +101,7 @@ Ud over de ovenstående tests af funktionelle krav er der også blevet lavet acc
 	\end{tabular}
 \end{table}
 
-Gruppen fik lov til at komme ud på Skejby sygehus og afprøve blodtryksmåleren på en gris. Forsøget gik ikke helt som forventet. Vi havde forventet nogle større udsving og har efterfølgende fundet ud af, at filteret havde to forkerte modstande på printpladen. Dette var skyld i en for hård filtrering af signalet og er efterfølgende blevet ændret.
+Gruppen fik lov til at komme ud på Skejby sygehus og få koblet hele vores system til en operationsstue, hvor en gris var tilkoblet. Her fik vi sat systemet til, og målt på grisen. Målingen som blev fortaget på grisen med vores system ses nedenfor.
 
 \vspace{0.5 cm}
 \begin{figure}[h!]
@@ -113,16 +113,19 @@ Gruppen fik lov til at komme ud på Skejby sygehus og afprøve blodtryksmåleren
 
 \section{Diskussion af resultater}
 
-Accepttesten gik udmærket, og vi fik valideret vores krav. Accepttesen bestod af 5 Use Cases, hvor hver Use Case indeholdt flere krav, der skulle testes. De fleste af kravene blev imødekommet, dog var der også flere som ikke gjorde. Kravene der ikke blev imødekommet skyldtes prioritering af forskellige arbejdsopgaver, hvor det var blevet nødvendigt at lægge arbejdsindsatsen ind på, at få alle ”Must have” kravene opfyldt, som det første.
-Den første Use Case med ”Mål og vis blodtryk og puls” gik efter planen, og opfyldte alle de stillede krav. I denne Use Case var det de mest grundlæggende dele af vores system, som blev testet og var derfor prioriteret højt ift. at skulle bestå alle testene. Det lykkedes os at få foretaget en nulpunktsjustering samt at få vist blodtryk og puls på en graf via brugergrænsefladen, hvor grafen både kunne vises med digitalt filter og uden. 
+Accepttesten gik godt, og vi fik valideret vores krav. Accepttesen bestod af 5 Use Cases, hvor hver Use Case indeholdt flere krav, der skulle testes. De fleste af kravene blev imødekommet, dog var der også flere som ikke gjorde. Kravene der ikke blev imødekommet skyldtes prioritering af forskellige arbejdsopgaver, hvor det var blevet nødvendigt at lægge arbejdsindsatsen på, at få de mest relevante ”Must” krav opfyldt, som det første.
+Den første Use Case med ”Mål og vis” gik efter planen, og opfyldte alle de stillede krav. I denne Use Case var det de mest grundlæggende dele af vores system, som blev testet og var derfor prioriteret højt ift. at skulle bestå alle testene. Det lykkedes os at få foretaget en nulpunktsjustering samt at få vist blodtryk og puls på en graf via brugergrænsefladen, hvor grafen både kunne vises med digitalt filter og uden. 
 
-Use Case 2 ”Justering af grænseværdier” gik som vi havde forventet. Det lykkedes os at kunne justere forskellige grænseværdier, hvor der kom en fejlmeddelelse, hvis grænserne virkede usandsynlige høje/lave.  En overskridning af grænseværdierne viste sig også fint i ”statusboksen”, som blinkede rødt og gav en alarmeringsbesked. Det lykkedes os dog ikke at få udført en ændring af grænseværdierne mens vi fik et signal ind, da testen ikke kunne udføres med signalet fra væskesøjlen. Væskesøjlen giver en puls på 0, og vil derfor gøre det umuligt for os at teste på, da der ikke kan justeres på pulsen. I stedet skulle der have været brugt en analog discovery til at sende et signal ind.
+Use Case 2 ”Justering af grænseværdier” gik som vi havde forventet. Det lykkedes os at kunne justere forskel-lige grænseværdier, hvor der kom en fejlmeddelelse, hvis grænserne virkede usandsynlige høje/lave.  En over-skridning af grænseværdierne viste sig også fint i ”statusboksen”, som blinkede rødt og gav en alarmeringsbe-sked. Det lykkedes os dog ikke at få udført en ændring af grænseværdierne mens vi fik et signal ind, da testen ikke kunne udføres med signalet fra væskesøjlen. Væskesøjlen giver en puls på 0, og vil derfor gøre det umu-ligt for os at teste på, da der ikke kan justeres på pulsen. I stedet skulle der have været brugt en Analog Disco-very til at sende et signal ind.
 
-Use Case 3 ” Alarmering” blev testet parallelt med andre use cases idet de aktiverede alarmerne i forskellige sammenhænge. Vi valgte derfor ikke at lave nogle specifikke test af alarmen, udover hvor alarmen mutes. Når alarmen var i gang auditivt spillede tonerne c e g – g C, hvilket var det vi havde forventet. Samtidigt blinkede ”statusboksen” med en hertz på 2, og en duty cycle på 50%. 
+Use Case 3 ” Alarmering” blev testet parallelt med andre Use Cases idet de aktiverede alarmerne i forskellige sammenhænge. Vi valgte derfor ikke at lave specifikke test af alarmen, udover hvor alarmen mutes. Når alar-men var i gang auditivt spillede tonerne c e g – g C, hvilket var det vi havde forventet. Samtidigt blinkede ”sta-tusboksen” med en hertz på 2, og en duty cycle på 50%. 
 
-Det lykkedes os desværre ikke at gemme vores data, som planlagt i Use Case 4 ”Gem data”. Efter at have gået vores kode for ”gem data” grundigt igennem står det nu klart for os, hvorfor data’en ikke bliver gemt. I koden bliver der oprettet nye instanser af hver klasse, hver gang der skal gemmes noget data. Dette medfører at data’en fra den klasse, som der gerne skulle gemmes fra ikke bliver overført til klassen, hvor vi gerne vil gemme det. Resultatet af det er at vi ikke får gemt noget data.
+Det lykkedes os ikke at gemme vores data, som beskrevet i Use Case 4 ”Gem data”.  Det er ikke blevet muligt for os at gemme, fordi der oprettet nye instanser af hver klasse, hver gang der skal gemmes noget data. Dette medfører at data’en fra den klasse, som der gerne skulle gemmes fra ikke bliver overført til klassen, hvor vi gerne vil gemme det. Resultatet af det er at vi ikke får gemt noget data.
 Udover at have oprettet flere instanser af klasserne opstod der også problemer under serialisering af den gemte data. 
 
-Under testning af kalibreringen fandt vi ud af at vores system kalibrer korrekt, dog blev den lineære regression ikke udført korrekt.
+Under testning af Use Case 5 ”kalibreringen” fandt vi ud af at vores system kalibrer korrekt, dog bliver den lineære regression ikke udført korrekt, da vores regressions linjen ud fra de målte punkter ligger højere end forventet. 
 
-Accepttesten forløb godt trods de fejl, som er opstået. Systemet opfyldte alle vores ikke-funktionelle krav, og de fleste funktionelle krav til systemet blev imødekommet. Accepttesten giver et billede af hvad vi har prioriteret højtest af krav.
+Dermed har vores accepttest forløbet godt, da systemet opfyldte alle vores ikke funktionelle krav, og de fleste krav til systemet blev imødekommet, hvilket betyder at accepttesten har været en succes trods de fejl som er opstået under testen. Accepttesten har givet et meget godt billede af, hvad vi har prioriteret højt af krav.
+
+Resultatet fra Skejby sygehus var at grafen ikke viste så store udsving som forventet, og vi har derefter fundet ud af at det skyldes en forkert modstand i systemet. Systemet indeholdte en modstand på 510 kΩ, men skulle have været en 510 Ω modstand. Dette var skyld i en for hård filtrering af signalet. Denne fejl resulterede i at udsvingene blev dæmpet på grafen, og dermed ikke fik vist en korrekt graf.
+
