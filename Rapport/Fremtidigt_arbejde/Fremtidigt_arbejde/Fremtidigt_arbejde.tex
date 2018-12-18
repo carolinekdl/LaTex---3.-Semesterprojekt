@@ -1,17 +1,27 @@
+Fremtidigt arbejde
 I fremtidige versioner af blodtryksmåleren er der dele af systemet, som ville være oplagt at lave forbedringer af både i henhold til funktionalitet og brugervenlighed. 
 
 \textbf{Gemme-funktion}
-\\I vores program foregår processen med at gemme oplysninger fra operation til slut, hvilket er meget risikabelt idet at vi ikke imødekommer naturlige uforudsigelige fejl, såsom strømafbrydelse af systemet. Denne uheldige situation kan blive en mindre kritisk situation, hvis der i løbet af operation bliver gemt data hver 5. minut fremfor kun at gemme til sidst.
-Udover at det kunne være optimalt at gemme flere gange i løbet af en operation burde den fremtidige udgave også gøre det muligt at tilføje patienten til en database, hvor data’en kan blive gemt fremfor at gemme i en tekst fil. På den måde er alle målinger, der er blevet foretaget under operationen hele tiden koblet til patientens oplysninger. Ydermere ville det være ideelt, hvis der i programmet var mulighed for at indhente tidligere målinger en patient, når patienten er blevet tilføjet i systemet. Det vil gøre at man kan gå ind og analysere tidligere målinger. En sammenkobling med den elektroniske patientjournal ville gøre at alle målinger automatisk blev gemt i den pågældende patients journal og kunne være med til at optimere programmet.
+\\I vores program foregår processen med at gemme oplysninger fra operation til sidst, hvilket er meget risikabelt idet at der ikke imødekommes naturlige uforudsigelige fejl, såsom strømafbrydelse af systemet. Denne uheldige situation kan blive en mindre kritisk situation, hvis der i løbet af operation bliver gemt data hver 5. minut fremfor kun at gemme til sidst.
+Udover at det kunne være optimalt at gemme flere gange i løbet af en operation burde den fremtidige udgave også gøre det muligt at tilføje patienten til en database, hvor data’en kan blive gemt fremfor at gemme i en tekst fil. På den måde er alle målinger, der er blevet foretaget under operationen hele tiden koblet til patientens oplysninger. En sammenkobling med den elektroniske patientjournal ville gøre at alle målinger automatisk blev gemt i den pågældende patients journal og kunne være med til at optimere programmet.
 
 \textbf{Teknisk personale}
-\\Det tekniske personale har til opgave at udføre kalibreringen korrekt. Når der er tid til en kalibrering skal en fra det tekniske personale udføre kalibreringen uden at logge ind. For at optimerer denne proces ville det være godt, hvis der blev knyttet et ID til det tekniske personale. Dette vil gøre at det tekniske personale logger ind med et ID hver gang der skal foretages en kalibreringen, og dermed kant tracke, hvem der har udført processen.
+\\Det tekniske personale har til opgave at udføre kalibreringen korrekt. Når der er tid til en kalibrering skal en fra det tekniske personale udføre kalibreringen uden at logge ind. For at optimerer denne proces ville det være godt, hvis der blev knyttet et ID til det tekniske personale. Dette vil gøre at det tekniske personale logger ind med et ID hver gang der skal foretages en kalibreringen, og dermed kan tracke, hvem der har udført processen. Med fordel kunne der stå i status-boksen på vores GUI, hvornår sidste kalibrering er foretaget, så det tekniske personale kan holde styr på, hvornår kalibreringen skal gentages.
+
+\textbf{Symboler på brugergrænsefladen}
+\\Ifølge ISO-standarden 60601-1-8:2007, så er der krav til symbolerne der bruges på brugergrænsefladen. På vores brugergrænseflade benytter vi primært tekst i stedet for symboler, og det kunne derfor være en god idé i fremtiden at gøre brug af symboler i stedet for tekst. Nedenstående symbol er taget fra ISO-standarden 60601-1-8:2007, som er symbolet for at mute en alarm.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.15\linewidth]{fremtidigt_arbejde/fremtidigt_arbejde/mute_alarm_billede}
+	\label{fig:Mute_alarm_billede}
+	\caption{Mute alarm symbol}
+\end{figure}
+
 
 \textbf{Brugergrænseflade}
-\\Ifølge standarderne 60601-1-8, så er der nogle krav til symbolerne der bruges på brugergrænsefladen. På vores brugergrænseflade benytter vi primært tekst i stedet for symboler, og det kunne derfor være en god idé i fremtiden at gøre brug af symboler i stedet for tekst.
-
 Alt efter indretning af operationsrummet ville det være optimalt, hvis man skifte farven for baggrunden på brugergrænsefladen. Når systemet bliver anvendt om natten kunne det derfor være behageligt, for både patient og personalet at baggrunden er sort, da der vil være mindre lys fra skærmen. Der kunne med fordel vælges en lysere baggrund om dagen, så det er nemmere at se skærmen.
 
 \textbf{Hardware}
-\\Rent hardwaremæssigt kunne der laves nogle forbedringer i fremtiden. Først og fremmest kunne det være oplagt, hvis strømforsyningen kom fra computeren i stedet for at have Analog Discovery som strømforsyning. Dette vil gøre at systemet vil bestå af mindre dele, da Analog Discovery kan blive unødvendig idet computeren nu kan virke, som vores strømforsyning. For at det kan lade sig gøre kræver det, at printpladen laves større, så der er plads til en spændingsdeler på printet. Spændingsdeleren vil dele de 5 volt, som computeren afgiver så subtraktoren stadig får 2 volt.
-Vi har i vores printplade fået lavet 1 hul i hvert hjørne, så den er klar til at blive skruet fast inde i en boks, som vil have funktionen at beskytte vores printplade. Det kunne derfor være en smart ting at få udarbejdet i fremtiden.
+\\Rent hardwaremæssigt kunne der laves forbedringer i fremtiden. Først og fremmest kunne det være oplagt, hvis hele systemet blev kørt af en mikroprocessor, da det vil gøre systemet en hel del mere enkelt. En anden måde systemet ville blive formindsket på er, hvis der var brugt SMD-komponenter på printpladen i stedet for en instrumenteringsforstærker, da en SMD-komponent fylder mindre.
+Vi har i vores printplade fået lavet 1 hul i hvert hjørne, så den er klar til at blive skruet fast inde i en boks, som vil have funktionen at beskytte vores printplade for vand og støv. Det kunne derfor være en smart ting at få udarbejdet i fremtiden.

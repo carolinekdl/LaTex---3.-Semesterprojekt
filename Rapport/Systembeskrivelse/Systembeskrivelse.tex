@@ -3,21 +3,22 @@
 
 	\begin{figure}[h!]
 		\centering
-		\includegraphics[width=0.55\linewidth]{Systembeskrivelse/Systemoversigt}
+		\includegraphics[width=0.55\linewidth]{Systembeskrivelse/Systemoversigt2}
 		\caption{Systemoversigt}
 		\label{fig:Systemoversigt}
 	\end{figure}
 \vspace{1 cm}
 
 \section{Systembeskrivelse}
-På figur \ref{fig:Systemoversigt} ses systemoversigten for vores blodtrykmålesystem, der har til formål at kunne måle og vise en patients blodtryk og puls på en brugergrænseflade. 
+På figur \ref{fig:Systemoversigt} ses en systemoversigt over et blodtrykmålesystem, der har til formål at kunne måle
+og vise en patients blodtryk og puls på en brugergrænseflade. Der er valgt, at vise det endelige system, for hurtigt at ridse op hvad vi er noget frem til som slutprodukt. I de følgende kapitler uddybes der, hvordan vi er kommet frem til nedenstående system. 
 
 Systemet består af:
 
 \begin{itemize}
 	\item Tryktransducer
 	\item Forstærker
-	\item Subtraktor
+	\item Subtractor
 	\item Anti-aliaseringsfilter
 	\item AD-Converter (NI DAQ 6009 USB)
 	\item Computer
@@ -26,11 +27,15 @@ Systemet består af:
 	\item Brugergrænseflade	
 \end{itemize}
 
-Brugergrænsefladen er bygget op som et Graphical User Interface (GUI) hvorpå det målte blodtryk visualiseres kontinuert i form af en graf. Det systoliske-, diastoliske-, median blodtryk og puls vises i form af tal. Brugergrænsefladen består af knapper, der har forskellige funktioner. For nærmere beskrivelse af brugergrænsefladens funktioner henvises der til dokumentet kravsspecifikation. \clearpage
+Brugergrænsefladen er bygget op som et Graphical User Interface (GUI) hvorpå det målte blodtryk visualiseres kontinuert i form af en graf. Det systoliske-, diastoliske-, middel blodtryk
+og puls vises i form af tal. For nærmere beskrivelse af brugergrænsefladens funktioner henvises der til dokumentet kravsspecifikation. \clearpage
 
 \subsection{Alarmer}
-Systemet skal i henhold til standard 60601-1-8 vedrørende alarmering kunne alarmere ved eventuelle fejl eller ændringer. I forhold til brugssituationen af blodtrykmålesystemet vurderes det at systemet skal kunne alarmere, når der er fald eller stigning i blodtryk eller puls uden for de justérbare grænseværdier.
-Alarmen er en high priority, som alarmerer visuelt og auditivt. For krav til alarmen henvises til dokumentet kravspecifikation afsnit 1.12 og dokumentet for alarmspecifikationerne, som er udarbejdet ud fra standard ISO 60601-1-8: 2017.
+Systemet skal i henhold til standard, ISO 60601-1-8: 2007, vedrørende alarmering kunne alarmere ved
+eventuelle ændringer. I forhold til brugssituationen af blodtrykmålesystemet vurderes
+det at systemet skal kunne alarmere, når der er fald eller stigning i blodtryk eller puls uden for de justérbare grænseværdier.
+Alarmen er en high priority, som alarmerer visuelt og auditivt. For krav til alarmen henvises til dokumentet kravspecifikation afsnit 1.12 og dokumentet for alarmspecifikationerne, som er udarbejdet ud fra standard ISO 60601-1-8: 2007.
+
 
 
 \clearpage 

@@ -20,6 +20,6 @@
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}3}Mathias}{11}{section.4.3}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}4}Mikkel}{12}{section.4.4}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}5}Nicolai}{13}{section.4.5}
-\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}6}Sarah}{14}{section.4.6}
+\contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}6}Sarah Krohn Fenger}{14}{section.4.6}
 \contentsline {section}{\numberline {\leavevmode {\color {RoyalBlue}\color {RoyalBlue}4.}\color {RoyalBlue}7}Thea}{15}{section.4.7}
 \contentsline {chapter}{\chapternumberline {\color {RoyalBlue}5}Konklusion}{16}{chapter.5}

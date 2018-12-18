@@ -3,33 +3,25 @@ I kravspecifikationen er der beskrevet de ikke-funktionelle krav vha. MoSCoW- mo
 
 INDSÆT BILLEDE HER
 
-I ovenstående tabel ses vores de MoSCoW krav, som er implementeret på vores system.
+I ovenstående tabel ses nogle af vores MoSCoW krav, som er implementeret i vores system. For flere must have krav henvises der til kravsspecifikationen. Disse er valgt ikke at blive repræsenteret i tabellen, da disse testes gennem use casene.
 
-Vores fokus har været invasiv blodtryksmålingen, og derfor har vi valgt ikke at prioritere at
+Vores fokus har været invasiv blodtryksmåling, og derfor har vi valgt ikke at prioritere at
 implementere fx EKG-måling. Vores won't have krav lyder derfor således, ”Systemet kan ikke
 vise andet end blodtryksmålingen samt angive puls, diastolisk/systolisk blodtryk (F)”.
 
+
 De softwaremæssige afgrænsninger i systemet er blandt andet, at der ikke kan hentes, samt åbnes
-en tidligere måling fra en fil. Herudover har vi valgt at gemme målingens værdier i en fil, frem
-for i en database. Ift. brugssituationen, ville det give god mening at benytte både en fil og en
-database, da data kan tilgås og ses fra flere enheder. Eftersom det at gemme i en fil er et must
-have krav, er det blevet prioriteret højere at opfylde dette end could have kravet om at gemme i
-en database. Yderligere er et could have krav, at systemet kunne have et lydsignal ved afsluttet
-blodtryksmåling, dette blev dog ikke prioriteret, da det kun var et could have krav. Derimod er
-det prioriteret, at systemet skal kunne beregne og vise middelblodtrykket på GUI'en. Dette er et
-must have krav, da man gennem en operation skal have en indikation på, hvordan blodtrykket
-for patienten ligger. Systemet er en prototype, hvor softwaren kræver en PC som kan køre Visual Studio, hvor det til fremtidigt arbejde ville være oplagt at lægge softwaren på en mikroprocessor.
+en tidligere måling fra en fil. Det vil i forhold til brugssituationen give god mening både at benytte en fil og en database til dette, da data kan tilgås og ses fra flere enheder. Dog eftersom det at gemme i en fil er et must have krav, er det blevet prioriteret højere at få denne funktion opfyldt end could have kravet om at gemme i en database. \newline
+Yderligere er et could have krav, at systemet kunne have et lydsignal ved afsluttet blodtryksmåling, dette blev dog ikke prioriteret, da vi fandt andre alarmer mere relevante.
+Systemet er en prototype, hvor softwaren kræver en PC som kan køre Visual Studio, og kan derfor ikke køres på andre enheder. \newline
+Systemet kræver, at man manuelt foretager en nulpunktsjustering inden hver måling igangsættes, for at sikre sig at man ikke måler det atmosfæriske tryk med i beregningerne. Sker dette ville vores system ikke kunne beregne de korrekte værdier, hvilket gør dette krav til et must have. Endnu et must krav er, at der årligt skal laves en kalibrering af systemet, for at sikre en vedvarende præcision af systemet. Dette foretages af en teknisk person, som sørger for at et kendt tryk svarer til en kendt spænding, således systemet måler korrekt.
 
-Det er nødvendigt at man manuelt skal foretage en nulpunktsjustering inden hver måling
-igangsættes, for at sikre sig at man ikke måler det atmosfæriske tryk med i beregningerne. Sker dette ville vores system ikke kunne registrere værdierne, da vi har bygget systemet efter at kunne håndtere et max tryk på 250 mmHg. Derfor er dette et must krav. Endnu et must krav er, at der årligt skal laves en kalibrering af systemet, for at sikre en vedvarende præcision af systemet. Dette
-foretages af en teknisk person, som sørger for at et kendt tryk svarer til en kendt spænding,
-således systemet måler korrekt. Hardwaren er følsom overfor vand og støv, da der ikke er prioriteret at bygge en boks til at skjule printpladen. Derudover kræver hardwaren at Analog Discovery bruges som power supply.
 
+Hardwaren er følsom overfor vand og støv, da der ikke er prioriteret at bygge en boks til at skjule printpladen. Derudover kræver hardwaren at Analog Discovery bruges som power supply, da den leverer både -5 V, 5 V, 2 V samt stelforbindelse til printpladen. \newline
 Der er valgt en række værdier ifm. udviklingen af hardwaren, hvilket gør at den er begrænset
-i forhold til hvilke størrelser af værdier den kan håndtere. Forstærkeren kræver specifikke
+i forhold til hvilke størrelser af spændinger den kan håndtere. Forstærkeren kræver specifikke
 modstande, for at operationsforstærkeren skal forstærke op til de 4 V, som vi har valgt vores
-system skal kunne. Derudover skal systemet benytte en tryktransducer med en sensitivitet
-på 5,0 μV/(V*mmHg), da forstærkningsfakotoren er beregnet ud fra denne, og dermed er
-modstandsvalget afhængig af en tryktransducer med en sensitivitet på 5,0 μV/(V*mmHg).
+system skal kunne, for at kunne udnytte alle 14 bits på AD-converteren. \newline
+Derudover skal systemet benytte en tryktransducer med en sensitivitet på 5,0 μV/(V*mmHg), da forstærkningsfaktoren er beregnet ud fra denne, og dermed er modstandsvalget afhængig af en tryktransducer med en tilsvarende sensitivitet.
 
 \clearpage
